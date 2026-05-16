@@ -14,5 +14,5 @@ Find duplicates
 Might want to change the Cocoa Percentage to an integer for plotting purposes.  
 Find min and max of Cocoa Percentage
 Find min and max of Review Date 
-See how Review Data column is relevant to analysis
+See how Review Date column is relevant to analysis
 Use .replace() to replace the null values in the ingredients column
