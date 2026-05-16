@@ -1,0 +1,18 @@
+Is there a difference in ratings between chocolate that contains an alternative sweetener vs that with cane/beet sugar?
+Do certain combinations of characteristics have higher ratings?
+What is the distribution of bean types across countries/regions?
+What is the distribution of chocolate manufacturers across countries/regions?
+Is there a relationship between cocoa percentage and other column values?
+Could I separate out years? 
+Do ratings increase or decrease over time?
+What are the characteristics of the highest-rated chocolate bars? What about the lowest-rated bars?
+Could I separate out specific characteristics?
+Could I separate out specific ingredients?
+
+
+Find duplicates
+Might want to change the Cocoa Percentage to an integer for plotting purposes.  
+Find min and max of Cocoa Percentage
+Find min and max of Review Date 
+See how Review Data column is relevant to analysis
+Use .replace() to replace the null values in the ingredients column
