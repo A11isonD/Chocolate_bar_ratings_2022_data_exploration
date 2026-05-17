@@ -15,10 +15,13 @@ This project explores rating trends for various chocolate bars based on their in
 1. Clone this repository.
 
 2. Install the required Python packages:
+
     pip install -r requirements.txt
 
 3. Open the following two files in a Jupyter notebook.
+
     chocolate_bar_ratings_exploration.ipynb 
+
     chocolate_bar_ratings_plots.ipynb
 
 
