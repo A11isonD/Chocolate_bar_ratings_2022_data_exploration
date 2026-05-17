@@ -11,7 +11,7 @@ This project explores rating trends for various chocolate bars based on their in
 
 ## Usage
 
-```python
+
 1. Clone this repository.
 
 2. Install the required Python packages:
@@ -21,21 +21,21 @@ This project explores rating trends for various chocolate bars based on their in
     chocolate_bar_ratings_exploration.ipynb 
     chocolate_bar_ratings_plots.ipynb
 
-```
+
 
 ## Example Output
 
-```python
+
 One insight from this analysis indicates that most of the chocolate bars with 60-80% cocoa had ratings between 2.5 - 4.0.
 
-```
+
 
 ## Data Sources
 
-```python
+
 Chocolate_bar_ratings_2022.csv (provided in repository)
 
-```
+
 ## Authors
 
 - [Allison Dobbs, Data Analysis Student at Code:You](https://github.com/A11isonD/Chocolate_bar_ratings_2022_data_exploration)
