@@ -39,3 +39,5 @@ plt.ylim(ymin = 1, ymax = 50 or whatever you want the max to be)
 
 Things to refine:
 - Change the histogram x-axis 'Rating' to .25 increments. Right now it's .5. https://matplotlib.org/stable/users/explain/axes/axes_ticks.html
+
+colors = ['#2E2585', '#337538', "#5DA899", '#94CBEC', "#DCCD7D", '#C26A77', "#9F4A96", "#7E2954" ]
