@@ -1,0 +1,2589 @@
+,characteristics,rating,REF
+0,"rich cocoa, fatty, bready",3.25,2454
+1,"cocoa, blackberry, full body",3.75,2454
+2,"cocoa, vegetal, savory",3.5,2458
+3,"chewy, off, rubbery",3.0,2542
+4,"milk brownie, macadamia,chewy",3.5,2542
+5,"fatty, earthy, moss, nutty,chalky",3.0,2546
+6,"mildly bitter, basic cocoa, fatty",3.25,2546
+7,"vegetal, nutty",3.5,797
+8,"fruity, melon, roasty",3.75,797
+9,"brief fruit note, earthy, nutty",2.75,1011
+10,"sticky, red fruit, sour",3.0,1011
+11,mild tobacco,3.25,1011
+12,"sandy, nutty, cocoa, fig",3.75,1011
+13,"burnt rubber,alkalyzed notes",2.75,1015
+14,"sticky, smokey, grass",3.0,1015
+15,"mild fruit, strong smoke",3.25,1015
+16,"oily, nut, caramel, raspberry",4.0,1015
+17,"green, nutty, cocoa",3.25,1019
+18,"cocoa,sour,intense tangerine",3.5,1019
+19,"sweet, cocoa, tangerine",4.0,1019
+20,"harsh, leather, earthy",2.75,1315
+21,"sliglty dry, papaya",3.5,1315
+22,"nutty, mild choco, roasty",3.5,1315
+23,"astringent, nutty, chocolatey",3.75,1319
+24,"delicate, hazelnut, brownie",4.0,1319
+25,"burnt wood, earthy, choco",2.75,1676
+26,"roasty, acidic, nutty",3.0,1676
+27,"mild profile, chocolaty, spice",3.5,1680
+28,"grainy texture, cocoa, sweet",3.5,1704
+29,"sweet, chocolatey, vegetal",3.75,1876
+30,"alluring aroma, powdery,nutty",3.5,2206
+31,"sweet, dairy, spice, cocoa",3.75,2206
+32,"light color, fruit, yogurt",4.0,2648
+33,"smoke dominates, hint of fruit",3.75,2712
+34,"green banana, roasty, cocoa",3.5,2712
+35,"woody, honey, leathery",2.75,2716
+36,yellow fruit,3.75,1462
+37,"intense, nutty, cherry, cocoa",3.75,1470
+38,"herbal, molasses, hammy",3.25,2462
+39,"hot cocoa, rich, molasses",3.5,2470
+40,"sweet, sublte strawberry",2.75,705
+41,spicy and candy-like,3.25,705
+42,"orange, floral, lemon",3.5,705
+43,cocoa and powerful tang,3.5,705
+44,"unrefined, sweet, metallic",2.5,2438
+45,"basic, sweet, cocoa, woody",2.75,2438
+46,"sandy, woody, spicy, sweet",3.0,2438
+47,"sweet, cocoa, rubbery",2.75,2442
+48,"sandy, sweet, banana cream",2.75,370
+49,"roasty, nutty, coffee",3.0,370
+50,"gritty, spice, cocoa",3.0,316
+51,"strong pepper, musty",2.75,502
+52,"fatty, intense, woody",2.75,508
+53,"hay, nut, berry",3.75,636
+54,"sandy, dirt, ashey",2.5,1061
+55,"cardboard, dirt, roasty",2.5,1173
+56,"roasty, sweet, savory",2.75,1215
+57,"nutty, roasty, odd dairy",2.75,1215
+58,"citrus, fatty, dairy",3.0,1215
+59,"strawberry, cream, gateway",3.5,1992
+60,"sandy, green, floral",3.5,1944
+61,"sandy, sweet, nibby",3.5,1944
+62,"sandy, melon, banana",3.5,1944
+63,"sandy, sweet, roasty",3.5,1944
+64,"sweet, moldy, off",2.5,1125
+65,"sandy, sweet, dairy, spice",3.0,1125
+66,"gritty, berry, mild bitter",3.25,1129
+67,"grit, sweet, caramel, fruit",3.0,1133
+68,"gritty, too sweet, fruit",3.25,1133
+69,"powdery, sweet, molasses",2.75,1728
+70,"dry, sweet, caramel",3.0,1728
+71,"sandy, sweet, pungent",2.5,1732
+72,"sandy, sweet, sour, off",2.5,1732
+73,"sandy, nutty, earthy, roasty",2.75,1732
+74,"sweet, coarse, nutty",3.0,2044
+75,"spice, nut, cocoa, fruit",3.5,129
+76,"waxy, nutty, mint",3.0,147
+77,"spicy, strawberry",3.75,175
+78,"sticky, nutty, high acidity",2.75,304
+79,"hot spice, roasty",3.0,363
+80,"orange, cinamon",3.75,470
+81,"strong spice, intense pepper",4.0,470
+82,"woody, red berry, sour",3.0,544
+83,"tart, lemon, smoke",4.0,725
+84,"dry, chalky, fudge-like",3.0,322
+85,"waxy mouthfeel, spicy",2.75,327
+86,"fatty, mushroom, off notes",2.75,464
+87,"roasty,oddly sweet,marshmallow",3.0,464
+88,"raisins, pungent",3.0,1964
+89,"few grits, blackcherry, licorice",3.5,1964
+90,"oily, vanilla, melon, cocoa",3.25,1145
+91,"oily, vegetal, nutty, cocoa",3.5,1145
+92,"roasty, brownie, nutty",3.0,1494
+93,"fruity, sour",3.25,1494
+94,"high roast, high astringnet",3.25,1498
+95,"smokey, savory",3.25,1498
+96,"sandy, roasty, nutty",3.25,1498
+97,"rich, sour, mild smoke",3.5,1498
+98,"red wine, rich cocoa, long",3.75,75
+99,"creamy, earthy, vegetal",3.0,123
+100,"sandy, woody, spicy",3.0,123
+101,fruity with coffee notes,3.5,123
+102,"creamy, fruit, cocoa",3.75,123
+103,"coffee, fruit, woodsy",3.5,129
+104,"fatty, dairy, caramel, cocoa",3.5,170
+105,"creamy, raspberry, nutty",3.75,979
+106,"vanilla, mint, roasty",3.0,2088
+107,"vanilla, nuts, roasty",3.0,2088
+108,"nutty, mild roasty, vanilla",3.0,2092
+109,"sweet, delicate, complex",3.5,2092
+110,"nut, fatty, rubbery, rich",2.75,2434
+111,"creamy, red berry, bitter",2.75,572
+112,"very sweet, bright red, banana",3.75,572
+113,"roasty, fatty, nutty, coffee",3.75,572
+114,"creamy, sweet,cocoa,banana",4.0,572
+115,"grainy, sweet, poor aftertaste",3.25,1065
+116,"chalky, mild fruit, burnt",3.0,1259
+117,"light roast, caramel, cocoa",3.5,1852
+118,"burnt toast, cherry",3.0,2586
+119,"orange citrus, harsh earthiness",3.25,2586
+120,"sandy, fruity, short",3.0,1375
+121,"earthy, sour milk, leather",2.5,1379
+122,"bitter, floral, leather",2.75,1379
+123,"nutty, mild spice, mild earthy",3.0,1379
+124,"creamy, rich, rum, roasty",3.5,1534
+125,"floral, nutty, rich cocoa",3.5,1534
+126,"spicy, cocoa",3.75,1534
+127,"spicy, brownie, nutty",3.5,1598
+128,"floral, strawberry, metallic",3.75,1598
+129,"creamy,sticky, peanut butter",4.0,1598
+130,"floral, chemical off",2.75,1602
+131,"strawberry, butterscotch, off",3.25,1602
+132,"intense, floral, bourbon",3.5,1602
+133,"delicate, simple",3.5,1724
+134,"appealing smoke, woody",3.75,1724
+135,"cashew, roasty, chunky melt",3.5,1900
+136,"sticky, floral, roasty",3.25,1904
+137,"chewy, mild floral",3.25,1904
+138,"subtle, mysterious",3.5,1904
+139,"muddy, rich cocoa, raspberry",3.75,1904
+140,"nutty, green",3.5,1908
+141,"balanced, cherry, choco",4.0,1908
+142,"creamy, complex, balanced",4.0,1924
+143,"smoke, hammy, cocoa base",3.25,1928
+144,"earthy, nutty, cardboard",3.25,1928
+145,"dark berry, chocolatey",3.75,1928
+146,"slight roasty, basic cocoa",3.5,2020
+147,sour fruit,3.5,2020
+148,"rich cocoa, mild roasty",3.5,2020
+149,"creamy, bright fruit",4.0,2024
+150,"dried fruit, fig, anise",3.5,2028
+151,"long lasting, cocoa",4.0,2028
+152,"nuts, dried fruit, short",3.0,2068
+153,"smooth, nutty, cocoa",4.0,2254
+154,"herbs, mushroom, acidic",3.25,2330
+155,"burn butterscotch, rubbery",3.0,2450
+156,"melon, late hammy",3.25,2162
+157,"smooth, vegetal",3.5,2162
+158,"roasty, rich cocoa",3.5,2162
+159,"cocoa, earthy, hammy",3.0,2166
+160,"spicy, minty, vegetal",3.75,300
+161,"oily, nutty, burnt, sour",2.5,355
+162,"gritty, very smokey, sour",2.75,355
+163,"cocoa, dominate off note",1.75,363
+164,"sl. bitter, cherry, rich",3.0,363
+165,"spicey, mild metallic",3.0,363
+166,"spice, cocoa, short",3.25,363
+167,"very nutty, very bitter",1.75,486
+168,"grassy, black licorice, mint",3.75,531
+169,"chewy, grassy, nutty",3.25,600
+170,"unrefined, distinct spicey",3.25,600
+171,black pepper and banana,3.5,600
+172,"nuts, butterscotch, brownie",4.0,729
+173,"blackpepper,chemical,rubber",2.75,745
+174,"marshmallow, roasty, nutty",3.75,947
+175,"gritty, nutty",3.25,1193
+176,"creamy, marshmallow, off",2.75,1181
+177,"cinamon, nutmeg, fatty",3.25,2562
+178,"strawberry, sour",3.25,2562
+179,"caramel, sour milk",3.5,2566
+180,"leather, black licorice, off",2.5,141
+181,"smooth, astringent, cocoa",3.0,175
+182,"strawberries, mild tart, roasty",3.75,331
+183,"creamy, woody, cocoa",3.75,647
+184,"grapes, woody, roasty",3.75,661
+185,"creamy, rich, blueberry",3.75,1780
+186,"off aroma,vegetal,honey,sandy",3.0,2434
+187,"sandy, vanilla",2.75,2056
+188,"waxy, dried fruit",3.0,2056
+189,"sandy, roasty, nutty",3.0,2056
+190,"long, bright fruit, sweet, sour",3.5,2056
+191,"chemical, spice, earthy",2.5,2672
+192,"intense, sour tart plum, rubber",3.0,2672
+193,"unrefined, flat, grassy",3.0,995
+194,"chalky, intense, chemical",2.5,999
+195,"chalky, fragrant, then off",2.5,999
+196,"coarse, smokey, metallic",3.25,1474
+197,"smoke, ham, papaya",3.5,1474
+198,"bland, sugary, large grits",3.0,2146
+199,"molasses, caramel, pungent",2.75,1454
+200,"black pepper, cardamom",3.5,1454
+201,"gritty, fatty, sour, off",2.5,2290
+202,"bitter, fatty, mild fruit",2.75,2294
+203,"base cocoa, mild fruit, roasty",3.25,2294
+204,"complex,black pepper,coffee",3.25,983
+205,"molasses,toffee,coffee grounds",3.5,983
+206,"raspberry, mild sour",3.75,983
+207,"creamy, rounded, orange",4.0,1295
+208,"intense, smokey, dried fruit",3.5,1554
+209,"slightly dry, cocoa, berry",3.5,1980
+210,"intense, tangy, alcohol",3.5,1980
+211,"gritty, floral, vanilla",2.75,955
+212,"sweet, honey, earthy, cocoa",3.25,2736
+213,"creamy, sweet, fudgey",3.5,1840
+214,"strawberry, candy flavor",3.75,1868
+215,"sandy, floral, sweet",3.25,1880
+216,"strong vanilla, off notes",2.25,2374
+217,"caramel, spice, earthy",3.0,1948
+218,"smokey, woody, tobacco",3.25,1948
+219,"intense, bitter, dry",2.75,1784
+220,"sandy, sweet, molasses",2.75,1784
+221,"intense, floral, black pepper",2.75,1784
+222,"intense floral, bitter, earthy",2.75,1788
+223,"pastey, nutty",2.75,586
+224,"intense, smokey",2.75,586
+225,"sticky, moss, nuts",2.75,586
+226,"dry, cinamon, nutmeg",3.5,586
+227,"sticky, delicate, melon",3.5,1800
+228,"oily, complex, pungent",3.25,1804
+229,"caramel, mild dried fruit",3.5,1864
+230,"high acidity, nutty, roasty",3.25,2190
+231,dominate cocoa notes,3.75,2648
+232,"unbalanced, tangy, pungent",2.75,1768
+233,"sweet, nibby, green",3.0,1768
+234,"balanced, complex, berry",3.5,1768
+235,"gummy, roasty, fatty",3.0,2246
+236,"gummy, fatty, sour",3.0,2246
+237,"off aroma, smokey, off note",3.0,2246
+238,"smokey, raspberries, cocoa",4.0,757
+239,"intense,red berry,strawberry",3.75,773
+240,"tobacco, dairy, sour",3.5,1141
+241,"nutty, roasty, dairy",3.5,1141
+242,"mocha, intense, sweet",3.5,1141
+243,cinamon and nutmeg,4.0,1141
+244,"floral, melon, spicy",3.5,2744
+245,"delicate, nutty, caramel, sl. Off",3.0,2744
+246,"sweet, vanilla, cocoa",2.75,797
+247,"creamy, macadamia, pepper",3.25,508
+248,"nutty, light toffee, mild musty",3.25,508
+249,"ham-like, smokey, banana",3.5,508
+250,"dark cocoa, spicy pepper",3.5,508
+251,"chunky, nutty, banana",3.0,636
+252,"bitter then nutty rustic, earthy",3.0,636
+253,"creamy, banana, rich",3.5,636
+254,"creamy, nutty, cocoa",4.0,636
+255,"bitter, molasses, flour",2.5,1482
+256,"molasses, metallic, earthy",2.5,1486
+257,"sour, tart, molasses",2.5,1486
+258,"mild bitter, diluted, vanilla",3.25,1486
+259,"smooth texture, earthy, nutty",3.5,2084
+260,"gritty, spicy, earthy",3.0,2088
+261,"fatty, bland, nutty",3.0,2088
+262,"rich cocoa, red berry, sour",3.0,233
+263,"intense, rum, tea",3.5,233
+264,"nutty, astringent",3.75,233
+265,"nutmeg, sour",3.0,256
+266,"chalky, strong, harsh smoke",3.0,414
+267,"intense marshmallow, cocoa",3.5,414
+268,"rustic, red berry, woody",3.25,423
+269,chocolate covered cherries,3.5,431
+270,"dry, cardamom, medicinal",3.25,478
+271,"robust, cocoa, fruity",3.75,502
+272,"pastey, off spicey, nutty",2.75,558
+273,"red berry, strong wine, sour",3.0,565
+274,"nutty, mild bitter",3.0,565
+275,"roasted nuts, rich, roasty",3.5,963
+276,"floral, molasses, chemical",3.0,2108
+277,"molasses, earthy, spicy",3.0,2114
+278,"sweet, sour milk",3.25,2114
+279,"off, rubbery, burnt molasses",2.75,2422
+280,"unrefined, fruity",2.75,256
+281,"sweet grass, muted spice",2.75,256
+282,"rich, leather, woodsy",3.0,256
+283,"bright fruit, crisp nibs, cocoa",3.75,2574
+284,"fatty, nutty",2.75,1331
+285,"burnt caramel, cocoa, floral",3.25,2590
+286,honey with subtle tobacco,3.25,2590
+287,"oily, flat, woody, sour",2.75,322
+288,"complex, fruity, mild bitter",3.5,1046
+289,"chewy, complex,black pepper",3.5,911
+290,"gritty, tart red berry,powerful",3.75,911
+291,"sandy, tart, sour, sweet",3.5,1740
+292,"roasty, coffee, earthy",2.75,1752
+293,"bready, melon",3.5,1752
+294,"astringent, sour, coffee",3.0,1756
+295,pungent off flavor,2.75,1996
+296,"sweet, dirty, off notes",2.5,2290
+297,"sweet, fruit, chemical off note",2.75,2290
+298,"grassy, savory, sour",3.25,2290
+299,"spice, woodsy, long lasting",3.75,24
+300,"sandy, creamy, berry",3.75,32
+301,"creamy, fatty, floral",4.0,48
+302,"mellow, tart, coffee",3.75,75
+303,"acidic, bitter, dry",1.5,81
+304,"vegetal, dominant tobacco",3.0,81
+305,"creamy, coconut, tang",4.0,81
+306,"dry, floral, bitter",2.5,123
+307,"creamy, strawberry, nutty",4.0,199
+308,"oily, intense cocoa, sl. Burnt",3.0,331
+309,"flat, bread, earthy",2.75,336
+310,"mild bitter, nut, possible mold",3.0,336
+311,"fatty, roasty, earthy",3.0,395
+312,"fatty, raisin, grape",3.5,629
+313,"roasty, woody, mint",3.5,629
+314,"creamy, cocoa, smokey",3.5,629
+315,"chunky, very grassy, mild mint",3.75,629
+316,"grassy, black pepper",4.0,629
+317,"fatty, spicy, gentle roast",4.0,629
+318,"oily,fatty, rich, nutty",3.5,672
+319,"oily, creamy, woody",3.25,761
+320,"oily, roasted nuts, rich cocoa",3.5,1038
+321,"fatty, roasty, black pepper",3.25,1042
+322,"creamy, homey, nutty",4.0,1339
+323,"roasty, tobacco, earthy",3.25,1418
+324,"complex, brownie,mint, spice",3.75,1418
+325,"heavy roast, fatty, gateway",3.5,1912
+326,"oily, subtle, mild coffee",4.0,2246
+327,"creamy, rich, complex",4.0,2250
+328,"bold, woody, nut, roasty, creamy",3.75,2554
+329,"sticky, lavendar, molasses",3.25,316
+330,"cardboard, very bitter, floral",1.5,341
+331,"sandy, vanilla, candy-like",2.75,1267
+332,"gritty, sweet, mild coffee",2.75,1271
+333,"nuts, fruit",4.0,2096
+334,"sweet, rich mocha, acidic",3.75,2194
+335,"balanced, floral, honey",3.5,2254
+336,"very sweet, melon, caramel",3.0,2542
+337,"oily, vanilla, caramel, dairy",3.0,1125
+338,"intense, alocohol, floral",3.25,1125
+339,"fatty, brownie, nutty",3.5,1129
+340,"intense, cooked banana",3.5,1129
+341,"intense, cocoa, complex",3.75,1255
+342,"intense, raisins, roasty",4.0,1355
+343,"complex, brownie, lime, rich",3.75,1462
+344,"nutty, slight hammy, rich",3.5,1868
+345,"simple, rich cocoa",3.75,1868
+346,"earthy, cherries",3.25,1980
+347,"sandy, floral, honey",3.75,1984
+348,"roasty, sweet, brownie",3.0,1514
+349,"bitter, dark berry, fatty",3.25,1514
+350,"tart, tea, leather, sour",3.5,1514
+351,"bitter, tart, acidic",2.75,1518
+352,"mild smoke, raisins, coffee",3.25,1518
+353,"citrus, sweet, cocoa",3.25,1518
+354,"chalky, sandy, tart, bland",3.0,1149
+355,"sweet, mild molasses, bland",3.0,1231
+356,"spicy, black pepper, banana",3.5,1231
+357,"floral, banana",3.5,1231
+358,"fatty, sweet, metallic",2.75,1235
+359,"powdery, floral, molasses",3.25,1638
+360,"gritty, sweet, brownie",2.75,1181
+361,"dirt, earthy, floral",2.5,2052
+362,roasty and under refined,3.0,2052
+363,"high roast, coffee, spicy",3.25,1299
+364,"floral, mild citrus, orange",3.5,1299
+365,"roasty, fruit, mild metallic",3.25,1303
+366,"coffee, high roast, spicy",3.25,1303
+367,"sweet, sour dairy",2.5,1323
+368,"smokey, sour",3.0,2314
+369,"molasses, sour notes",3.25,2274
+370,base cocoa w/ palm notes,3.5,2274
+371,"vegetal, unique",3.5,2266
+372,subtle but refreshing,3.75,2266
+373,"off pungent, grassy, melon",3.0,2330
+374,"dirt, floral, sweet",2.5,1606
+375,"oily, buttery, intense",2.5,502
+376,"creamy, burnt wood",2.75,502
+377,"over roasted, bitter, nutty",2.25,600
+378,"roasty, almost burnt, intense",2.5,1215
+379,"sandy, dairy, cocoa",2.0,141
+380,"creamy, woody, cocoa",3.0,147
+381,"dry, flat flavor, astringent",2.0,300
+382,"spice, fruit medley, roasty",3.0,586
+383,"gritty, sweet, citrus",3.5,1716
+384,"light color, dirty, musty",2.5,2226
+385,"light color, creamy, hazelnut",3.75,2226
+386,"light color, dirty, astringent",3.0,2230
+387,"intense, earthy, fuel",2.5,1391
+388,"nutty, intense, leathery",3.25,1391
+389,"bright fruit, strawberry",3.5,1391
+390,"fruity, nutty, brownie",3.75,1395
+391,"intense, black licorice, nutty",3.25,1668
+392,"assertive, fruity, acidic",3.5,1688
+393,"spicy, nutty, ends sour",3.25,1692
+394,"sandy, chalky, earthy",2.75,2238
+395,"high astringent, sandy, grass",2.5,2278
+396,"raspberry, dirty, sour",3.0,2278
+397,"poor texture, earthy",3.0,2076
+398,"intense, marshmallow, fruit",3.5,1430
+399,"earthy, woody, smoke",3.5,1430
+400,"green, vegetal, soil, fuel",2.75,1434
+401,"intense, spice",3.25,1434
+402,"rich, nutty, acidic",3.75,1662
+403,"distinct, short, dried fruit",3.75,1816
+404,"mild cocoa, astringent",3.75,1816
+405,"deep cocoa, fatty, dairy",3.5,1860
+406,"rustic, sweet, one dimensional",3.0,641
+407,"creamy,blueberry,black pepper",3.75,641
+408,"rustic, gritty, sweet, fruit",3.25,647
+409,"oily, cherry, rich cocoa",3.75,991
+410,distinct lemon,4.0,336
+411,"creamy, nutty, banana, rich",4.0,346
+412,"creamy, earthy, dark roast",3.5,508
+413,"creamy, mild spice, hazelnut",3.75,523
+414,"creamy, mild spice, cocoa",4.0,523
+415,"silky, ""Andes"" mint, off nutty",3.25,537
+416,"gritty, fudge-like, nutty",3.5,537
+417,"intense, roasty, rich cocoa",3.5,537
+418,"rich, cherries, acidic",3.5,1908
+419,"cocoa butter dominates, cocoa",2.75,2510
+420,"intense,sweet,vanilla dominate",2.75,2510
+421,"cocoa base, sweet, earthy",3.0,2510
+422,"sour milk, off, late tart",3.0,1684
+423,"dried fruit, sour, nutella",3.25,1684
+424,"balanced, dairy, spicy",3.5,1684
+425,"high astringent, earthy",3.0,2084
+426,"creamy, complex, astingent",3.25,2084
+427,"floral, rum",3.5,2084
+428,"herbal, cocoa tea",3.5,2610
+429,chocolate and grapes,4.0,2610
+430,"complex, floral, spicy, fruit",3.5,2614
+431,"smooth, slow, mild grape",3.5,2614
+432,"sandy, sweet, bold citrus",3.5,237
+433,"dry, spicy, fruity",3.5,237
+434,"cloying, fatty, bitter",2.5,245
+435,"klingy, hint of fruit, very bitter",1.5,259
+436,"bitter, cocoa",1.0,141
+437,"sweet, metallic, vanilla",2.75,296
+438,burnt up front,2.25,749
+439,"burnt coffee, fatty",2.5,765
+440,"nutty, ashey, coffee",3.0,809
+441,"fatty, controlled bitter, fruit",3.5,1185
+442,"intense, ashey, earthen",2.5,1442
+443,"intense, fatty, brownie",3.0,1442
+444,"oily surface, berry, cream",3.5,1442
+445,"nutty, burnt, fuel",2.5,1804
+446,"sweet, acidic, fatty",2.75,1804
+447,strong nutty with off notes,3.0,1804
+448,"sandy, bold, cherry",3.0,1808
+449,"dairy, chocolate, mild fruit",3.25,1808
+450,"spice, oats, nutty, fatty",3.25,2558
+451,"spice, honey, fatty",3.25,2558
+452,"single note of cocoa, fatty",3.5,2558
+453,"cocoa base, fruit, creamy",3.75,2558
+454,"grainy, intense, bitter",2.0,237
+455,"perfume, chemical off note",2.5,237
+456,"crumbly, cinamon",2.75,245
+457,"sweet, floral, yogurt",3.0,266
+458,"sticky, sweet, grassy",3.25,269
+459,"sandy, sweet, spicy",3.5,269
+460,"mild smoke, melon",3.5,1263
+461,"tart, malt, mild smoke",3.75,1263
+462,"burnt blueberry, off",3.0,2626
+463,"unusually tart, nutty",3.25,2626
+464,"intense, cooked black licorice",3.25,2630
+465,"strong tobacco, grassy",3.25,2630
+466,"fatty, woody, coffee",3.0,841
+467,"fatty, fruit, muted",2.75,845
+468,"woody, spicy, tobacco",3.5,1582
+469,"floral, earthy, acidic",3.25,1586
+470,"acidic, astringent, spicy",3.5,1586
+471,"sweet, marshmallow",3.0,1884
+472,"nutty, grain, late choco",3.25,1888
+473,"mild smoke, sweet edge",3.25,1888
+474,"overly sweet, mild spice",3.5,1888
+475,"sweet, grassy, nutty",3.5,1888
+476,"off notes, vanilla",2.0,2154
+477,"sandy, intense, sweet, rich",3.0,2394
+478,"molasses, rich, vegetal",3.25,2402
+479,"sandy, tobacco, molasses",3.0,1101
+480,"sandy, mild intensity, fruit",3.5,1101
+481,"sandy, fruity, acidic, metallic",2.5,1105
+482,"sandy, nutty, cocoa",3.25,1105
+483,"sandy, molasses, spice",3.25,1109
+484,"molasses, cocoa",2.75,1153
+485,mild metallic and spice,3.0,1153
+486,"caramel, molasses, fruit",3.5,1347
+487,"caramel, sweet, delicate",3.5,1371
+488,"soapy, earthy",2.75,1407
+489,"roasty, black pepper, nutty",3.5,1570
+490,"med roast, grassy, dried fruit",3.75,1570
+491,"nutty, floral, roasty",3.5,1574
+492,"bright fruit, molasses, nutty",4.0,1724
+493,"nutty, roasty, caramel",3.25,1956
+494,"smooth, caramel, dried fruit",3.75,2314
+495,"smooth, mellow, floral",3.5,2354
+496,"complex, strawberry, floral",4.0,2554
+497,"mild strawberry, cocoa, acidic",4.0,2688
+498,"bitter, fatty, woodsy",3.0,2736
+499,"tart, bitter, astringent",2.75,2740
+500,"grassy, fatty, bittersweet",2.5,2740
+501,"burnt rubber, leather",2.5,1247
+502,"mild fruit, off notes",2.75,1247
+503,"nutty, roasty, smokey",2.75,1251
+504,"creamy, woody, slight cherry",3.0,1251
+505,"sticky, mild mint, bitter",2.75,404
+506,"sandy, roasty, coffee",2.75,1426
+507,"cherry, sour milk, brownie",3.0,2672
+508,"vanilla, sour, bubblegum",3.0,2676
+509,"dominate grape, plastic off note",3.25,2676
+510,"dark roast, rich cocoa",3.0,2028
+511,"butter, roasty, cocoa, nutty",3.5,2238
+512,"slightly metallic, woody, berry",3.25,1900
+513,"dry, sandy, cocoa",3.0,252
+514,"very sweet, very spicey",2.75,486
+515,"green, leafy",3.5,1235
+516,"spicy, chocolatey, atypical",3.0,2202
+517,"sl. chalky, floral, pure",3.5,2422
+518,"early fruit, earthy, alcohol",3.25,2668
+519,"dried fruit, banana, sweet, vanilla",3.25,2668
+520,"cocoa, subtle peanut butter",3.5,672
+521,"floral, earthy",3.25,1454
+522,"bland, mild choco & leather",3.0,1407
+523,"powdery, bland, mild choco",3.25,1407
+524,"roasty, sour milk, off note",2.75,1696
+525,"high roast, banana raspberry",3.5,1696
+526,"grassy, rubbery",2.5,2298
+527,"chunky, spicy, rubbery",3.25,2298
+528,"flat, metallic, floral",2.5,1482
+529,"flat, floral, medicinal",2.75,1482
+530,"spicy, earthy off notes",2.5,1514
+531,"sugar dominates, molasses",3.0,2442
+532,"mild, fruity then nutty",3.75,647
+533,"mild, earthy, grassy",3.75,647
+534,"sticky, bitter, molasses, tart",2.5,1772
+535,"sticky, coconut, sour, bitter",2.5,1772
+536,"gritty, molasses, earthy",2.5,1760
+537,"roasty, cocoa, molasses",2.75,1760
+538,"gritty, sweet, molasses",3.0,1764
+539,"sandy, rich, roasty, earthy",3.0,1764
+540,"gritty, nutty, caramel",3.0,1764
+541,"molasses, tart, floral",3.25,1764
+542,"nutty, roasty, bitter",2.75,1768
+543,"unrefined, odd, vegetal",2.75,1259
+544,"earthy, coffee, mild, tang",3.25,1530
+545,"bold, rich cocoa, coffee",3.5,1530
+546,"nuts, coffee, peanut butter",3.75,1530
+547,"sandy, fruity, burnt",2.5,919
+548,"sandy, sweet, cocoa",2.75,919
+549,"tart, bright fruit, sour coffee",3.25,919
+550,"intense orange, floral notes",3.75,1121
+551,"floral, orange, cocoa",3.75,1582
+552,"mild bitter, fruit, spice",3.75,1582
+553,"nutty, mild dried fruit, sandy, off",2.75,2700
+554,"spicy, banana",3.25,2134
+555,"nutty, honey, grassy",3.0,2294
+556,"fatty, vanilla, mass market",2.5,1219
+557,"sandy, tart, ham, sweet",2.5,2080
+558,"high astringent, fruit, roasty",2.75,2080
+559,"sandy, sweet",2.75,2080
+560,"coarse, vegetal, nibby",3.0,1454
+561,"rustic,sweet, brownie, banana",3.25,682
+562,"grainy, sweet, whole bean",3.25,1832
+563,"melon, mild spice, cocoa",3.25,2594
+564,full flavor w/ dominant roast,3.5,2594
+565,"hazelnut, bold, strong roast",3.25,2598
+566,"earthy, floral, mild bitter",2.5,117
+567,"sweet, cardboard",2.5,117
+568,"sweet, marshmallow",3.0,117
+569,"long lasting, cocoa base",3.5,209
+570,"chewy, fudge-like, perfume",3.25,439
+571,"oily, grassy, minty",3.25,439
+572,"earthy, sweet",3.25,478
+573,"spicey, cocoa",3.5,478
+574,"coarse, sweet, sour, leathery",2.5,1522
+575,"gritty, mild bitter, off notes",2.5,1522
+576,"dry, ashey, medicinal",2.5,377
+577,"fatty, cigarette butt, coffee",2.75,377
+578,"oily, muted, fruity",3.0,377
+579,"roasty, tart, slight burnt",3.0,377
+580,"slow, fatty, subdued, nutty",3.0,377
+581,"mild lemon, cocoa, crisp nibs",3.75,2514
+582,"cherry, perfectly balanced roast",4.0,2514
+583,"rich, raisiny, molasses",3.5,2534
+584,"fruity, honey, cocoa, roasty",3.75,2534
+585,"roasty, cocoa, sandy, coffee AT",3.5,2638
+586,"hint of lemon, classic brownie",3.75,2638
+587,"gritty, sweet, hot cocoa",2.75,1149
+588,"sweet, sandy, spicy",2.75,2250
+589,"bold, spice, hit of anise",3.75,2226
+590,"smooth, spicy, cocoa",3.75,2306
+591,"cocoa, woody, basic",3.25,2310
+592,"rich cocoa, floral, acidic",3.5,2310
+593,"basic cocoa,mild fruit, sweet",3.5,2310
+594,"creamy, dried fruit, nutty",4.0,2310
+595,"roasty, hammy, nutty",3.0,2314
+596,"oily, citrus, orange",3.75,666
+597,"sweet, peanut butter",3.0,445
+598,"red berry, bitter, roasty, sour",2.75,486
+599,"bitter, light lime, sour",3.0,209
+600,"dry, sandy, cocoa, coffee",3.75,227
+601,"chalky, musty, very bitter",1.0,252
+602,"short,mild cocoa, mild fruit",3.75,470
+603,"spice, earthy, honey, sour",3.5,2630
+604,"blueberry, sweet edge, pure",3.5,2630
+605,"creamy, floral, bourbon",3.5,1486
+606,"balanced, anise, creamy",3.5,2474
+607,"raw, dirty, metallic, dry",2.25,2402
+608,"molasses, dried fruit, tart, off",3.0,2606
+609,"Rich cocoa, tart, papery",3.25,2606
+610,"sweet, cocoa, cardboard off",3.25,2606
+611,"very sour, mildly bitter",2.75,292
+612,"dry, coffee, sour",3.25,292
+613,"minty, nutty, nutmeg",3.75,292
+614,"slightly burnt, mildly bitter",2.75,296
+615,cocoa then roasted nut,3.25,579
+616,"bold, roasty, sticky, brownie",3.5,1630
+617,"woody, nutty, off sour note",2.75,1916
+618,"spicy, vanilla, sweet, cocoa",3.25,2684
+619,"cocoa, grass, off notes",2.5,2688
+620,"off, harsh, dirty, chemical",2.5,2688
+621,"cocoa, mild fruit",3.5,2688
+622,"creamy, woodsy, cocoa",3.0,196
+623,"intense, tangy, berry, sour",3.0,220
+624,"lemon, sour, slight metallic",3.0,220
+625,"creamy, buttery, non descript",3.0,341
+626,"woodsy, nutty",3.25,445
+627,"slow, less intense berry, nutty",3.5,451
+628,"dark berry, winey",3.75,451
+629,coffee and cocoa,3.25,470
+630,"fruity, bland",3.0,478
+631,"harsh aroma, melon floral,off",2.5,558
+632,"dry, spicy, woody",3.0,558
+633,"oily, fatty, rum",3.25,558
+634,"oily, coffee",3.25,558
+635,"silky, minty",3.5,813
+636,high intensity bitter,1.5,817
+637,"creamy, nutty, cocoa",3.75,821
+638,"sandy, sweet, tart red berry",3.5,959
+639,"oily, fragrant, spciy",3.25,1169
+640,"oily, rich cocoa, nutty",3.75,1984
+641,this is not chocolate,1.0,48
+642,"spice, roasty, off fatty note",3.25,971
+643,"sandy, sweet, smokey",3.25,975
+644,"acidic, sweet, cucumber",3.25,975
+645,"sandy, sweet, spicy, roasty",3.25,975
+646,"sandy, sweet, nutty",3.5,975
+647,"true to sugar, molasses",2.5,1283
+648,banana nut,2.75,1335
+649,"oily, mild bitter, nutty, fruit",3.25,1736
+650,"creamy, complex, fruity",3.75,1736
+651,"deep cherry, earthy, rubbery",3.25,2466
+652,"nutty, citrus",3.25,2466
+653,"banana, spicy, grassy",3.5,2466
+654,"bold, black tea, floral, banana",3.25,2502
+655,"sticky, cocoa, honey",3.75,2656
+656,"sticky, mild molasses, mango",3.5,2720
+657,"mild molasses, creamy, caramel",3.5,2724
+658,"floral, mild molasses, astringent",3.0,2724
+659,rich malt,3.5,2522
+660,"raspberry, cocoa",3.5,2522
+661,"sandy, sweet, basic cocoa base",3.25,2526
+662,"raisins, honey, molassses",3.5,2526
+663,"deep cocoa, fruit, melon",3.75,2622
+664,"vanilla, banana, citrus",3.25,785
+665,"sandy, candy like vanilla, off",2.75,1654
+666,"hammy, sour, astringent",2.75,1928
+667,"floral, sour, synthetic, off",3.0,1610
+668,"floral, banana",3.5,1610
+669,"off, pungent, intense",2.25,1666
+670,"oily, grapes, pungent",2.75,1666
+671,"sweet, vinegar",2.5,2064
+672,"harsh woody/green, cocoa base",2.5,2574
+673,"fresh fruit, sour cherry, roasty",3.0,2574
+674,"raisiny, slight anise, roasty",3.5,2574
+675,"dried fruit, tannic",3.0,805
+676,"grassy, green, candy spice",3.25,805
+677,"spicy, fudgey",3.75,915
+678,"acidic, sour, cocoa",2.75,1026
+679,"licorice, sour, rich cocoa",3.25,1026
+680,"roasty, oreo shell, coffee",3.5,1085
+681,"mild smoke, raspberry,cocoa",3.5,1153
+682,"heavy roast, blackberry",3.5,1219
+683,"gummy, nutty, bourbon",3.5,1295
+684,"roasty, spicy, nutty",2.75,1303
+685,"cherry, rich choco",3.75,1387
+686,"intense, roasty, coffee, raisin",3.0,1446
+687,"cherry, rich choco",3.75,1816
+688,"cocoa, sour, toffee, earthy",3.0,2024
+689,"vegetal, high astringency",3.0,2178
+690,"nutty, moderate acidity",3.25,2178
+691,"ripe orange, citrus",3.5,2178
+692,"green apple, sticky",3.5,2386
+693,"dairy, honey, cocoa",3.5,2546
+694,distinct choco and graham,4.0,2546
+695,"grape, pungent",3.25,2550
+696,"faint fruit, basic fudgey",3.5,2550
+697,"pungent, woody, choco pudding",2.75,2602
+698,"pungent, sour, tart, intense",2.75,2602
+699,"orange soda, sour",3.25,2602
+700,"grassy, fruity, brownie",3.25,654
+701,"brownie, red berry",3.25,654
+702,cocoa flavor dominates,3.25,654
+703,"light caramel, sl. dry, earthy",3.0,2550
+704,"dark woody, plum, astringent",3.0,423
+705,"wood, holiday spice, soap",3.25,423
+706,"oily, dried fruit, vanilla",3.5,661
+707,"gummy, fatty, caramel",3.0,987
+708,spicy,3.75,987
+709,"oily, toffee, hints of fruit",3.75,987
+710,"sweet spice, floral",4.0,987
+711,"nutty, ashey, spicy pepper",3.25,991
+712,"fatty, sunflower, peanutbutter",3.25,1223
+713,"nut, tobacco, burnt, off notes",2.75,1920
+714,"raisins, astringent",3.0,1920
+715,"floral, licorice, roasty",3.25,1920
+716,"muted, creamy, grapes, fatty",3.0,2342
+717,"muted, creamy, basic cocoa",3.25,2342
+718,"sweet, strong sour, acidic",3.0,1550
+719,"roasty, nutty, sweet",3.25,1550
+720,"intense, sweet, brownie",3.0,1554
+721,"bold, floral, rum",3.25,1554
+722,"mild cherry, fatty",3.25,1708
+723,"nice melt, odd rubber notes",3.25,907
+724,"vanilla, fatty, basic cocoa",2.5,1093
+725,"chalky, vanilla, caramel",2.75,1093
+726,"fatty, powdery, nut, sl. Burnt",2.75,1093
+727,"texture issues, brownie",3.5,1462
+728,"one dimensional, brownie",3.5,1462
+729,"high roast, intense, fatty",2.5,1832
+730,"high roast, fruit",3.0,1832
+731,"sandy, cloying, rich cocoa",2.5,170
+732,"dark coffee, cocoa",3.0,175
+733,"cinamon, nutmeg, coffee",3.0,175
+734,"nutty, simple, sweet",3.0,175
+735,"waxy, tobacco, smokey",3.0,180
+736,"mild mint, basic cocoa",3.0,180
+737,"fatty, rich cocoa, roasty",3.75,263
+738,"smokey,chalky,berry,caramel",3.0,423
+739,"metallic, dirt/ earthy",2.5,2222
+740,"dirty, floral, unrefined",2.5,2222
+741,"mild bitter, fatty, grassy",3.0,2222
+742,"vanilla, chemical, rubber",2.5,1916
+743,"smokey, roasty, acidic, rich",3.0,2422
+744,"red berry, lingering coffee",3.5,166
+745,"sticky, woodsy, rum",3.5,166
+746,"intense fruit, bitter ending",2.75,241
+747,"sandy, flat, hint of berry",2.75,661
+748,"sticky, very roasty, nutty",2.75,682
+749,"earthy, tart, sour",3.0,769
+750,"grassy, tea, late sour",3.25,769
+751,"dry, mint, medicinal",2.75,895
+752,"oily, black pepper, roasty",3.25,1034
+753,"butter, floral, rum",3.5,1193
+754,"mild fruit and spice, roasty",3.5,1235
+755,"sticky, rich, cherry",3.75,1634
+756,"tropical berry, intense",3.5,1864
+757,"blackberry, raisns",3.75,1952
+758,"sticky, roasty nibs, grapes",3.75,1972
+759,"well defined, creamy, cherry",4.0,2016
+760,"cocoa, tea, malt",3.75,2258
+761,"creamy, sticky, dried fruit",4.0,2270
+762,"sticky, dried fruit, toast, cocoa",3.75,2434
+763,"burnt honey, earthy",3.5,2466
+764,"sl. bitter, black licorice, dried fig",3.75,2554
+765,"dried fruit, fig, astringent, sticky",4.0,2656
+766,"sl sour, grassy, off, fatty",3.0,2732
+767,"peanut butter, dirty",2.75,2736
+768,"sweet, fatty, rancid",2.75,2740
+769,"earthy, astringent, metallic",2.5,2740
+770,"cocoa, raw, dirty, chemical",2.75,2402
+771,"complex, sweet, sour, grassy",3.0,2402
+772,"late cocoa, harsh, off notes",2.5,2406
+773,"bland, fatty, fruit",3.0,2406
+774,"mild cherry, earthy",3.25,1371
+775,"fatty, rasin, nutty",3.25,1371
+776,"nutty, caramel, toffee",3.5,1407
+777,"intense, spicy, floral",3.0,1688
+778,"creamy, nutty, fruity",3.75,311
+779,"acidic, astringent, unpleasant",1.5,63
+780,"sticky, floral",3.0,304
+781,"long lasting, fruit",3.0,87
+782,"floral, olive",3.25,87
+783,"creamy, basic cocoa",3.5,87
+784,"creamy, complex, coffee",4.0,111
+785,"sticky, smoke, ham, earthy",3.25,129
+786,"mild spice, licorice",3.25,135
+787,"fruity, basic cocoa",3.5,135
+788,"smooth, banana, cocoa",3.5,192
+789,"creamy, smokey, tobacco",3.75,192
+790,"creamy, nuts, woody, cocoa",4.0,192
+791,"creamy, mint, tobacco, olive",4.0,192
+792,"cucumber, hot spices",3.0,227
+793,"creamy, woody, earthy",3.0,272
+794,"sticky, grassy, coffee",3.5,272
+795,"sticky, olive",3.75,272
+796,"subtle, caramel, sour milk",3.0,470
+797,"smooth, intense, smoke, nut",3.5,693
+798,"sticky, nutty",3.5,863
+799,"creamy, coffee, caramel",3.75,863
+800,"smooth, fruit, coffee, bitter",3.0,1109
+801,"floral, well developed, creamy",3.75,1672
+802,"nutty, strawberry, creamy",3.75,1672
+803,"creamy, sticky, fruit",4.0,2040
+804,"grassy, herbal, tea",3.5,2748
+805,"burnt rubber, molasses",2.5,1672
+806,"bitter,molasses,marshmallow",2.75,1676
+807,"fruity, molasses",2.75,1676
+808,"licorice, molasses, rubber",2.75,1880
+809,molasses notes from sugar,2.75,2052
+810,"near perfect shine, cocoa",3.5,2052
+811,"molasses, fruit",3.5,2096
+812,molasses notes dominate,3.25,2696
+813,"dry, earthy, walnut",2.5,2390
+814,"dry, sour, sweet, mild fruit",2.75,2390
+815,"dry, cocoa, grassy, spicy",3.0,2390
+816,"tobacco, roasty, hint of fruit",3.25,2752
+817,"earthy, dirty",2.75,2752
+818,"rich brownie, roasty, coffee",3.25,2752
+819,caramel and cocoa,3.5,516
+820,"rich cocoa, fruity, strong floral",3.75,516
+821,"chalky, bread, dirt",2.5,523
+822,"dark forest berry, spice",3.75,523
+823,"dried fruit, grapes, sour",3.75,623
+824,"heavy roast, woody, berry",3.5,661
+825,"licorice, leathery",3.0,697
+826,"intense, almond, coffee",3.25,697
+827,intense cocoa,3.5,765
+828,"creamy, nutty",3.75,923
+829,"sandy, full bodied, spicy",3.5,1331
+830,"black pepper, rich, intense",3.75,1331
+831,"intense, spicy, butterscotch",4.0,1662
+832,candy like off flavor,2.75,1964
+833,"intense earthy, cocoa, roasty",3.25,2100
+834,"cocoa, honey, watery, sweet",3.5,2366
+835,"fruit, holiday spice",3.5,2648
+836,"coarse, earthy, mild banana",3.25,1506
+837,"fatty, muted",2.75,841
+838,"sandy, orange, butterscotch",3.5,1626
+839,"fatty, roasty, intense brownie",3.5,1626
+840,"dates, acidic, rich cocoa",3.25,1630
+841,"cherry, earthy, tobacco",3.25,1630
+842,blackberry and cinnamon,4.0,1630
+843,"smoth, dense, grape",4.0,2040
+844,"accidental spicy (Kulfi?), burn",3.0,2744
+845,"waxy, spicy, tobacco",3.25,1343
+846,ultra fruity,3.5,1343
+847,"spicy, cocoa",3.75,1343
+848,"dried fruit, strong floral",3.25,1812
+849,"mild, dried fruit, chocolate",3.25,1812
+850,"buttery, burlap",2.75,919
+851,"nutty, almond butter",3.5,2358
+852,"dry, gritty, cardboard, nutty",3.0,1876
+853,"molasses, red fruit, astringent",3.0,2534
+854,"cocoa, spice, alcohol, dirty",3.0,2534
+855,"lemon, tart, burnt, chemical",2.75,252
+856,"nutty, rich, red berry",3.75,709
+857,"gritty, chalky, earthy, sour",2.75,32
+858,"sandy, banana, sour",2.5,206
+859,"gritty, sweet, banana, smoke",2.5,206
+860,"muted, cherry, banana",3.0,206
+861,"very sweet, marshmallow",2.75,439
+862,"sandy,bold,cherry,peanut butter",3.0,439
+863,"spicy, caramel, vanilla",3.75,1662
+864,"cocoa, fig notes",3.5,2382
+865,"heavy roast, choco, coffee-like",3.5,2724
+866,"roasty, hammy, sour",3.25,2724
+867,"dried fruit, raisiny, mild roast",3.5,2728
+868,"fatty, floral, rum, roasty",3.0,2728
+869,"dominate roast, fruit then earthy",3.0,2728
+870,"simple, mild caramel, choco",3.75,2728
+871,"low refinement, too sweet",2.75,1137
+872,"sandy, tannic, earthy",3.25,1137
+873,"coarse, woody, roasty",3.0,1450
+874,"brownine, nutty",3.5,1454
+875,"simple, mild cocoa, fruit",3.5,2108
+876,"spicy, sweet,",3.5,2108
+877,"earthy, floral, cocoa",3.25,2114
+878,"fruity, roasty",3.5,2118
+879,"carrots, heavy roast",3.25,1916
+880,"intens, brownie, spicy, metal",3.0,2198
+881,"dirty, earthy, burnt, honey",2.5,2350
+882,"fruit, dirty",3.0,2350
+883,"muddy, raisins, nut, rubbery",3.5,2350
+884,"unrefined, crumbly, sweet",3.25,565
+885,"spicy, green, long, intense",3.25,1205
+886,"mild bitter, smoke, hammy",3.0,1209
+887,"grit,smoke, wood, blackberry",3.25,1209
+888,"woody, cocoa",3.0,252
+889,"sticky, slight plum, medicinal",2.0,414
+890,"hazelnut, fruit, slight bitter",3.5,423
+891,"sweet, vanilla, sticky",2.75,431
+892,"nutty, ginger, off notes",2.75,903
+893,"sweet, too few nibs, cocoa",3.0,2570
+894,"mild licorice, late mocha",3.5,2570
+895,"gritty,overyly sweet,fruit punch",2.5,666
+896,"grits, very sweet, banana",2.5,666
+897,"strong vanilla, strawberry, nut",2.5,666
+898,"sweet, vanilla, mild banana",2.75,666
+899,"gritty, sweet, vanilla, woody",2.5,672
+900,"mild fruit, earthy",3.0,1275
+901,"spicy, roasty, mild bitter",3.5,1275
+902,"coarse, mild bitter, raisin",3.75,1275
+903,prominent plum note,3.5,2142
+904,"sandy, basic cocoa, sweet",3.0,2664
+905,dominated by heavy roast,3.0,2450
+906,"perfume, floral, vanilla",2.75,565
+907,"roasty, spicy, nutty",3.0,1732
+908,"fatty, sandy, nutty, off notes",2.5,1736
+909,"metallic, off notes, powdery",2.75,1736
+910,"basic cocoa, short length",3.0,48
+911,"creamy, floral, complex",3.0,48
+912,"fatty, rich, spice, nutty",3.5,48
+913,"complex, raspberry, cocoa",4.0,56
+914,"malitol, cocoa",2.0,105
+915,"creamy, roasty, cocoa",3.0,105
+916,"spicey, marshmallow",3.5,494
+917,"intense, molasses, sweet",2.25,1283
+918,"molasses, licorice, bitter",3.0,1283
+919,"sandy, sweet, mild fruit",3.25,1283
+920,"intense, molasses, bitter",2.5,1287
+921,"off, hammy, roasty",2.75,2474
+922,"banana, bland, sour, off",3.0,2478
+923,"nutty, melon, vinegar",2.75,2482
+924,"fruit, cocoa, fatty",3.25,2486
+925,"caramel, acidic, creamy",3.5,2394
+926,"creamy, honey, mild hammy",3.25,2398
+927,"plums, cocoa",3.5,2398
+928,"cherry, cocoa, creamy",3.75,2398
+929,"roasty, simple",3.5,2150
+930,"hammy, dried fruit",2.75,2154
+931,"hammy, large grits",2.75,2154
+932,"high acidity, bitter, nutty",3.0,2154
+933,"molasses, sour notes",3.0,2202
+934,"muted, mild sweet cocoa",3.5,2206
+935,"fruit, spicy mild molasses",3.5,2206
+936,"coconut, true to sugar bar",2.75,1267
+937,"strong vanilla, earthy, nutty",2.75,1776
+938,"vanilla, dried fruit, nuts",2.75,1776
+939,"gummy, bland, sour",2.75,1772
+940,"sticky, floral",3.5,1776
+941,"gummy, sandy, complex",3.75,1776
+942,"nuts, sour milk",3.0,2072
+943,"sandy, powdery, late sour",3.0,2072
+944,"sandy, dried fruit, roasty",3.25,2072
+945,"roasty, hazelnut, cocoa",3.5,2072
+946,"coffee, acidic, astringent",2.75,2076
+947,"sticky, dried sour fruit, roasty",3.0,2430
+948,"roasted nuts, citrus, creamy",3.5,2430
+949,"dried fruit (fig), black licorice",3.5,2712
+950,"dairy, cocoa, mild sour",3.5,2712
+951,"off, tropical, vegetal, rubbery",3.0,2318
+952,"nutty, bland, late sour",3.25,2318
+953,"honey, mild floral, mild off",3.0,2322
+954,"fruit, smokey, mocha",3.0,2322
+955,"dirty, roasty, acidic",3.0,2322
+956,"floral, orange, cocoa",3.75,2322
+957,"fig, mild anise",3.75,2326
+958,"nutty, dried fruit",3.75,911
+959,"grits, hazelnut, rum",3.5,915
+960,"intense, tobacco, nuts",3.5,1355
+961,"caramel, dairy",3.75,1355
+962,"large grits, sweet",2.5,2044
+963,large grits,3.0,2100
+964,"dried fruit, large grits",3.25,2100
+965,nutty,3.5,2118
+966,"sl. dry, gritty, fruity, nuts",3.0,2122
+967,"coarse, hazelnut, peanut",3.5,1351
+968,banana,3.5,1351
+969,"few grits, spicy, cocoa",3.5,1538
+970,"very coarse, intense, spice",3.5,1538
+971,"intense, bitter, off notes",3.0,1542
+972,"coarse,perfume,heavy roast",3.5,781
+973,choco covered strawberry,3.5,785
+974,"fruit, cough medicine",2.5,883
+975,"olive, rum",3.5,883
+976,"sandpaper, some fruit, bitter",2.0,887
+977,"spice, citrus, sweet",3.5,1042
+978,"mild bitter, roasty, red berry",3.0,1209
+979,"sweet, tobacco",3.25,1295
+980,"roasty, grapes, rich brownie",3.5,1634
+981,"slight dry, citrus, grapefruit",3.5,1940
+982,"tea, spicy, sweet",3.25,2430
+983,"slightly burnt, earthy",2.75,370
+984,"creamy, simple, nutty",3.0,370
+985,"creamy, roasty, tobacco",3.25,370
+986,"complex, mild licorice, spice",3.5,370
+987,"mild bitter, mild cocoa, roasty",2.75,636
+988,"grassy, brownie, astringent",3.25,642
+989,"red berry, some roasty notes",3.5,642
+990,"woody, grassy, long",3.5,642
+991,"woody, red fruit, sour",2.75,682
+992,"spicy, cocoa",3.25,682
+993,"sandy, cocoa, red fruit",3.0,688
+994,"bready, nutty, earthy,intense",3.25,745
+995,"tart, roasted cocoa",4.0,745
+996,mild smoke and fruit,3.5,899
+997,"smoke, fruit, sour, hammy",3.5,899
+998,"caramel, nuts, dried fruit",4.0,915
+999,"tart, red berry, smoke",4.0,927
+1000,"sandy, smoke, red berry",3.0,931
+1001,mildly burnt caramel,3.25,1030
+1002,"blackberries, caramel, roasty",3.75,1081
+1003,cocoa and fresh grapes,3.75,1117
+1004,chocolate covered banana,4.0,1149
+1005,"light color, leathery flavor",3.0,1383
+1006,"orange, mellow but flavorful",3.5,1383
+1007,"fruity, floral, caramel",3.5,1383
+1008,"slow develop, caramel, roasty",3.5,1387
+1009,"rich cocoa, mild, fatty",3.5,2024
+1010,"long lasting, fruit, spicy",3.75,2024
+1011,"rich cocoa, nuts",3.5,2028
+1012,"roasty, mild fatty",3.25,2174
+1013,"complex, nuts, spice, floral",3.5,2174
+1014,"coconut, high astringency",3.25,2642
+1015,"fudgey, spicey, nutty",3.5,2642
+1016,"oily, black licorice, spicey",3.5,2644
+1017,"rich chocolate, late spice notes",3.75,2644
+1018,"robust cocoa, dried cranberry",4.0,2644
+1019,"raspberry, mild sour, cocoa",3.5,2704
+1020,"licorice, caramel, floral, dirty",3.0,2708
+1021,"spicey, herbal, ripe, sl. burnt",3.25,2708
+1022,"creamy, fragrant",3.5,2000
+1023,"creamy, simple, strong choco",3.75,2000
+1024,"spice, fatty, mild cocoa",3.5,1375
+1025,"strong fruit, ham, deep cocoa",3.5,1375
+1026,"banana, yogurt, cocoa",4.0,1375
+1027,"vegetal, herbs, raw",3.5,1912
+1028,"creamy, black pepper, nut",3.75,1956
+1029,"unique flavor, floral-spice mix",3.5,2122
+1030,"strong cocoa, orange citrus",3.75,2122
+1031,"sweet, metallic",3.0,2126
+1032,"woody, grassy, spicy",3.25,2126
+1033,"cocoa, savory",3.75,2126
+1034,"honey, deep cocoa",4.0,2126
+1035,"floral, sticky",3.0,2130
+1036,"delicate, balanced",3.5,2130
+1037,"black pepper,high astringency",3.75,2130
+1038,"banana,dairy, cocoa",4.0,2130
+1039,"high acidity, grassy",3.25,2134
+1040,"cocoa, roasty, sweet, fruit, spice",3.5,2720
+1041,"pungent, sour cherry",3.5,2720
+1042,"caramel, cocoa, fruit",3.75,2720
+1043,"fatty, leathery, earthy",3.25,623
+1044,"tobacco, woody, wild berry",3.5,623
+1045,"roasty, fatty, woody",3.5,623
+1046,"intense olive, citrus, vegetal",3.25,895
+1047,"spicy, earthy",3.25,899
+1048,"oily, fatty, bold olive",3.25,899
+1049,"oily, gritty, savory",3.75,923
+1050,"oily, burnt black pepper",3.25,1034
+1051,baked bread,3.5,1034
+1052,"mild fatty, nutty, roasty",3.5,1259
+1053,"oily, sweet, dairy, bland",3.0,1680
+1054,"oily, spicy, sour",3.25,1680
+1055,"cocoa, spicy, sweet",3.25,753
+1056,"fatty, sweet, vanilla",3.0,781
+1057,"oily, tart, chlorine",2.5,863
+1058,"dried fruit, intense",3.75,1046
+1059,"sandy,sweet, molasses,floral",3.0,1185
+1060,"delicate, hebs, choco",3.75,1347
+1061,"acidic, undefined, brownie, off",3.0,1359
+1062,"oily, tropical",3.75,1780
+1063,"oily, dried fruit, leather",4.0,1780
+1064,"balanced, fruit, nut, roasty",3.75,2278
+1065,"black current,bitter,astringent",3.5,2366
+1066,"sl. bitter up front, fatty, intense",3.25,2550
+1067,"dried fruit, cocoa base, fatty",3.75,2554
+1068,"black licorice, tangy",3.75,2664
+1069,cheesy off flavor,2.5,2174
+1070,"grainy texture, sour, hammy",3.0,2190
+1071,"accessible, sweet, sandy",3.0,2202
+1072,"dried fruit, cocoa",3.5,2202
+1073,"gritty, ambiguous",2.5,1367
+1074,"sandy, sweet, candy tart",3.25,1642
+1075,cocoa and coconut,4.0,1642
+1076,"sticky, spice, roasty, earthy",3.5,1646
+1077,"deep cocoa, fruit, spice",3.5,1646
+1078,"red fruit, tart, fat, leathery",3.5,1646
+1079,"chewy, woody, rustic",3.5,2012
+1080,"fatty, creamy, roasty",3.5,2012
+1081,"dry, grainy, spicy, roasty",2.75,2096
+1082,"earthy, roasty, strong vanilla",2.75,2282
+1083,"mild woody, black licorice",3.0,1672
+1084,"mild strawberry, cocoa",3.5,1848
+1085,"sour off flavor, nutty, earthy",2.75,1924
+1086,"sweet edge, bright fruit, sour",3.25,1924
+1087,"mild molasses, rich, gateway",3.25,1924
+1088,"creamy, fig",3.25,2032
+1089,"acidic, mildly burnt, metallic",2.5,2446
+1090,"floral, rubbery, woody",3.0,2446
+1091,"banana, cocoa, late floral",3.75,2602
+1092,"fruit, tart, rubber",2.75,2194
+1093,"sweet, dominate cocoa, spice",3.0,2642
+1094,spice/herb dominate cocoa base,3.25,2642
+1095,"sandy, sweet, earthy,deep cocoa",3.25,2644
+1096,"fatty, vanilla, dairy",3.0,741
+1097,"fruity, cocoa, sweet",3.5,2692
+1098,"nutty, spicy, candied orange",3.5,2692
+1099,"dried fruit, orange peel, cocoa",3.5,2692
+1100,"roasty, sweet, fruity, cocoa",3.5,2696
+1101,"mildly rich, basic, roasty",2.5,15
+1102,"rich, coffee, cherry",3.5,1896
+1103,"sour grapes, pungent, ashey",2.5,2382
+1104,"spicy, vanilla",3.0,2696
+1105,"very sour, grassy, fatty",2.5,241
+1106,"very sweet, coffee, mild sour",2.75,363
+1107,"chunky, muted, mild bitter",3.25,494
+1108,"sl. sweet, nutty, off note",3.0,355
+1109,"hot cocoa, very nutty",3.0,355
+1110,"light perfume, mild, sweet",3.0,355
+1111,"gritty, roasty, strong coffee",3.0,355
+1112,"mild nutty, spicy, brownie",3.25,355
+1113,"earthy, chemical or burnt note",2.75,2060
+1114,"creamy, sweet, floral, vanilla",3.0,15
+1115,"sweet, creamy, vanilla",2.5,87
+1116,"creamy, sweet, blueberry",3.5,87
+1117,"creamy, blackberry",3.5,93
+1118,"sweet, rich cocoa, mild citrus",3.5,93
+1119,"fatty, cocoa, fruity",3.0,99
+1120,"creamy,sandy,nutmeg, moss",3.5,147
+1121,"sweet, vanilla, rich",3.0,259
+1122,"perfume, vanilla",3.0,276
+1123,"creamy, nutty",3.5,276
+1124,"sweet, mild lemon",3.0,316
+1125,"bitter, fatty, fruit",3.0,387
+1126,"complex, fruit, nut, raisin",3.5,387
+1127,"creamy, mild tobacco, ham",3.0,552
+1128,"dutched?, intense, rich cocoa",2.75,654
+1129,"sweet, creamy, floral, orange",3.25,654
+1130,"dry, sticky, brownie",3.25,654
+1131,"creamy, sl. Burnt, roasty",2.75,1053
+1132,"floral, over roasted, harsh",2.75,1053
+1133,"sweet, vanilla, cocoa",3.25,1053
+1134,"very spicy, roasty",3.5,1053
+1135,"nutty, black licorice",3.75,1602
+1136,"smokey, cherries, sour",2.75,1197
+1137,"XL nibs, sour, cardboard",2.75,1197
+1138,"chalky, berry, cocoa",3.25,1197
+1139,"sandy, intense, cherry",3.5,1197
+1140,"molasses, sweet, long,cocoa",2.75,1201
+1141,"fatty, nutty, earthy",3.0,1201
+1142,"sandy, roasted vegetal",3.0,1201
+1143,"muted, mild fruit, sweet",3.25,1201
+1144,"unrefined, bitter, earthy",2.0,1205
+1145,"buttery, floral, burnt",2.5,166
+1146,"overyly sweet, banana, yogurt",2.75,1327
+1147,"chewy, fatty, sweet, nutty",3.0,1327
+1148,"vanilla, chocolate milk",3.0,701
+1149,"sandy, sweet, dried fruit",3.0,1696
+1150,"rich chocolate, sweet edge",3.5,1700
+1151,"rich chocolate, sandy texture",3.5,1700
+1152,"powdery, rich, coffee, roasty",3.25,1808
+1153,"flat, late tart notes",3.0,2040
+1154,"sandy, brownie, coconut",3.25,2270
+1155,"sandy, sweet, cocoa",3.0,2330
+1156,"deep cocoa, nutty, earthy",3.25,2752
+1157,"fruit, cocoa, lemony",3.5,2756
+1158,"spicy, earthy, grassy, astringent",3.25,2756
+1159,"too sweet, off, rubbery",2.75,2756
+1160,"cocoa, fatty, fruit",3.25,2378
+1161,"earthy, dirty, dried fruit",3.5,2378
+1162,"pungent, chemical",2.75,2382
+1163,"delicate, carame, tang",3.5,2606
+1164,"powdery, vanilla, artificial",2.75,1876
+1165,"rubber, fatty, sandy,grape",2.5,2302
+1166,"nutty, sweet, fatty, sandy",3.0,2302
+1167,"sandy, fatty, chemical",2.5,2306
+1168,"pungent raisin, metallic",3.25,1748
+1169,"mostly earthy, mild dried fruit",3.5,1748
+1170,full flavor spectrum,3.5,1239
+1171,"woody, earthy, medicinal",3.0,1243
+1172,"nutty, butterscotch",3.75,1243
+1173,"spicy, intense, fades fast",3.75,1243
+1174,"astringent, smoke, cream",3.5,1744
+1175,floral,3.5,1744
+1176,"strong floral, black licorice",3.5,1748
+1177,"creamy, mild nutty & woody",3.75,1744
+1178,"dark berry, honey, cream",4.0,1744
+1179,"too sweet, spicy, candied",2.75,1458
+1180,"sandy, sweet, mild fruit",3.5,1462
+1181,"harsh, earthy, dirty",2.75,2614
+1182,"delicate fruit, black tea",3.25,2614
+1183,"intense, palm, earthy",2.75,1546
+1184,"sandy, tart, tangy, palm",3.0,1546
+1185,"intense, palm, nutty",3.0,1546
+1186,"floral, palm, sour",3.25,1550
+1187,"palm, spicy, flour",3.25,1550
+1188,"harsh flavor, hay",2.5,2146
+1189,"fruity, tannic, coconut",3.5,2146
+1190,"light color, sour, pungent",2.25,2150
+1191,"sour, citrus, molasses",2.75,2150
+1192,"lemon, late sour & molasses",3.0,2150
+1193,"sour, earthy",2.75,1712
+1194,"nutty, off notes",2.75,1712
+1195,"intense, bitter, coffee",3.25,1712
+1196,"mild caramel, honey",3.5,1712
+1197,"high acid,sweet,nut,strawberry",3.25,2426
+1198,"butterscotch, burnt cinnamon",3.5,2450
+1199,"perfume, burning",2.0,414
+1200,"sandy, perfume, nutty",2.5,414
+1201,"dry, floral, slight musty",3.0,414
+1202,"dry, intense floral, spciy",3.25,414
+1203,"dry, nutty, sweet",3.5,414
+1204,"dry, sour, cheesey, off",2.5,431
+1205,"sandy, red berry, sour",2.75,431
+1206,"coffee, red berry, tart",3.5,431
+1207,"red berry, cocoa, mild coffee",3.75,431
+1208,"floral, roasty, coffee",3.5,1466
+1209,"rich cocoa, fatty",3.5,1466
+1210,"creamy, nutty, tea, fatty",3.5,1466
+1211,"muted, fatty, nutty",3.5,1466
+1212,"sour, raw, green",2.75,1872
+1213,"true to sugar, green, fatty",2.5,1327
+1214,cardamon,4.0,1030
+1215,"pastey, bitter, unfixable",1.75,1113
+1216,"smoke, cocoa, fruit, fuel",2.75,1654
+1217,"dry, woody, dried fruit",2.75,2134
+1218,"sour raisin, woody, fatty",3.0,2386
+1219,"fatty, mild bitter, banana",3.0,2386
+1220,"grassy, tobacco, intense",3.0,245
+1221,"charred, espresso",2.5,296
+1222,"sandy, sweet, mild cocoa",2.75,296
+1223,"fungal, mushroom, mild burn",3.0,300
+1224,"spicy, sour, burning",2.75,552
+1225,"earthy, woody, sour mint",3.0,552
+1226,"ashey, woody, bright red",2.75,600
+1227,"mild bitter, floral",3.0,623
+1228,"woody, nutty, short",3.0,623
+1229,"sweet, cocoa, grassy",3.25,623
+1230,"sweet, red berry, sour",3.5,809
+1231,"sandy, vegetal, sour",3.0,1038
+1232,"tart, fruity, intense",3.5,1038
+1233,"oily, leathery, intense bitter",3.0,1065
+1234,"nutty, mild coffee",3.0,1065
+1235,"oily, spicy, sl. Burnt",3.5,1065
+1236,"spice,cocoa, tolerable bitter",2.75,1109
+1237,"candy,uncontrolled bitterness",2.5,1113
+1238,"trop. Fruit, coffee, bitter",2.75,1113
+1239,"fatty, gritty, roasty",3.25,1097
+1240,"nutty, coffee, rich",3.75,1097
+1241,"intense, cherry, metallic",3.0,1307
+1242,"woody, floral, metallic",3.0,1311
+1243,"earthy, metallic edge",3.0,1311
+1244,"raisins, rich choco",3.75,1311
+1245,"spicy, mild fruit, fatty",3.5,1387
+1246,"spicy, mild roasty",3.5,1542
+1247,"creamy, cocoa, lemon",3.75,725
+1248,"creamy, roasted nuts, fatty",3.75,725
+1249,"creamy, sour, raisin",3.25,729
+1250,"creamy, nutty, cocoa",3.75,733
+1251,"creamy, nutty, delicate fruit",4.0,733
+1252,"creamy, nutty, muted",3.5,737
+1253,"creamy, nutty, fruity",4.0,737
+1254,"peanut, coffee, cocoa, bread",4.0,737
+1255,"creamy, nutty, earthy",4.0,737
+1256,"fatty, rich, berry notes",3.75,1085
+1257,"sour, sweet, rubber",2.5,1788
+1258,"buttery, intense, spice, roasty",3.0,1255
+1259,"molasses, roasty",3.25,2008
+1260,"very sandy, sweet, spicy",2.75,943
+1261,"sandy, caramel",3.0,943
+1262,"intense, tart, earthy",3.5,1275
+1263,"off notes, pungent",2.25,1279
+1264,"mild metallic, spice, tea",3.25,1279
+1265,"roasty, nutty, spicy",3.25,1279
+1266,"woody, meaty, vegetal",2.75,2250
+1267,"intense, cherry, rich, metallic",3.5,1542
+1268,"intense, molasses, fruit",2.75,1546
+1269,"gritty, unrefined, off notes",2.0,5
+1270,"sandy, sweet",3.25,2146
+1271,"dairy, nutty, butterscotch",3.5,1972
+1272,"candy like, sweet, dairy",3.0,1976
+1273,"floral, tobacco, candied",3.0,1976
+1274,"sweet, fruity, vanilla",3.5,1976
+1275,"floral, bourbon, salt",3.5,1980
+1276,"vanilla, gateway",3.5,2008
+1277,"full bodied, floral",3.75,2008
+1278,"gritty, coffee, sweet, hammy",3.0,2100
+1279,"complex, bold, gritty",3.25,2104
+1280,"bold, spice, sour fruit, gritty",3.25,2104
+1281,"off note, vanilla, basic cocoa",2.75,1534
+1282,"harsh, burnt nuts, powdery",2.75,2458
+1283,"nutty, cocoa, sour veggie",3.5,2214
+1284,"floral, earthy, grassy",3.0,2218
+1285,"herbal, tea-like",3.5,2218
+1286,brownie,3.75,2218
+1287,"raisins, prunes",3.5,1061
+1288,"nutty, sour milk, off note",3.0,1069
+1289,"very sweet, basic cocoa",3.25,1069
+1290,"candy-like, peanut butter",3.25,1073
+1291,"rich cocoa, dried fruit, roasty",3.75,2498
+1292,"light color, nutty, caramel",3.75,2498
+1293,"banana, fall spices, earthy",3.75,2502
+1294,"dried fruit, bitter, rubbery",3.25,2716
+1295,"creamy, balanced, fig, cocoa",3.5,2390
+1296,"sandy, sweet, acidic",3.0,2394
+1297,"creamy, floral, dried fruit",3.75,2422
+1298,"creamy, black tea, vegetal",3.0,2454
+1299,"creamy, distinct, dried fruit",3.75,2454
+1300,"floral, woody, cocoa, creamy",3.5,2764
+1301,cocoa with hint of melon,4.0,2764
+1302,"honey, molasses, cream, woody",3.5,2764
+1303,"base cocoa, fruit, fatty",3.25,2334
+1304,"spicy, tobacco",3.0,2338
+1305,"muted, grapes, astringent",3.0,2338
+1306,"cocoa, strong distinct spice",3.75,387
+1307,"chewy, vanilla, metallic",2.5,837
+1308,"creamy, mild marshmallow",3.0,241
+1309,"intense, mint, marshmallow",3.5,241
+1310,"sweet, vanilla, coffee",2.75,245
+1311,"crumbly, vanilla, bitter",2.5,248
+1312,"creamy, nutty, bitter, flat",2.75,248
+1313,"spicy, mild bitter",3.0,248
+1314,"grassy, earthy, coffee",2.5,263
+1315,"fruity,floral,cooling sensation",3.0,269
+1316,mild bitter and chemical off,2.75,404
+1317,"spicy, floral, bitter",2.75,423
+1318,"licorice, melon",3.25,2708
+1319,"plum, molasses",3.5,2708
+1320,"fatty, dark berry, grassy",3.75,1133
+1321,"sweet, vanilla domintates, nut",2.0,431
+1322,"poor finish, cocoa, grassy",3.25,2478
+1323,"gritty, overly sweet, citrus",3.0,1251
+1324,"gritty, sour, berries",3.0,1968
+1325,"sticky, molasses, sour",3.0,1968
+1326,"medium roast, nutty",3.25,2016
+1327,"intense, high acidity",3.75,2044
+1328,"roasty, nutty",3.0,2064
+1329,"nuts, dried fruit, grassy",3.25,2068
+1330,"astringent, smomkey cocoa",3.25,2282
+1331,"light color,",3.0,2286
+1332,"intense, pungent, tangy",2.5,1422
+1333,"nutty, pungent, sour",2.75,1422
+1334,"nutty, sour milk",3.0,1422
+1335,"strawberry, intense, sour",3.25,1422
+1336,"intense, spicy, pungent",3.25,1426
+1337,"spicy, molasses, earthy",3.25,1426
+1338,"earthy, fatty, tea",3.25,1426
+1339,"spicy, vanilla, dairy",3.25,1840
+1340,"astringent, unbalanced, off",2.75,1852
+1341,"creamy, mild flavors",3.75,1852
+1342,oranges,3.75,1852
+1343,"vanilla, earth, cardboard",2.5,1359
+1344,"vanilla, candy-like, sour milk",3.0,1359
+1345,"intense, bourbon, vanilla",2.5,1363
+1346,mild vanilla and mild fruit,3.0,1363
+1347,"smooth, rich, lemon",3.5,431
+1348,"rich, spice, cheese",3.0,451
+1349,"creamy, cocoa, spice",3.25,576
+1350,"simple, rich hot cocoa",3.75,576
+1351,"cocoa, nutty, acidic, burning",3.0,597
+1352,"spicy, roasty, coffee",3.75,682
+1353,"floral, soapy, earthy",3.25,891
+1354,"creamy, woody, nutty",4.0,891
+1355,"berry, rich cocoa dominates",3.75,927
+1356,"unrefined, sweet, basic cocoa",3.0,2426
+1357,"molasses, cardboard, off note",2.25,1892
+1358,"metallic, cardboard, fruit",2.5,1892
+1359,"nutty, fatty",3.0,1892
+1360,"grit, earthy, musty",3.0,1892
+1361,"anise, spicy, earthy",3.0,2138
+1362,"earthy, molasses, dried fruit",3.0,2138
+1363,"molasses, high acidity",3.25,2138
+1364,"tart, molasses, grits",3.25,2138
+1365,"fruit, cocoa, grape",3.5,2254
+1366,"dry, melon, cocoa",3.5,2254
+1367,"sandy, grapes",3.5,2358
+1368,"roasty, dark berry, rich",3.5,230
+1369,"rich cocoa, burning sensation",3.25,346
+1370,"nutty, grassy, rich cocoa",3.5,346
+1371,"rich, sweet, cocoa, intense",3.0,439
+1372,"cocoa, caramel, sweet",3.75,445
+1373,"rich, vegetal, banana, spice",3.5,741
+1374,"nutty, pear, sour milk",3.5,891
+1375,"brownie, cocoa, sour, sweet",2.75,1121
+1376,"creamy, rich, dairy, nutty",3.25,1145
+1377,"sweet, nutty, cocoa",3.25,1189
+1378,"peanut butter, burnt rubber",2.5,721
+1379,"sweet, fudgey, tang",3.25,713
+1380,"rich cocoa, mild fruit & nut",3.5,2182
+1381,"mild hammy, roasty, sour",3.0,2186
+1382,"citrus,prononced orange",3.5,2186
+1383,"fatty, roasty, coffee, off note",2.75,1434
+1384,"nutty, woody, leathery",2.75,1438
+1385,"roasty, sour, cardboard",2.75,1590
+1386,"gritty, roasty, waxy, off",2.75,1590
+1387,"slight burnt, astringent, fruit",3.0,1590
+1388,"sandy, fatty, roasty, fruit",3.25,1590
+1389,"roasty, nutty, rich cocoa",3.0,1594
+1390,"rich, roasty, nutty, smoke",3.5,1638
+1391,"smokey, rich cocoa, spice",3.25,1642
+1392,"creamy, mild honey, floral",3.75,1642
+1393,"floral, caramel",3.5,927
+1394,"dry, roasty, toffee",2.5,327
+1395,"chalky, fatty, sweet",3.0,833
+1396,"chalky, cocoa, tangy",3.0,833
+1397,"fatty, nutty, woody",3.0,853
+1398,"spicy, grassy, roasty",3.5,1784
+1399,"simple, earthy, cocoa",3.0,2048
+1400,"sandy, rich cocoa",3.25,2048
+1401,"complex, dairy, roasty",3.5,2048
+1402,"well balanced, melon",3.75,1972
+1403,"base cocoa, mild ham, woody",3.25,2262
+1404,"sandy, off, hammy",2.75,2266
+1405,"sandy, light color, grape",3.5,2266
+1406,"intense, sticky, cocoa",3.5,1371
+1407,"dried fruit, nutty, mushroom",3.25,1562
+1408,"cocoa, spice, fruit",3.5,1562
+1409,"roasty, black pepper, woody",3.0,1566
+1410,"red fruit, brownie",3.25,1566
+1411,"subtle, spicy, banana",3.5,1566
+1412,"floral, black licorice",3.25,1728
+1413,"smokey, mild berry",3.25,1952
+1414,"strong raspberry, mocha",3.5,1952
+1415,"mild, licorice, coffee, cocoa",4.0,1984
+1416,brownie,3.75,2122
+1417,"woody, mocha, molasses",3.25,2338
+1418,"spoiled milk, sweet, molasses",3.25,2442
+1419,"buttery, sunflower, astringent",3.5,2562
+1420,home baked banana nut bread,3.75,2562
+1421,"sandy, citrus",3.5,1231
+1422,"sweet edge, bright fruit, off",3.0,1856
+1423,"creamy, strawberry, cocoa",3.5,855
+1424,"fatty, nutty, melon like",3.5,903
+1425,"rich cocoa, spicy edge",3.75,903
+1426,"grits, roasted, nutty",2.75,947
+1427,"fatty, roasty, cocoa",3.0,947
+1428,"fatty, grassy, cocoa",3.5,947
+1429,"harsh burnt, mild cocoa, tang",3.0,157
+1430,"grassy, rubbery, chemical",2.5,2538
+1431,"basic cocoa, dirty/burnt edge",3.0,2538
+1432,"spicy, sweet, cocoa",3.0,2538
+1433,"black pepper, vanilla, harsh",2.5,1049
+1434,"aluminum, mild coffee, roasty",3.0,1093
+1435,"strong, brandy, smoke",3.0,1097
+1436,"sandy, floral, vanilla, candy",3.5,1097
+1437,"spicy, candied, complex",3.75,1383
+1438,"sweet, candy-like, nutty",3.25,1395
+1439,"dairy, pudding",3.75,1395
+1440,"cherry, fatty, cocoa",3.0,2586
+1441,"sweet, sl. smokiness, fruit",2.75,2590
+1442,"multiple off flavors, metallic",2.0,1502
+1443,potting soil,2.5,2194
+1444,"smokey, earthy, cocoa",3.0,2194
+1445,"nutty, mild dairy",3.25,2198
+1446,intense mocha flavor,3.5,2198
+1447,"oily, burnt, earthy",3.25,1976
+1448,"rustic, basic cocoa, earthy",3.0,2238
+1449,"mild sweet honey, rum, off",3.25,2692
+1450,"smoke, fruit, ham, fatty",3.25,2518
+1451,"very sweet, caramel, candy",2.75,552
+1452,"sticky, marshmallow, cocoa",3.0,552
+1453,"watered down coffee, cocoa",3.0,552
+1454,"marshmallow, rich brownie",3.5,552
+1455,"roasted pear, cocoa, sour",3.25,2502
+1456,"fatty, dominant roast, spice",3.25,2502
+1457,"deep cocoa, sl. pungent, sandy",3.0,2506
+1458,"candied, sweet cocoa, roasty",3.25,2506
+1459,"spice, coconut",3.5,2506
+1460,"extremely sweet, vanilla",2.25,552
+1461,"vanilla, strong chemical",1.5,721
+1462,"gritty, roasty, rubbery",2.5,2426
+1463,"gritty, cocoa base, ashey",2.75,2430
+1464,"sandy, red berry, cocoa",3.5,284
+1465,"sandy, woody, peanut butter",3.75,284
+1466,"intense, nutty, cocoa",4.0,284
+1467,"sticky, bitter, nutty",3.5,288
+1468,"very sticky, nutty, woody",2.5,2664
+1469,"raisiny, chewy",2.75,607
+1470,"sandy, sweet, strong vanilla",2.5,672
+1471,"sticky, strong vanilla, pepper",2.75,693
+1472,"creamy, vanilla, rich fruit",3.25,991
+1473,"creamy, burnt nuts, woody",3.25,995
+1474,"vanilla, brownie, peanut",3.5,995
+1475,"intense vanilla, swiss miss",2.75,1085
+1476,"strong vanilla, nut, coffee",3.5,1085
+1477,"fatty, vanilla, candy-like",2.75,1089
+1478,"vanilla, earthy, caramel",2.75,1089
+1479,"mild earthy, mild cocoa, nut",3.5,1940
+1480,"chalky, astringent, vanilla",2.0,300
+1481,"creamy, nutty, mass market",3.0,308
+1482,"nutty, cooling sensation",3.25,308
+1483,"creamy, hay, nutty",3.75,308
+1484,"strong vanilla, some spice",2.0,531
+1485,"cardboard, tea-like",2.75,184
+1486,"creamy, sublte grape notes",3.5,184
+1487,"sandy, sweet, cocoa",3.5,1121
+1488,"gummy, smokey, hammy",2.75,2226
+1489,"sweet, vanilla, easter candy",2.75,311
+1490,"creamy, crunchy, very sweet",3.5,502
+1491,"hammy, unrecognizable",3.0,1856
+1492,"berry, nutty, sour",3.75,821
+1493,"rubber, off medicinal",2.5,1219
+1494,"nutty, green",2.75,1219
+1495,"soil, wet, off notes",2.5,1446
+1496,"muted, nutty",2.75,1331
+1497,"molassses, intense, off, herb",3.25,1003
+1498,"oily, tangy, fruit, earthy",2.75,1007
+1499,"banana, menthol, medicinal",3.0,1007
+1500,"molasses, sweet, cocoa",3.25,1007
+1501,"orange, cocoa",3.75,1089
+1502,"smoke, fruit",3.5,1522
+1503,"dried fruit, balanced, cocoa",3.75,1522
+1504,"sweet, fatty, fig",3.25,2032
+1505,"dried fruit,spicy,sticky,intense",3.5,2442
+1506,"chewy, brownie like",3.25,871
+1507,"cocoa, coconut",3.5,871
+1508,"grits, roaste brownie",3.25,875
+1509,"nutty, intense, roasty",3.75,1255
+1510,"coarse, intense, nutty",3.5,1279
+1511,"basic, balanced, deep cocoa",3.75,1844
+1512,"nutty, roasty,",3.5,1848
+1513,"fruity, tangy, cocoa",3.5,1474
+1514,"delicate, caramel, peanut",3.5,1474
+1515,"coarse, floral, rum",3.5,1478
+1516,"heavy roast, few grits, rich",2.75,1606
+1517,"rich, bright fruit",3.5,1606
+1518,"lemon, spicy, cocoa",3.5,1606
+1519,"roasty, coffee, rubber",2.75,1610
+1520,"sweet, fatty, roasty",3.0,1610
+1521,"grassy, woody, sweet",3.5,1634
+1522,"intense, sour, tart",3.25,1896
+1523,"earthy, tobacco, ashey",3.0,1956
+1524,"complex, creamy, cherry",3.5,2040
+1525,"off notes, rubbery, hammy",3.0,2262
+1526,"sweet, spicy, dirty",3.25,2262
+1527,"smokey, dirty, sour",2.75,1884
+1528,"smoked nuts, tang",3.25,2610
+1529,"mild orange, herbaceous",3.5,2610
+1530,"earthy, musty, sweet",2.75,2598
+1531,"floral, earthy, acidic, harsh",2.75,2598
+1532,"delicate, nutty, butterscotch",3.25,2598
+1533,"earthy, coffee, roasty",3.25,1808
+1534,"dried fruit, woody, dirty",2.75,2158
+1535,citrus,3.5,845
+1536,"roasty, coffee",3.5,845
+1537,"cocoa, spice, late sour",3.5,845
+1538,"sticky, pepper, cinamon, rich",3.5,849
+1539,"creamy, fatty, black pepper",3.0,895
+1540,"melon, roasty",3.5,955
+1541,"fatty, heavy roast, nutty",3.5,1149
+1542,"long, mild honey, rich cocoa",3.25,1650
+1543,"roasty, rich, coffee, nut",3.5,1650
+1544,spicy and fragrant,3.75,1650
+1545,"fatty, roasty, nutty",3.5,2258
+1546,"intense orange, floral",3.0,537
+1547,"chewy, earthy, spicy",3.0,544
+1548,"cocoa, earth, wheat",3.25,544
+1549,"intense, dark berry, cocoa",3.5,544
+1550,"waxy, rubber, medicinal",2.25,1189
+1551,"fatty, rubber, medicinal",2.5,1189
+1552,"sticky, pungent, off note",2.75,1836
+1553,"sandy, earthy, sweet edge",3.0,1836
+1554,"sandy, mild floral, mild nutty",3.25,1836
+1555,"sticky, woody, musty",2.75,572
+1556,"dry, sticky, nutty, earthy",3.0,572
+1557,"sticky, earthy, coffee",3.25,572
+1558,"rich cocoa, coffee, roasty",3.5,672
+1559,"sandy, strawberry, sour",3.0,701
+1560,"dry, sandy, intense, berry",3.0,709
+1561,"gritty, high astringent, sour",2.75,713
+1562,"gritty, tangy, cocoa",3.5,773
+1563,"gritty, sticky, smoke,hammy",2.75,777
+1564,"orange,lemon,coffee ground",3.0,777
+1565,"dry, gritty, red berry, coffee",3.25,777
+1566,"gritty, raspberry, sour",3.75,777
+1567,"gritty, fruit, tart, rich",3.5,959
+1568,"gritty, overly tart, sour",2.5,999
+1569,"gritty, sour, sweet",2.75,999
+1570,"tart, deep choco",3.75,1359
+1571,"mild bitter, citrus, intense",3.0,1450
+1572,"green, vegetal, mild spice",3.25,1450
+1573,"sticky, butterscotch, nutty",3.5,1177
+1574,"sticky, red fruit",4.0,1177
+1575,"creamy, grassy, smoke, nut",4.0,1177
+1576,"nutty, fruity, spicy",3.75,1181
+1577,"sweet, banana, mild sour orange",3.5,2704
+1578,"heavy roast, smoke",3.25,1367
+1579,"roasty, coffee",3.25,1367
+1580,"intense, burnt, bitter, spice",3.25,1430
+1581,"sweet, cherry, cream, raisin",3.5,1430
+1582,"nutty, cheese, savory",3.0,2482
+1583,"sweet edge, sour fruit",3.25,2482
+1584,"roasty, hammy, dirty",3.0,2486
+1585,"gritty, sweet, earthy",3.0,1728
+1586,"musty, woody, rubbery, roasty",2.5,2474
+1587,"cocoa, strawberry",3.25,2478
+1588,"pungent, off",2.5,1287
+1589,"molasses, sweet, choco",2.75,1287
+1590,"spicy, metallic, molasses",3.0,1287
+1591,"fatty, sligthly bland, earthy",3.0,1291
+1592,"high roast, nutty, deep choco",3.5,1291
+1593,"floral, earthy, bitter",2.5,2362
+1594,"dry, floral, dirty, coconut",2.75,2362
+1595,"smooth, coconut, cocoa",3.25,2362
+1596,"creamy, coconut, cocoa",3.25,2362
+1597,"sticky, tart, slight burnt",2.5,837
+1598,"uneven, smokey, hammy",2.5,841
+1599,"chewy, woody, off notes",2.5,2732
+1600,"intense, ham, butterscotch",3.25,1347
+1601,"intense, grassy, spicy, rich",3.5,1347
+1602,"acidic, pomegrant, brownie",3.25,1351
+1603,"dried fruit, rich cocoa",3.5,1351
+1604,"fatty, bitter, woody, roasty",2.75,1494
+1605,"dairy, caramel",3.0,1494
+1606,"earthy, floral, rubbery",2.5,2250
+1607,"fatty, creamy, olive",3.0,1267
+1608,"creamy, fatty, mild cherry",3.5,1267
+1609,"roasty/smokey, high acidity",3.25,2166
+1610,"dried fruit, mild hammy",3.75,2170
+1611,"accesible, simple cocoa note",3.5,1688
+1612,"grape, mild smoke, sandy",3.5,2210
+1613,"pungent, grape, apricot",3.0,2716
+1614,"sweet, crisp nibs",2.0,24
+1615,bitter coffee flavor,2.0,24
+1616,"creamy, licorice, herbs",3.0,24
+1617,"creamy, raisins, licorice",3.75,24
+1618,"grapefruit, spices",3.75,24
+1619,tropical fruit and mild smoke,3.75,24
+1620,"smooth, bold, bitter",2.0,81
+1621,"cocoa, orange",3.5,117
+1622,"creamy, smoke, raspberry",3.5,135
+1623,"raisins, melon",3.75,963
+1624,"sandy, earthy, fatty",3.25,2020
+1625,"sandy, grits, nutty, vanilla",3.0,2270
+1626,"dairy, cocoa, fatty, apple",3.5,2438
+1627,"chemical, salt, wtf",1.5,887
+1628,"sticky, cardboard,why bother",2.0,887
+1629,"leather, salt",2.5,887
+1630,"molassses, palm, spicy",2.5,1117
+1631,"strawberry, cream, spice",3.25,1117
+1632,"woody, lemon, mild bitter",3.5,1490
+1633,"black pepper, dairy",3.5,1490
+1634,"spicy, rich, mint",3.75,1490
+1635,"nutty, grassy, woody",3.75,1490
+1636,"banana, melon, fatty",3.25,1538
+1637,"rum, herbal, rich",3.5,1538
+1638,"fatty, simple",3.0,2112
+1639,"candy spices, sweet",3.25,2112
+1640,"grape, cocoa",3.5,2112
+1641,"complex, true to origin",3.25,2114
+1642,"wine, brownie batter",3.5,825
+1643,"unrefined, burnt nuts, vanilla",2.5,1073
+1644,"sandy, nutmeg, astringent",3.0,2346
+1645,"dry, sandy, empty, sweet",3.0,2346
+1646,"dry, sandy, dirt, empty",3.0,2346
+1647,"sandy, green, grassy, harsh",2.75,2566
+1648,"unripe fruit, sour, watery",3.0,2570
+1649,"sandy, bitter, sour fruit",3.0,2570
+1650,"cocoa, mild pear, sticky",3.5,2210
+1651,"intense, sour, hammy",3.0,2214
+1652,"cocounut, late sour",3.25,2214
+1653,"grape, thick, chewy",3.75,2214
+1654,"dry, coffee notes from roaster",2.75,607
+1655,"sandy, harsh, floral",2.75,2382
+1656,"gritty, sweet, earty",3.5,1920
+1657,"few grits, intense smoke",3.0,1960
+1658,"tangy, roasty, ham",3.25,1960
+1659,"sweet, licoric",3.5,1960
+1660,"slight grainy, roasty, spicy",3.5,1960
+1661,"complex, fruit, nut, rich",3.75,2370
+1662,"sour fig, cocoa, creamy, fatty",3.5,2458
+1663,"coarse, smokey, citrus",3.5,1626
+1664,"sticky, blackberry, acidic",3.75,1880
+1665,"powdery, intense, floral",3.0,2354
+1666,"vanilla, artificial, sweet",2.5,955
+1667,"rough, sweet, dairy, vanilla",2.75,607
+1668,basic cocoa,3.25,1026
+1669,"strawberry, blueberry",3.0,1030
+1670,earthy,3.0,2170
+1671,"dirty, rubbery, spicy",2.5,2198
+1672,"dark berry, earthy",3.5,2338
+1673,"roasty, honey, sweet",3.0,2350
+1674,"cocoa, fig, classic",3.75,2450
+1675,"creamy, off note, rubbery, petro",2.75,2648
+1676,"dark fruit, slight harsh molasses",3.25,2652
+1677,"overly intense, tart, red fruit",3.0,1614
+1678,"intense, smokey, floral",2.75,1618
+1679,"dry, nutty, fruity",3.25,1618
+1680,"unrefined, hay, sweet",2.75,661
+1681,"unrefined, bright berry, sweet",2.75,661
+1682,"fatty, floral, spicy",3.25,2142
+1683,"earthy, spicy, cocoa",3.5,1812
+1684,"black tea, floral",3.5,2680
+1685,"smoke, ham, sour milk",3.25,1391
+1686,"chalky, powdery, molasses",3.25,2222
+1687,"intense, floral, cocoa,long lasting",3.75,2542
+1688,"licorice, cocoa",3.5,2656
+1689,"spicy, smoke, sour",3.25,1654
+1690,"spicy, sweet, fragrant",3.5,1654
+1691,"spicy, fragrant, bitter",3.5,1658
+1692,"light color, spicy, sweet, sour",3.0,2490
+1693,"grassy, spicy, sweet",3.5,1462
+1694,"sweet, rich",3.5,1462
+1695,"Fruity, Roasty",3.5,2190
+1696,"gritty, sweet, earthy",2.75,1896
+1697,"dry, earthy, atypical",2.75,1896
+1698,"sweet, molasses, gritty",2.75,1900
+1699,"gritty, tart, molasses",3.0,1900
+1700,"too sweet, earthy, off notes",2.5,1049
+1701,"earthy, spicy, cocoa",3.0,1049
+1702,"sandy, oranges",2.5,867
+1703,"sandy, floral, spice, roasty",3.75,1046
+1704,"orange, floral, caramel",3.75,1133
+1705,"sandy, intense, tropical fruit",3.25,1379
+1706,"coarse, sweet, minty",2.75,1399
+1707,"coarse, sweet",3.0,1399
+1708,"bold, savory, creamy",3.25,2418
+1709,"strong, rubbery, woody, sweet",2.75,2458
+1710,"sandy, spicy, earthy",3.5,1007
+1711,"metallic, medicinal, pungent",2.25,1403
+1712,"grassy, dirt, mild spice",2.5,1403
+1713,"intense, pungent, sour fruit",2.5,1403
+1714,"brownie, toffee",3.5,1403
+1715,"dry, sandy, sweet, acidic",3.25,2060
+1716,"non descript, poor aftertaste",2.0,15
+1717,"grassy, earthy, burnt",2.75,15
+1718,"pastey, complex, coffee,vanilla",3.0,24
+1719,"pastey, strong off flavor",1.0,135
+1720,"complex, intense banana",3.75,230
+1721,"gritty, vanilla, non-descript",2.5,531
+1722,"molasses, nut, roasty, bitter",2.25,1526
+1723,"molasses, rum, tea",2.75,1526
+1724,"molasses, bright fruit",3.0,1526
+1725,"molasses, malt, raisin",3.0,1526
+1726,notes from sugar,3.0,2134
+1727,"molasses, dried fruit",3.25,2732
+1728,"molasses, earthy, flat",3.0,2732
+1729,"spicy, red fruit, raisins",2.75,1022
+1730,"single note, spicy",3.5,1022
+1731,"floral, cocoa, creamy",3.75,2398
+1732,"pungent, grape, sour",3.0,2142
+1733,"sweet, melon notes",3.0,2158
+1734,"spicy, vanilla, sweet",2.75,2162
+1735,"basic cocoa, sour ending",3.0,2174
+1736,"sour, rubbery, off",2.75,2282
+1737,"strong base cocoa, rubber",3.25,2394
+1738,"nutty, high roast, spice",3.0,1295
+1739,"coconut, mild metallic",3.0,1299
+1740,"roasty, mild orange",3.25,1299
+1741,"sweet, candy like, dairy",3.0,837
+1742,"sweet, spicy, cocoa",3.0,841
+1743,"orange,citrus, high astringency",3.5,2736
+1744,"sl. Burnt, nutty, fruit in back",3.25,2756
+1745,"delicate, coffee, caramel",3.75,2760
+1746,"sl. sweet, basic cocoa",3.0,2760
+1747,"grass, tobacco",3.0,2760
+1748,"tart, lemony , high astringency",3.5,2760
+1749,"woody, coffee,roasted cherry",3.0,931
+1750,"fatty, honey, earthy",2.75,935
+1751,"sandy, strawberries",3.25,935
+1752,"rich, cherry, smoke, cocoa",3.75,1454
+1753,"earthy, roasted nuts",2.75,1458
+1754,"intense, slightly burnt",3.0,1458
+1755,"fruity, sour, high astringent",3.5,1458
+1756,"rich, mild smoke, red fruit",3.75,1470
+1757,"cocoa, nut, dried fruit, rubbery",3.0,2486
+1758,"spicy, cocoa, hammy",3.25,2486
+1759,"nutty, banana, cocoa",3.5,1876
+1760,"grassy, vanilla, burnt",2.5,478
+1761,"creamy, roasty, mild grape",3.75,1638
+1762,"intense grapes, sweet cocoa",3.75,2386
+1763,"melon, earthy, tobacco",3.75,1558
+1764,"peanut butter, raspberry",4.0,1558
+1765,"smoke, sour fruit, hammy",2.75,1411
+1766,"smoke, sour fruit, hammy",3.0,1411
+1767,"intense, bitter, sour, smokey",3.25,1411
+1768,"smokey, intense, coffee",3.5,1411
+1769,"bitter, intense, nutty",2.75,1760
+1770,"cocoa, roasty, nutty",3.5,1760
+1771,"damp woody, leather, cocoa",3.0,2490
+1772,"sour banana, muted",3.0,2494
+1773,"dominant hazelnut, fudge",3.25,2494
+1774,"intense tart, sourness",3.25,2494
+1775,"silky smooth, cherry, cocoa",3.75,2494
+1776,"walnut, tobacco, grassy",3.25,2498
+1777,"complex,cranberry,malt, vanilla",3.75,2498
+1778,"blackberry, tang",3.75,2566
+1779,"sharp fruit, intense, sl. Sour",3.0,2582
+1780,"burnt fudge, nutty",3.25,2582
+1781,"deep cocoa, cherry, slight ashy",3.25,2696
+1782,"berries, burnt, rubbery, off",3.0,2704
+1783,"strong start, fruity, acidic",3.5,2704
+1784,"off notes, sour, roasty",2.75,1594
+1785,"sweet,sandy, fruit, pungent",3.0,1598
+1786,"rich cocoa, one dimensional",3.5,761
+1787,"creamy, cherry, acidic",3.75,2142
+1788,"sandy, cheese, sour",2.75,457
+1789,"fatty,cheese, musty",3.0,457
+1790,"earthy, cheesy",3.0,486
+1791,"gritty, simple cocoa, burnt",3.0,486
+1792,"intense, medicinal, leathery",2.0,688
+1793,"rubber, cocoa, bitter",2.75,688
+1794,"creamy, medicinal, mint, bitter",2.75,688
+1795,"sticky, berry, bitter",3.0,688
+1796,"grits, strong vanilla, brownie",2.75,693
+1797,intensely smokey,3.0,1247
+1798,"red berry, mild molasses",3.5,1247
+1799,"sweet, dried fruit, gateway",3.75,1816
+1800,"intense spice, coarse",3.0,2036
+1801,"sweet, tart, raisin, sour ending",3.25,2514
+1802,"roast dominates,spicy,astringent",3.25,2518
+1803,"sweet edge, dried fruit, lemon",3.5,2518
+1804,"caramel, honey, roasty",3.25,2676
+1805,"tart, green apple, rich",3.5,2676
+1806,"burnt honey, rubbery",2.75,2680
+1807,"grape, punchy, deep cocoa",3.25,2680
+1808,"sandy, ashey, mild fruit",2.75,1161
+1809,"sandy, roasty, fruity",2.75,1165
+1810,"grits, roasty, woody",2.75,1165
+1811,"sandy, cinamon, high roast",3.0,1165
+1812,"spicy, sweet, high roast",3.0,1165
+1813,"fatty, bland, some spice",3.0,2076
+1814,vegetable and honey,3.0,331
+1815,"creamy, sour banana, lemon",3.0,341
+1816,"rich cocoa, bread notes",3.25,341
+1817,"creamy, melon, subtle",3.75,733
+1818,"fatty, dates, musty",2.75,1438
+1819,"creamy, mild bitter, coffee",3.25,1442
+1820,"muddy, pastey, sweet, vanilla",3.0,24
+1821,"sticky, tobacco",3.0,316
+1822,"dry, banana, molasses",3.0,859
+1823,"sandy, molasses, brownie",3.0,859
+1824,"floral, rubber, vanilla, metallic",2.75,224
+1825,"sandy, rubber, spice, floral",3.0,224
+1826,"creamy, sweet, green",3.0,224
+1827,"bitter, earthy",2.0,266
+1828,"sandy, green, spice, nuts",3.5,266
+1829,"waxy, sandy, floral",3.5,721
+1830,"spice, mostly bitter",2.75,817
+1831,"light color,complex,molasses",4.0,863
+1832,"floral, green, tannic",3.25,1415
+1833,"savory, smokey",3.5,1415
+1834,"creamy, green fruit, candied",3.75,1415
+1835,"creamy, spicy, cocoa",4.0,1415
+1836,"complex, balanced",4.0,1848
+1837,"vanilla, sweet, gateway",3.5,2230
+1838,"molasses, tart, vegetal",3.25,2234
+1839,"creamy, tobacco, cocoa",3.75,2234
+1840,"vinegar, sour",2.75,1239
+1841,"red fruit, intense, bright",3.75,1239
+1842,"earthy, nutty, black pepper",2.75,1303
+1843,"intense floral, slight woody",3.5,1399
+1844,"mellow, fruity, brownie",3.75,1399
+1845,"slow, sweet, spicy",3.25,1570
+1846,"maple, spicy, cocoa",3.25,1570
+1847,"rich cocoa, dried fruit",3.5,1574
+1848,"cocoa, melon, dairy",3.75,1574
+1849,"fruity, off rubber",2.75,1720
+1850,"strawberry, savory",3.0,1720
+1851,"grape, pungent, off sour",2.75,1992
+1852,"sticky, bold, nutty, fig",3.5,1992
+1853,"creamy, burnt rubber, off",2.75,2000
+1854,"intense spicy, floral",3.5,2286
+1855,"intense, bitter, spicy",3.0,1860
+1856,"fig, sour, rubbery",3.25,2298
+1857,"fruit, sour, roasty",3.25,2298
+1858,"cocoa, earthy, roasty",3.25,2302
+1859,"sandy, fruit, cocoa, sour",3.5,2302
+1860,"harsh, tobacco, roasty",2.75,2334
+1861,"burnt caramel, coffee",3.0,2334
+1862,"mild nutty, basic cocoa",3.5,1363
+1863,"gritty, woody, acidic",3.0,1251
+1864,"mild spice, grapes",3.5,1255
+1865,"intense, blackberry, acidic",3.5,1542
+1866,"sour, earthy, roasty",3.25,1856
+1867,"fatty, woody, poor aftertaste",2.75,2274
+1868,"rubbery, buttery, soil",2.75,2274
+1869,"nut, roasty, high astringent",3.0,2278
+1870,"gritty, sweet, off",2.5,1137
+1871,"gritty, earthy, melon",2.75,1137
+1872,"mild tart, wine, red fruit, long",4.0,196
+1873,"simple red berry, rich, long",4.0,331
+1874,"creamy, fruit forward, rich",3.5,439
+1875,"earthy, nutty",3.5,439
+1876,"smooth, red berry, cocoa",3.75,636
+1877,"creamy, cocoa, grapes",4.0,1034
+1878,"sticky, mild citrus, earthy",2.25,1271
+1879,"coarse, sweet, tart, earthy",2.75,1271
+1880,"coarse, earthy, sweet",3.0,1454
+1881,"mild smokey, black licorice",3.0,2258
+1882,"off aroma, anise, dried fruit",3.25,2294
+1883,"mild tart, long and rich",4.0,81
+1884,"red fruit, smokey, sour",3.0,93
+1885,"rich cocoa, marshmallow",3.75,93
+1886,"rich cocoa, tart citrus",4.0,111
+1887,"creamy, cocoa, grassy",3.75,129
+1888,"tangy, floral, spicy, cocoa",4.0,141
+1889,"cinamon, bitter aftertaste",3.5,166
+1890,"smokey, floral, mild",3.0,414
+1891,"bland, subtle dairy, burning",3.0,445
+1892,"strong vanilla, nutty, spicey",3.0,478
+1893,berry notes with sweet edge,3.25,478
+1894,"chunky, rich and spicy",3.75,516
+1895,"bitter, coffee, cocoa",3.0,531
+1896,"mild fruit, woody",3.25,1658
+1897,"powdery, roasty, off flavor",3.0,2342
+1898,"rich cocoa, off flavor",3.0,2342
+1899,"fruity, rich, grassy",3.5,2700
+1900,"swiss miss, pistachio, rich",3.0,2462
+1901,"sweet, cream, cherry, rich",3.5,2462
+1902,"creamy, fruity, mocha",3.5,2462
+1903,"banana, earthy ending",2.5,1772
+1904,"intense, dried fruit, roasty",3.25,1311
+1905,"intense smoke, medicinal",2.5,1315
+1906,"tobacco, woody, rum",3.25,1319
+1907,"intense, floral, leather",3.5,1319
+1908,"coarse, earthy, metal, sweet",2.5,1506
+1909,"dry, sandy, earthy, leathery",2.75,1506
+1910,"metal, earthy, pungent",2.75,1510
+1911,"metal, molasses, roasty",2.75,1510
+1912,"chunky, dairy, nutty, rich",3.25,1510
+1913,"sandy, dried fruit, earthy",3.0,2530
+1914,"slightly bitter, earthy, fruity",3.0,2530
+1915,"raisins, grapes, tart",3.25,2530
+1916,"molasses, banana, chemical",2.5,829
+1917,"dry, red berry, off note",2.75,829
+1918,"sweet, spoiled milk, vegetal",2.75,2582
+1919,tart with woody undertones,3.0,2582
+1920,"extra sweet, nutty, deep cocoa",3.0,2586
+1921,"bright red fruit,smoke,powerful",3.75,607
+1922,"grass,chewy,nibs add bitterness",3.5,647
+1923,"fudgey, mild smoke",3.0,654
+1924,"grassy, earthy",2.75,789
+1925,"mint, candied",3.5,789
+1926,"mildy nutty, cocoa, spice",3.75,1387
+1927,"dense, rich, nuanced",3.75,1820
+1928,"marshmallow, distinquished",4.0,2076
+1929,"light cocoa, dairy,faint cinnamon",3.75,2538
+1930,"anise, cocoa, dried fruit",3.75,2622
+1931,"creamy, spicy",3.75,32
+1932,"smoke dominates, mild fruit",3.0,40
+1933,"vegetal, fruit, smoke",3.75,93
+1934,"earthy, tobacco, mushroom",3.0,99
+1935,"sandy, roasty, cocoa",3.0,99
+1936,"tart, fruit, cocoa",3.5,99
+1937,"creamy, fatty, burnt",3.0,105
+1938,"large nibs, spicy, cocoa",4.0,162
+1939,"fatty, mild fruit, bitter, smoke",3.0,202
+1940,"sandy, sour",2.0,280
+1941,"complex, herbal, sour",3.5,280
+1942,"creamy, burnt,ashey, lemon",2.0,451
+1943,"nutty, red berry, rich",3.5,486
+1944,"burnt nuts, subtle fruit",3.25,717
+1945,"subdued, floral, nutty, fatty",3.25,1446
+1946,"complex, smoke, intense, ham",3.0,2406
+1947,"fruit, woody, ashey, fatty",3.0,2410
+1948,"roasty, black licorice, rubbery",3.0,2410
+1949,"tobacco,deep cocoa, sl. burnt",3.25,2410
+1950,"deep cocoa, fatty, mild ashey",3.5,2410
+1951,"high acidity,roasty,sour,chalky",3.0,2414
+1952,"rich cocoa, fatty, roasty",3.25,2414
+1953,"spicy, cocoa",3.5,2414
+1954,"sandy, coffee, sweet, roasty",3.0,2418
+1955,"dried fruit, floral",3.5,2418
+1956,"sour palm, rich cocoa, fruit",3.25,2118
+1957,"molasses, coffee, cocoa",3.25,2118
+1958,"fruit, tart, fertilzer",2.75,2318
+1959,"nutty, fuel, intense",2.75,1223
+1960,"perfume, roasted caramel",3.0,1223
+1961,"long, mellow, buttery",3.25,1223
+1962,"floral, slightly burnt, intense",2.75,1227
+1963,"dark berry, mild floral",3.5,1502
+1964,"dairy, butterscotch, caramel",3.5,1530
+1965,"chunky, earthy, rubber",2.75,1688
+1966,"floral, grain, deep cocoa",3.5,1872
+1967,"sticky, mild, hay, honey",3.75,1956
+1968,dominant savory,3.25,2166
+1969,"fatty, vanilla, orange",2.75,931
+1970,"intense, fig, roasty, citrus",3.5,1984
+1971,"few grits, strong floral",3.25,1988
+1972,intense smoke,3.25,1988
+1973,"spice, sunflower",3.5,1988
+1974,"peanut, soy, sunflower",3.75,1988
+1975,"sweet, intense banana",3.0,935
+1976,"muted, banana, hot cocoa",3.25,935
+1977,"sticky, intense, roasty, fruit",3.25,1057
+1978,"mild bitter, banana, citrus",3.5,1057
+1979,"creamy, too sweet, sour",2.75,1069
+1980,"tannic, fruity, cocoa",3.25,1069
+1981,"pungent, grapes",3.0,2238
+1982,"bold, nutty, floral, wine",3.75,2426
+1983,"intense plum, harsh woody",3.5,2470
+1984,grapes and honey,4.0,2506
+1985,"bold, fig w/ floral undertone",3.75,2594
+1986,"gritty, waxy, leather",2.75,1796
+1987,"waxy, gritty, spicy, hammy",3.0,1800
+1988,"creamy, pasty, bitter, cocoa",3.5,785
+1989,"gritty, sticky, candied",3.25,959
+1990,"refined, honey, rubber",2.75,1708
+1991,"pungent, green, citrus",3.0,1788
+1992,green,3.25,2032
+1993,basic cocoa,3.5,2032
+1994,"Easter candy, burnt",2.75,470
+1995,slightly dry and super spicey,3.0,565
+1996,"oily, intense vinegar",2.5,1558
+1997,"fruity, melon",3.25,1562
+1998,"dried fruit, raisins, nutty",3.5,1562
+1999,"fruit, yogurt, astringent",3.25,2668
+2000,"fatty, cocoa",3.25,1872
+2001,"creamy, complex, maple",3.75,2158
+2002,dominant spice,3.75,2158
+2003,"floral, malt, high astringcy",3.5,2166
+2004,"floral, roasted cacao, dirty",3.5,2330
+2005,"grassy, earthy, roasty, dirty",3.5,2334
+2006,"gateway, nutty, rich cocoa",3.5,2618
+2007,"smooth, green, vegetal",2.5,867
+2008,"cinamon, hazelnut, roasty",3.0,147
+2009,"creamy, caramel, dairy",3.5,147
+2010,"vanilla, dark roast, spicy",3.75,170
+2011,"strong rubber, off chemical",2.5,439
+2012,"strong spicey, earthy green",3.25,494
+2013,"dark berry, woody,astringent",3.5,745
+2014,"dark berry, tropical, nutty",4.0,891
+2015,"dried fruit, nut, bitter, roasty",3.25,967
+2016,"orange, heavy roast",3.5,979
+2017,"thick, slow, pure",3.75,1089
+2018,"intense, roasty, spice",3.0,1181
+2019,"mild bitter, woody, bourbon",3.5,1466
+2020,"sticky, woody",3.5,1466
+2021,"floral, bourbon, balanced",3.75,1860
+2022,"smooth, coffee, rich cocoa",3.75,2008
+2023,"complex, honey, fruit, nut",3.5,2282
+2024,"rich brownie, dried fruit",3.5,2418
+2025,"tart fruit, roasty",3.5,2514
+2026,"muted, heavy roast",3.0,2080
+2027,"fatty, rubbery, nutty",2.5,2354
+2028,"fatty, rubbery, off",2.5,2354
+2029,"dried fruit, intense",3.25,1844
+2030,"fatty, honey, slight sour",3.25,1844
+2031,"roasty, coffee, intense",3.25,1844
+2032,"rich cocoa, nutty",3.25,1061
+2033,"basic cocoa, large nibs",3.25,1061
+2034,"earthy, mild nutty",3.5,923
+2035,"nutty, earthy, mild off note",2.75,213
+2036,"sandy, heavy roast, woody",2.75,213
+2037,"raisins, sour, roasty",3.0,213
+2038,"dry, honey, roasty",3.0,213
+2039,"mint, sweet spices",3.5,327
+2040,"smooth,intense,fruit, complex",3.75,565
+2041,"rich brownie, roasty, sour",3.0,793
+2042,"floral, bourbon, mocha",3.75,979
+2043,"creamy, heavy roast, citrus",3.5,1038
+2044,"sticky, earthy, smokey",3.5,1081
+2045,"smooth, banana, tart, roasty",4.0,1081
+2046,"intense, dark berry, spice",3.75,1193
+2047,"red fruit, intense, earthy",3.75,1209
+2048,"deep, rich, nutty, roasty",3.75,1446
+2049,"roasty, dried fruit, sour",3.25,1566
+2050,"robust, tart, roasty",3.75,1748
+2051,"fatty, roasty, coffee",3.5,713
+2052,"intense, burnt, chemical",2.5,717
+2053,"uneven melt, cashew",3.5,717
+2054,"smokey, nutty, fat residue",2.75,765
+2055,"fatty, chemical, roasty",2.5,809
+2056,"fatty, burnt, nut, vegetal",2.25,871
+2057,"buttery, sour tang, off notes",2.5,871
+2058,"nuts, chocolate, mellow",3.75,2004
+2059,"blackberry, mild floral",3.75,2672
+2060,"off note, vegetal, nibby",2.75,1964
+2061,"cocoa base, spice",3.0,2036
+2062,"complex, coarse, astringent",3.5,2036
+2063,"clean, pure cocoa, cherry, gritty",3.5,2660
+2064,"mild smoke, tart, spice, harsh",2.75,2668
+2065,"sandy, subtle fruit then cocoa",3.5,607
+2066,"sticky, intense, very bitter",1.5,615
+2067,"fudgey, astringent, sour",3.0,615
+2068,"fatty, cocoa, nutty",3.5,615
+2069,"sandy, sweet, spice",3.5,615
+2070,"grassy, strong bitter",2.75,813
+2071,"grassy, maple",3.25,813
+2072,"creamy, vanilla, rich",3.5,288
+2073,"nutty, spicy, floral",3.5,288
+2074,"nutty, basic cocoa",3.5,288
+2075,"floral, spicey",3.5,292
+2076,"few grits, basic, gateway",3.25,2004
+2077,"too sweet, candy-like",2.0,32
+2078,"sweet, cherry, marshmallow",3.0,32
+2079,"rustic, cherry, marshmallow",3.75,32
+2080,"roasty,rich cocoa,marshmallow",2.75,404
+2081,"sweet, marshmallow",3.0,414
+2082,"perfume, vanilla",2.75,761
+2083,"dry, bitter, poor aftertaste",2.0,15
+2084,"cherry, mild bitter",3.5,15
+2085,"fruity, smokey, burnt",2.0,40
+2086,"fresh nibs,chocolate base off",2.0,56
+2087,"tobacco, sweet, dairy",3.0,56
+2088,strong smokey tobacco,3.0,117
+2089,"sweet, base cocoa",3.0,135
+2090,"complex, strawberry, tart",3.75,135
+2091,"smooth,complex,cocoa base",3.0,188
+2092,"grassy, black pepper, smoke",3.0,227
+2093,"smooth, tart, earthy",3.75,336
+2094,"simple, delicate cocoa, long",4.0,336
+2095,"creamy, grassy, banana, tart",3.75,445
+2096,"smooth, grassy, minty",3.5,464
+2097,"clingy,subtle, tangy, citrus",3.75,464
+2098,"cherry,wine,rich,smoke",3.75,781
+2099,"banana, pear, spice, cheese",4.0,959
+2100,"rustic, vegetal, earthy",2.75,1658
+2101,"off, sweet, orange, rubber",2.75,1658
+2102,"dry, earthy, surface mark",2.75,2104
+2103,"sticky, cherry, cocoa",3.25,2104
+2104,"earthy, mild fruit, sticky",3.0,2108
+2105,"sharp, raw, metallic",2.75,2446
+2106,"cocoa, roasty, sticky",3.5,2446
+2107,"orange, fig, cocoa",3.5,2590
+2108,blueberry & cocoa dominate,3.5,2594
+2109,"sl roasty, woody, melon, spicy",3.25,2660
+2110,"sticky, dark berry, roasty edge",3.5,2660
+2111,full cocoa flavor,3.5,2366
+2112,"spicy, rich cocoa, sweet",3.0,2370
+2113,"black pepper, astringent",3.0,2370
+2114,"coffee, nutty",3.0,1335
+2115,"fruity, blueberry",3.25,1335
+2116,"sticky, dried fruit, smoke",3.25,1450
+2117,"chewy, smoke, fruit, cocoa",3.5,1450
+2118,"smoked ham, tangy, berry",2.75,1466
+2119,"grapes, tangy, cocoa",3.5,1466
+2120,"sticky, earthy, medicinal",2.0,713
+2121,"perfume, floral, chemical",2.5,721
+2122,"strong spice, perfume, roasty",3.5,757
+2123,"earthy, roasty, vegetal",3.25,1884
+2124,"gritty, fatty, coffee",3.25,1586
+2125,"gritty, bold, black pepper",3.5,1586
+2126,"sandy, sweet, vanilla",2.5,911
+2127,"brownie, mocha, marshmallow",3.5,2716
+2128,"fatty, cocoa, spicy",3.0,717
+2129,"nutty, salty",3.25,725
+2130,"fatty, sweet, salty",3.25,729
+2131,"fatty, salty, caramel",3.0,741
+2132,"tart, sweet edge",3.75,1339
+2133,"intense fruity, mild sour",3.75,1339
+2134,"intense, rich, burnt, licorice",3.75,1343
+2135,"creamy, tart, bitter",3.0,1502
+2136,"floral, bourbon, bitter",3.0,1506
+2137,"waxy, earthy, cocoa, roasty",3.0,1614
+2138,"waxy, maple, flat",3.25,1614
+2139,"oily, medium roasted cocoa",3.25,1650
+2140,"sticky, raisins, fudgey",3.5,1788
+2141,"basic cocoa, gateway",3.5,1856
+2142,"rich cocoa, spicy",3.75,1860
+2143,"caramel, anise, dried fruit",3.75,1996
+2144,"bland, sour, lacks development",3.0,2652
+2145,"butterscotch, slight burnt note",3.25,2652
+2146,"sweet, vanilla, cocoa, mold",2.75,1454
+2147,"mild, nutty, vanilla, cocoa",3.0,1462
+2148,"few grits, sweet, orange",3.25,1618
+2149,"few grits, bold, dark berry",3.5,1622
+2150,"bold cherry, rich cooa",3.75,1622
+2151,"cigar, tobacco, grass, spice",3.75,1622
+2152,"creamy, pistachio, floral",4.0,1622
+2153,"floral, intense, pungent",2.75,1626
+2154,"smokey, tart, astringent",3.5,1662
+2155,"light brown, grits, floral",3.0,1666
+2156,mild cacao and fruit notes,3.75,1666
+2157,"creamy, fruit, cocoa",3.75,1740
+2158,"ligt color, creamy, peanut",4.0,1740
+2159,"apple, mild cherry",3.75,1756
+2160,"creamy, molasses, off note",3.0,1864
+2161,"delicate, smooth, dairy",3.75,1864
+2162,"gummy, fatty, earthy",3.25,1908
+2163,"cherry, rich choco",3.5,1940
+2164,"complex, earthy, melon",3.5,1952
+2165,"mild cocoa, fruity",3.0,502
+2166,"fudgey then spicy, vanilla",3.25,502
+2167,"perfume, strong chemical",1.5,693
+2168,"nuts, fruit, cocoa",3.25,2112
+2169,"grassy, hammy",2.75,1968
+2170,"tangy, sour, intense",3.0,1518
+2171,"intense, simple, floral, earthy",3.5,1812
+2172,"sticky, hammy, bitter",2.75,1840
+2173,"sticky, sandy, pungent",2.75,1840
+2174,"intense, dirty,floral,medicinal",2.5,2366
+2175,"sweet, roasty, spicy",3.25,1792
+2176,"spicy, roasted, fresh nibs",3.25,1796
+2177,"dry, molasses, sour",3.0,1157
+2178,"dairy, cheese, molasses",3.0,1157
+2179,"intense, leathery, cocoa",3.25,1161
+2180,"molasses, grape, sour",3.25,1161
+2181,"creamy, nutty, cocoa",3.5,1161
+2182,"molasses, licorice, muted",3.0,1335
+2183,"sticky, strong molasses",3.25,1992
+2184,"molasses undertone, tangy",3.25,2068
+2185,"molasses, raisins, astringent",3.5,2660
+2186,"sticky, few grits, mild fruit,sour",3.0,377
+2187,"earthy, woody, vegetal",3.5,377
+2188,"slow to develop, nutty",3.0,387
+2189,"smokey, mushroom, woodsy",3.5,387
+2190,"subtle red berry, complex",3.75,387
+2191,black tea,3.75,387
+2192,"complex, nut, dried fruit, earth",3.75,607
+2193,"super temper,astringent, burn",2.75,676
+2194,"earthy, mild tannic, woody",3.5,676
+2195,"strawberry, cocoa, nutty",4.0,676
+2196,"complex,spice,caramel,cocoa",4.0,676
+2197,"dried fruit, tart",3.75,682
+2198,"strawberry, green mint",3.5,688
+2199,"uneven, grassy, roasty",3.25,817
+2200,"cranberries, cocoa",3.75,833
+2201,"creamy, raisin, lemon",4.0,867
+2202,"creamy, complex, peanut",4.0,867
+2203,"sandy, earthy, tangy wine",3.5,951
+2204,"intense, rich burnt caramel",3.75,951
+2205,"smoke,tobacco,black pepper",3.5,967
+2206,"mild smoke, fruit, mild burnt",3.5,983
+2207,"smoke, burnt caramel, citrus",3.75,1019
+2208,"creamy, smokey, some fruit",3.25,1030
+2209,"creamy, medicinal, mild fruit",2.75,1073
+2210,"creamy, brownie mix, roasty",3.75,1073
+2211,"grassy, dairy, mild fatty",3.25,1077
+2212,"nutty, chocolate ice cream",3.75,1077
+2213,"pronounced berry,mild smoke",4.0,1077
+2214,"delicate, nutty, cocoa, dairy",4.0,1077
+2215,"roasted nuts, burnt brownie",4.0,1081
+2216,"creamy, nutty, roasty",3.25,1173
+2217,"floral, berry, clove",4.0,1177
+2218,"basic chocolate, accessible",3.5,1227
+2219,"creamy, sour orange",3.75,1259
+2220,"spicy, woodsy",3.25,1307
+2221,"robust, nutty, brownie",3.5,1307
+2222,"creamy, smokey, rich cocoa",3.75,1307
+2223,"tart, mild sour",3.25,1339
+2224,"roasted nuts, dried fruit",3.5,1594
+2225,"balanced, nuts, strawberry",4.0,1594
+2226,"creamy, sweet, deep choco",3.5,1820
+2227,robust dark tropical fruit,3.5,1820
+2228,"creamy, diluted, mild choco",3.5,1828
+2229,evolves black pepper to citrus,3.75,1828
+2230,"banana, nutty",3.75,1828
+2231,"creamy, honey, blackberry",4.0,1828
+2232,"nutty, banana, harsh ending",3.25,1832
+2233,"creamy, roasty, woody",3.25,2016
+2234,"creamy, honey, marshmallow",4.0,2016
+2235,"sweet edge, lemon, muted",3.0,2068
+2236,"creamy, acidic, balanced",4.0,2242
+2237,"nutty, cocoa",4.0,2242
+2238,"red fruit, peanut butter, cocoa",3.5,2638
+2239,"spice, sour malt, woody",3.5,2638
+2240,"sweet, cocoa, candy like",3.25,2680
+2241,"cinamon, nutmeg, hot cocoa",4.0,2700
+2242,"creamy,choco strawberry,vanilla",4.0,2768
+2243,"earthy, dried fruit, complex",3.25,1367
+2244,"intense, tannic, choco, earthy",3.5,1395
+2245,"few grits, sweet, cocoa",3.25,1932
+2246,"dry, floral, earthy",3.25,1936
+2247,"sandy, smokey, fruit, sour",3.25,1936
+2248,"tart, sour, basic",3.5,1936
+2249,"dry, earthy, roasty",3.5,1936
+2250,"sticky, mild fruit, brownie",3.5,1940
+2251,"oily, floral, dairy",3.0,793
+2252,"fatty, muted strawberry",3.0,793
+2253,"oily, floral",3.25,793
+2254,"bready, sour milk, fatty",2.75,1434
+2255,"spicy, chocolatey",3.5,1792
+2256,"floral, sandy",3.75,1792
+2257,"powdery, cherry, astringent",3.75,1792
+2258,"floral, earthy, burnt rubber",2.75,1932
+2259,"floral, astringent",3.5,1932
+2260,"sandy, robust, grapes, malt",3.75,1932
+2261,"strong roast, tart raspberry",3.25,2684
+2262,"plum, roasty undertone, sour",3.5,2684
+2263,"dairy, cocoa, well balanced",3.5,2684
+2264,"fatty, mild fruit, off note",3.0,1057
+2265,"unrefined, sweet, mild coffee",3.0,1113
+2266,"gritty,intense coffee, metallic",2.25,1121
+2267,"slow to develop, melon, earthy",3.25,2748
+2268,"honey, cocoa, graham",3.5,2748
+2269,"raisins, molasses, herbal tea",3.5,2748
+2270,"coconut, mild vanilla",3.0,1634
+2271,"coconut, cocoa, few grits",3.0,1692
+2272,"dried fruit, coconut, few grits",3.0,1692
+2273,"brownie, few grits, sandy",3.0,1692
+2274,"red fruit, coconut",3.0,1696
+2275,"peanut butter,vanilla,artificial",3.25,729
+2276,"creamy, vanilla, moldy",2.75,859
+2277,"floral, hints of fruit",3.5,1291
+2278,"oily surface, floral, earthy",3.5,1291
+2279,"fatty, rubber, off notes",2.5,2012
+2280,"vanilla, sweet",2.5,939
+2281,"dry, sweet, vanilla(n)",2.5,943
+2282,"bland, earthy",2.75,943
+2283,"molasses, sour, astringent",2.75,1157
+2284,"intense, rich, dark berry",3.25,1157
+2285,"sandy, sweet, vanilla",2.5,1800
+2286,"powdery, vanilla, earthy",3.0,1800
+2287,"sticy, nutty, roasty, off notes",2.75,1796
+2288,"sticky, sweet, nutty, roasty",3.0,1796
+2289,"ham, sour, intense",2.75,1618
+2290,"fruit, burnt, harsh",2.75,2434
+2291,"overly roasty, spicy",3.0,2634
+2292,"earthy, roasty, hammy",3.0,2634
+2293,"melon, mocha",3.5,2634
+2294,"herbal, tea, dried fruit",3.75,2634
+2295,"acidic, cocoa, dried fruit",3.25,2230
+2296,"fatty, sour, off notes",2.75,2234
+2297,"buttery, cheesy",3.0,2234
+2298,"pungent, molasses, sour",2.5,2242
+2299,"cardboard, cheesy",3.0,2242
+2300,"burnt black licorice, intense",3.25,2470
+2301,"dried fig, earthy, dirty",3.0,2474
+2302,"savory lemon, ham",3.25,2482
+2303,"rustic, sugar dominates",3.0,761
+2304,"rustic, large unground pieces",3.25,939
+2305,"rustic, bright fruit",3.25,939
+2306,"sweet, spicy",3.75,939
+2307,"light color, sandy, fruity",3.5,1185
+2308,"dark color, sandy, fruity",3.5,1185
+2309,"sour milk, hot cocoa",3.25,1193
+2310,"sandy, earthy, spice, nutty",3.5,1263
+2311,"sandy, banana",3.75,1263
+2312,"sweet, brownie, sour",3.25,1668
+2313,"rustic, spicy, earthy",3.25,1704
+2314,"sour orange, fatty",3.25,1704
+2315,"coarse, spicy cinnamon",3.75,1704
+2316,"smokey, mild citrus",3.25,1708
+2317,"rustic, earthy, tea",3.5,1708
+2318,"licorice, dried fruit, burnt fuel",2.75,1101
+2319,"oily, cardboard, sour",2.75,1101
+2320,"vanilla, fuel, earthy",2.5,1105
+2321,"vanilla, fatty, vegetal, mint",3.0,1105
+2322,"flat, smoke, marshmallow",3.0,1450
+2323,"creamy, smoke, ham",3.25,1450
+2324,"vanilla, butter, caramel",3.25,1450
+2325,"intense, grassy, smokey",2.75,1680
+2326,"cocoa,sweet,fatty, cardboard",2.75,2286
+2327,"intense cocoa, fatty, sticky",3.0,2286
+2328,"earthy, floral, dry",3.25,1868
+2329,"vanilla, fatty",3.0,2262
+2330,"blackberry, dirt, high roast",3.25,2326
+2331,fig,4.0,2326
+2332,"berry, spices, smoke",3.0,1646
+2333,"nutty, off, roasty, fatty",3.0,2306
+2334,"nutty, fruit, sour, floral",3.25,2306
+2335,"earthy, fatty, gritty",2.75,2566
+2336,"sandy, sour banana, sweet",3.0,180
+2337,"rustic, sweet, earthy",2.75,451
+2338,"grainy, blueberries, bitter",3.25,785
+2339,"coarse, watering, sweet",3.0,1271
+2340,"gritty,sweet,swiss miss,vanilla",2.5,199
+2341,"tangy, off, musty, sour",2.5,280
+2342,"dry, red berry, off note",2.75,280
+2343,"dry, musty, flat",2.5,284
+2344,"tea, sweet, astringent",2.75,387
+2345,"nutty, candy-like",3.0,387
+2346,"spicy, ginger, bitter",3.25,915
+2347,"strong vanilla, sweet, fatty",2.0,1716
+2348,"molasses, off notes",2.75,801
+2349,"molasses, caramel, spice",3.0,801
+2350,"molasses, caramel, fruity",3.0,805
+2351,"molasses, caramel",3.5,805
+2352,"gritty, rum, molasses",3.25,817
+2353,"perfume, chemical, soapy",2.0,821
+2354,"molasses, fruit, floral",3.25,825
+2355,"candy,peanut butter,caramel",2.75,829
+2356,"sticky, caramel",3.0,829
+2357,"molasses, caramel",3.25,833
+2358,"flat, cardboard, metallic",2.75,967
+2359,"earthy, savory, hammy",3.0,971
+2360,"green apple, sweet",3.25,971
+2361,"honey, pepper, charcoal",3.5,971
+2362,"intense, mild coffee and rum",3.25,1323
+2363,"sweet, rich, tannic, fruity",3.75,1323
+2364,"creamy, almond, butter",3.75,1323
+2365,"spicy, black pepper, intense",2.75,1478
+2366,"nutty, raspberry, metallic",3.75,1478
+2367,"bright fruit, mild sour",3.75,1478
+2368,"floral, earthy, bourbon",3.25,1482
+2369,"spicy, black pepper, bold",3.5,1554
+2370,"walnuts, cocoa, easy melt",3.75,1558
+2371,"berries, licorice, cocoa,bitter",3.0,2358
+2372,"muted, roasted banana",3.25,2370
+2373,"harsh, tobacco",2.75,2374
+2374,"sandy, sweet, raisins",3.0,1614
+2375,"sandy, sweet, blueberry",3.5,162
+2376,"dry, gritty, hint of fruit, sour",2.5,184
+2377,"dry, slightly tart, bitter",3.0,184
+2378,"dry, very bland, mild bitter",2.0,188
+2379,"sandy, sweet, fruity",3.0,188
+2380,"sweet, vanilla, cocoa",3.25,903
+2381,"peanut butter, sour milk",3.25,1684
+2382,"pure, bold, floral",3.5,2414
+2383,"floral, vegetal",3.0,2182
+2384,"spicy, marshmallow",3.25,2182
+2385,"bright fruit, cashew",3.75,1836
+2386,"bland, mild honey, sour",2.75,2358
+2387,"strong floral, oily, bold, grassy",3.25,2510
+2388,"waxy, mild fruit, floral",3.25,1418
+2389,"smooth, wild berries",4.0,895
+2390,"peanut butter, soapy",2.75,789
+2391,"pronounced fruit, sour",3.0,789
+2392,"sandy, sweet",3.0,927
+2393,"spicy, cocoa, sweet",3.0,2060
+2394,"honey, caramel",3.5,2060
+2395,"metallic, astringent",2.75,2064
+2396,"dull, chewy, sweet",2.75,2270
+2397,"nutty, floral",3.5,2314
+2398,"baked, roasty, coffee",3.0,1239
+2399,"heavy roast, black licorice",3.25,821
+2400,"sandy, strawberry, coconut",2.75,907
+2401,"high acidity, toffee, spicy",3.25,2526
+2402,"dominating roast, deep cocoa",3.25,2526
+2403,"bright fruit, heavy roast, smooth",3.75,2530
+2404,"sticky, butterscotch, sl. Hammy",3.25,2664
+2405,"powdery, complex, rubber",3.0,2210
+2406,"sweet, pungent grape, acidic",3.5,2218
+2407,"very sandy, spicey, sweet",3.0,2470
+2408,"tart, sweet, sour, savory",2.75,2490
+2409,"woody, sweet, unrefined",2.75,2490
+2410,"cocoa, mild fruit",3.5,753
+2411,"roasty, woody, rubber off",2.75,753
+2412,"roasty, sligt burnt, red fruit",3.25,1022
+2413,"roasty, bitter, caramel, dairy",2.5,1026
+2414,"intense, red berry",3.5,1235
+2415,"spicy, sour, off note",2.75,1700
+2416,"intense, floral",3.5,1700
+2417,"dry, floral, woody",3.25,1996
+2418,"coarse, sweet, lemon",3.0,1740
+2419,spicy and rich,3.75,709
+2420,"dry, coarse, hay, off",2.75,2000
+2421,"dry, coarse, sweet, earthy",3.0,2004
+2422,"dry, coarse, sour",3.25,2004
+2423,"creamy, woody,green, rubber",2.75,1438
+2424,"tart, tangy, mild cocoa",3.0,1438
+2425,"sweet, acidic, tart",3.0,1752
+2426,"sandy, sweet, peach",3.25,1752
+2427,"intense, nutty, mild rubber",3.25,1327
+2428,"spice, melon, nutty",3.75,1968
+2429,roasty cocoa,3.75,2210
+2430,"roasted strawberry, bold",3.5,2478
+2431,"slight bitter, woody",3.0,63
+2432,"subtle, smooth, earthy, long",3.75,63
+2433,"nutty, vegetal, sweet",2.5,75
+2434,"modest, creamy, cocoa",3.0,75
+2435,"red berry, rich cocoa",3.5,75
+2436,"creamy, rich, licorice",3.0,117
+2437,"sandy, vegetal, cocoa",3.75,129
+2438,"creamy, blueberry, raspberry",4.0,129
+2439,"creamy, fatty, very bitter",1.5,147
+2440,"berries, tart, bitter",2.5,153
+2441,nutty and bitter dominate,2.75,157
+2442,"creamy, cherry",3.25,162
+2443,"cocoa dominates, woodsy",3.75,327
+2444,"rich cocoa, hot spice",3.75,370
+2445,"creamy, cocoa, bread",3.5,395
+2446,"intense sweet, nut, orange",3.25,709
+2447,"creamy, honey,peanut butter",4.0,757
+2448,"green,unripened fruit,banana",4.0,931
+2449,"yogurt, lemon, licorice",3.5,1145
+2450,"complex, herbs, fruit, dairy",3.5,1153
+2451,"intense, dark berry, grapes",4.0,1510
+2452,"intense, rich, sweet",3.25,1972
+2453,"sour vanila, heavy roast",2.5,963
+2454,"oily, caramel ""rolo"", sweet",2.75,963
+2455,"fatty, bland, very astringent",2.75,404
+2456,"fatty, sour, spoiled",2.75,404
+2457,"fatty, bitter, sour",2.75,404
+2458,"oily, fatty, citrus",3.0,404
+2459,"oily, nutty, fatty",3.0,404
+2460,"sandy, mild citrus, sweet",3.25,404
+2461,"rich cocoa, fruit, bitter, molasses",3.5,2744
+2462,"peanut butter, coffee, mint",3.25,1470
+2463,"complex, nibs too soft",3.25,1470
+2464,"smokey, earthy, nutty",2.75,2186
+2465,"earthy, sour, intense",3.0,2186
+2466,"dark berry, roasty",3.25,2190
+2467,"sweet, fruity, heavy roast",3.25,991
+2468,"mellow fruit, tart, mild bitter",3.75,1117
+2469,"intense, cocoa, spicy, fruit",3.25,1211
+2470,"spicy, roasty, acidic, dairy",3.5,1211
+2471,"spicy, nutmeg, brownie",3.5,1227
+2472,"earthy, harsh, acidic",2.75,2578
+2473,"roasty, berry notes",3.0,2578
+2474,"nutty, grassy, cocoa",3.5,2578
+2475,floral & fruit,3.5,2578
+2476,"spicy, dairy",3.5,951
+2477,"sandy, sweet, nutty",3.0,1205
+2478,"bland, mild fruit, strong bitter",2.0,153
+2479,"some fruit, strong bitter",2.0,153
+2480,"cocoa,earthy,very astringent",3.0,153
+2481,"sticky, cocoa, earthy",3.0,153
+2482,"intense, tart, sour, raisin",2.75,1458
+2483,"mild metallic, brownie, earth",3.0,1458
+2484,"intense, mild bitter, roasty",3.0,1458
+2485,"chalky, peach, bland",3.25,1458
+2486,"creamy, cocoa, pungent",2.75,1502
+2487,"pungent, metallic",2.5,1720
+2488,"nutty, off notes",2.5,1720
+2489,"sweet, simple, cocoa",3.0,1724
+2490,"earthy, vanilla",2.5,2178
+2491,"vanilla, late cocoa notes",2.5,2182
+2492,"dry, rich, roasty",3.5,1756
+2493,"grapes, pungent",3.5,1756
+2494,"earthy, roasty",3.0,2012
+2495,"nuts, fruit, poor aftertaste",3.0,2092
+2496,"creamy, fruit, poor aftertaste",3.0,2096
+2497,"brownie, nutty, roasty",3.75,2622
+2498,"complex, mild tobacco, nut, fruit",3.75,2622
+2499,"nutty, roasted cherry, coffee",3.5,2626
+2500,"nutty, cocoa, yogurt",3.5,2626
+2501,"complex, hazelnut, dairy, fruit",4.0,2764
+2502,"smooth, toffee, nutty, cocoa",3.75,2768
+2503,"creamy, balanced, cocoa, fruity",3.75,2768
+2504,"hint of caramel, alcohol, vegetal",3.5,2768
+2505,"sticky, dry, vanilla dominates",2.5,733
+2506,"light color, grit, metallic",2.5,1169
+2507,"slow develop, bitter, metallic",2.75,1169
+2508,"sandy, sweet, coffee",3.25,1169
+2509,"mild, metallic",2.75,1173
+2510,"sandy, rich, earthy",3.0,457
+2511,"creamy, earthy, nutty",3.25,457
+2512,"dry, mild fruit",3.0,593
+2513,"dry, nutty, cocoa",3.5,593
+2514,"smokey, fruity, sour",3.75,593
+2515,"fruit, strong smoke, bitter",2.25,1109
+2516,"mild nutty and fruit, savory",3.0,1227
+2517,"rich cocoa, spicy, cinamon",4.0,1848
+2518,"nutty, rubber",3.0,1912
+2519,"nutty, fig, short length",3.5,1912
+2520,"strong malt, choco pudding",3.75,1916
+2521,"intense, creamy, nutty",3.5,2346
+2522,"flat, molasses, creamy",3.25,2406
+2523,"dairy, caramel, brownie, nutty",3.5,2652
+2524,"nutty, tart, coffee",4.0,741
+2525,"brownie, fruit, fudge",3.5,769
+2526,"mild fruit, chemical off",2.5,825
+2527,"roasty, metallic, coffee",3.0,825
+2528,melon,3.25,951
+2529,"intense, bourbon",3.25,1042
+2530,"creamy, woody, mild metallic",3.5,1042
+2531,"sandy, intense, mild nutty",3.0,1243
+2532,"short, tart, fruit, sweet edge",3.0,2656
+2533,"salt noticeable, vanilla",3.0,1057
+2534,"overly sweet, dirty",2.75,2374
+2535,"nutty, basic cocoa",3.25,2374
+2536,"coarse, sweet, candy, licorice",3.0,2378
+2537,"burnt caramel, grapes",3.5,2518
+2538,"sandy, earthy, hint of tang",3.25,2522
+2539,"sandy, roasty, fig, late spiciness",3.5,2522
+2540,"spciy, cardamom, off flavor",2.5,1948
+2541,"sour milk, molasses, sweet",2.75,1948
+2542,"nutty, fruity, sweet",3.25,2618
+2543,"tart, cherry, cocoa, mild sour",3.5,2618
+2544,"sweet, rich, cocoa, fruity",3.5,2618
+2545,"sweet, tart, sour",3.0,2700
+2546,"heavy smoke, fruit, ham",3.0,1574
+2547,"nutty, earthy, hammy",3.25,1578
+2548,"sandy, mild sour, mild fruit",3.25,1578
+2549,"sandy, nutty, mocha",3.25,1578
+2550,"rich base cocoa, sweet",3.5,1578
+2551,"very sweet, heavy roast, nuts",3.0,1582
+2552,"sticky, mellow choco, dairy",3.5,1820
+2553,"sticky, off notes of rubber",2.75,1824
+2554,"sticky, strong bitter, spice",2.75,1824
+2555,"melon, mild tart, bitter, fatty",3.0,1824
+2556,"smoke, tart, burnt cocoa",3.5,1824
+2557,"tobacco, over roasted",3.5,1880
+2558,"oily, honey, light rum",3.5,697
+2559,"toffee, caramel, butterscotch",3.5,701
+2560,intense prune and berry,3.75,701
+2561,"smokey, dried fruit, balanced",3.75,1716
+2562,"oily, sweet, choco, nutty",3.25,1780
+2563,intense earthy,3.0,2044
+2564,"large grits, sweet, dried fruit",3.75,2048
+2565,"sandy, basic cocoa",3.25,2064
+2566,"fatty, herbal, earthy",3.0,2230
+2567,"woody, butterscotch",3.0,486
+2568,"creamy, fatty, mild nutty",3.75,647
+2569,"dairy, salt, caramel",3.0,749
+2570,"creamy, masculine, earthy",3.5,749
+2571,"oily, subdued, caramel, salt",3.25,781
+2572,"oily, earthy, caramel, salty",3.5,801
+2573,"dairy, burnt caramel, coffee",3.5,801
+2574,"woody, toast, pepper",3.0,875
+2575,"butterscotch, pepper",3.5,875
+2576,"spice, caramel, toffee, salty",3.75,875
+2577,"creamy, nutty, bready",3.0,879
+2578,"hint of smoke, fruit",3.0,879
+2579,"smooth, intense blueberry",3.25,879
+2580,"strawberry, Cadbury egg",3.75,879
+2581,"creamy, caramel, salt, sweet",3.25,883
+2582,"smooth, spicy, floral",3.5,883
+2583,"waxy, cloying, vegetal",2.75,1205
+2584,"strong nutty, marshmallow",3.75,1996
+2585,"fatty, earthy, cocoa",3.0,2036
+2586,"fatty, mild nuts, mild fruit",3.25,2170
+2587,"muted, roasty, accessible",3.5,2170

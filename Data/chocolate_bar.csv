@@ -1,0 +1,2589 @@
+,REF,bar_name,company,cocoa_%,ingredients,rating
+0,2454,"Kokoa Kamili, batch 1",5150,76.0,"3- B,S,C",3.25
+1,2454,"Bejofo Estate, batch 1",5150,76.0,"3- B,S,C",3.75
+2,2458,"Zorzal, batch 1",5150,76.0,"3- B,S,C",3.5
+3,2542,"Matasawalevu, batch 1",5150,68.0,"3- B,S,C",3.0
+4,2542,"Anamalai, batch 1",5150,68.0,"3- B,S,C",3.5
+5,2546,"Sur del Lago, batch 1",5150,72.0,"3- B,S,C",3.0
+6,2546,"Semuliki Forest, batch 1",5150,80.0,"3- B,S,C",3.25
+7,797,Bolivia,A. Morin,70.0,"4- B,S,C,L",3.5
+8,797,Peru,A. Morin,63.0,"4- B,S,C,L",3.75
+9,1011,Panama,A. Morin,70.0,"4- B,S,C,L",2.75
+10,1011,"Madagascar, Criollo",A. Morin,70.0,"4- B,S,C,L",3.0
+11,1011,Brazil,A. Morin,70.0,"4- B,S,C,L",3.25
+12,1011,Equateur,A. Morin,70.0,"4- B,S,C,L",3.75
+13,1015,Colombie,A. Morin,70.0,"4- B,S,C,L",2.75
+14,1015,Birmanie,A. Morin,70.0,"4- B,S,C,L",3.0
+15,1015,Papua New Guinea,A. Morin,70.0,"4- B,S,C,L",3.25
+16,1015,Chuao,A. Morin,70.0,"4- B,S,C,L",4.0
+17,1019,Piura,A. Morin,70.0,"4- B,S,C,L",3.25
+18,1019,Chanchamayo Province,A. Morin,70.0,"4- B,S,C,L",3.5
+19,1019,Chanchamayo Province,A. Morin,63.0,"3- B,S,C",4.0
+20,1315,"Carenero, Criollo",A. Morin,70.0,"4- B,S,C,L",2.75
+21,1315,Cuba,A. Morin,70.0,"4- B,S,C,L",3.5
+22,1315,"Sur del Lago, Criollo",A. Morin,70.0,"4- B,S,C,L",3.5
+23,1319,"Puerto Cabello, Criollo",A. Morin,70.0,"4- B,S,C,L",3.75
+24,1319,Pablino,A. Morin,70.0,"4- B,S,C,L",4.0
+25,1676,Kpime,A. Morin,70.0,"4- B,S,C,L",2.75
+26,1676,Atsane,A. Morin,70.0,"4- B,S,C,L",3.0
+27,1680,Akata,A. Morin,70.0,"4- B,S,C,L",3.5
+28,1704,Quilla,A. Morin,70.0,"4- B,S,C,L",3.5
+29,1876,Agua Grande,A. Morin,63.0,"4- B,S,C,L",3.75
+30,2206,Porcelana,A. Morin,70.0,"4- B,S,C,L",3.5
+31,2206,Absolu,A. Morin,63.0,"4- B,S,C,L",3.75
+32,2648,La Joya,A. Morin,70.0,"4- B,S,C,L",4.0
+33,2712,"Java, Arjuna",A. Morin,70.0,"3- B,S,C",3.75
+34,2712,Cusco,A. Morin,70.0,"3- B,S,C",3.5
+35,2716,Ekeko,A. Morin,70.0,"4- B,S,C,L",2.75
+36,1462,"Chulucanas, El Platanal, batch 001",Acalli,70.0,"2- B,S",3.75
+37,1470,"Tumbes, Norandino",Acalli,70.0,"2- B,S",3.75
+38,2462,"Teapa, Tabasco, batch 2",Acalli,74.0,"2- B,S",3.25
+39,2470,"Barataria, El Plantal and Norandino Tumbes blend",Acalli,70.0,"2- B,S",3.5
+40,705,Vanua Levu,Adi aka Fijiana (Easy In Ltd),60.0,"3- B,S,C",2.75
+41,705,"Vanua Levu, Toto-A",Adi aka Fijiana (Easy In Ltd),80.0,"3- B,S,C",3.25
+42,705,Vanua Levu,Adi aka Fijiana (Easy In Ltd),88.0,"3- B,S,C",3.5
+43,705,"Vanua Levu, Ami-Ami-CA",Adi aka Fijiana (Easy In Ltd),72.0,"3- B,S,C",3.5
+44,2438,"Malekula Island, batch M10/19",Aelan,70.0,"2- B,S",2.5
+45,2438,"Malo Island, batch Ma20/19",Aelan,70.0,"2- B,S",2.75
+46,2438,"EPI Island, batch E 11/19",Aelan,70.0,"2- B,S",3.0
+47,2442,"Santo Island, batch S15/19",Aelan,70.0,"2- B,S",2.75
+48,370,"Los Rios, Quevedo, Arriba",Aequare (Gianduja),55.0,"4- B,S,C,V",2.75
+49,370,"Los Rios, Quevedo, Arriba",Aequare (Gianduja),70.0,"4- B,S,C,V",3.0
+50,316,Tabasco,Ah Cacao,70.0,"3- B,S,C",3.0
+51,502,"Madagascar, Ambolikapiky P.",Akesson's (Pralus),75.0,"4- B,S,C,L",2.75
+52,508,"Monte Alegre, D. Badero",Akesson's (Pralus),75.0,"4- B,S,C,L",2.75
+53,636,"Bali (west), Sukrama Family, Melaya area",Akesson's (Pralus),75.0,"4- B,S,C,L",3.75
+54,1061,Chuao,Alain Ducasse,75.0,"5- B,S,C,V,L",2.5
+55,1173,"Piura, Perou",Alain Ducasse,75.0,"5- B,S,C,V,L",2.5
+56,1215,Trinite,Alain Ducasse,65.0,"6- B,S,C,V,L,Sa",2.75
+57,1215,Vietnam,Alain Ducasse,75.0,"5- B,S,C,V,Sa",2.75
+58,1215,Madagascar,Alain Ducasse,75.0,"5- B,S,C,V,Sa",3.0
+59,1992,"Porcelana, Mexique",Alain Ducasse,75.0,"6- B,S,C,V,L,Sa",3.5
+60,1944,"Winak Coop, Napo",Alexandre,70.0,"3- B,S,C",3.5
+61,1944,"La Dalia, Matagalpa",Alexandre,70.0,"3- B,S,C",3.5
+62,1944,"Makwale Village, Kyela",Alexandre,70.0,"3- B,S,C",3.5
+63,1944,Tien Giang,Alexandre,70.0,"3- B,S,C",3.5
+64,1125,Sur del Lago,Altus aka Cao Artisan,60.0,"4- B,S,C,L",2.5
+65,1125,"Conacado, batch 130",Altus aka Cao Artisan,60.0,"4- B,S,C,L",3.0
+66,1129,"Bolivia, batch 101",Altus aka Cao Artisan,80.0,"4- B,S,C,L",3.25
+67,1133,"Bolivia, batch 154",Altus aka Cao Artisan,60.0,"4- B,S,C,L",3.0
+68,1133,"Peru, batch 148",Altus aka Cao Artisan,60.0,"4- B,S,C,L",3.25
+69,1728,Momotombo,Altus aka Cao Artisan,60.0,"3- B,S,C",2.75
+70,1728,Acopagro,Altus aka Cao Artisan,60.0,"3- B,S,C",3.0
+71,1732,CIAAB Coop,Altus aka Cao Artisan,60.0,"3- B,S,C",2.5
+72,1732,Villa Andina,Altus aka Cao Artisan,60.0,"3- B,S,C",2.5
+73,1732,Gruppo Salinas,Altus aka Cao Artisan,60.0,"3- B,S,C",2.75
+74,2044,Oko Caribe,Altus aka Cao Artisan,70.0,"3- B,S,C",3.0
+75,129,Madagascar,Amano,70.0,"4- B,S,C,V",3.5
+76,147,Cuyagua,Amano,70.0,"4- B,S,C,V",3.0
+77,175,Ocumare,Amano,70.0,"4- B,S,C,V",3.75
+78,304,"Bali, Jembrana",Amano,70.0,"4- B,S,C,V",2.75
+79,363,Montanya,Amano,70.0,"4- B,S,C,V",3.0
+80,470,Dos Rios,Amano,70.0,"4- B,S,C,V",3.75
+81,470,Guayas,Amano,70.0,"4- B,S,C,V",4.0
+82,544,Chuao,Amano,70.0,"4- B,S,C,V",3.0
+83,725,Morobe,Amano,70.0,"4- B,S,C,V",4.0
+84,322,Ghana,Amatller (Simon Coll),70.0,"2- B,S",3.0
+85,327,Ecuador,Amatller (Simon Coll),70.0,"2- B,S",2.75
+86,464,Ecuador,Amatller (Simon Coll),85.0,"2- B,S",2.75
+87,464,Ghana,Amatller (Simon Coll),85.0,"2- B,S",3.0
+88,1964,Maranon,Amazing Cacao,70.0,"3- B,S,C",3.0
+89,1964,Platan Bajo,Amazing Cacao,70.0,"3- B,S,C",3.5
+90,1145,"LamasdelChanka, San Martin, Oro Verde coop",Amazona,72.0,"3- B,S,C",3.25
+91,1145,"Bellavista Gran Pajeten, San Martin",Amazona,73.0,"3- B,S,C",3.5
+92,1494,Belize,Ambrosia,64.0,"4- B,S,C,L",3.0
+93,1494,Madagascar,Ambrosia,66.0,"2- B,S",3.25
+94,1498,Dominican Republic,Ambrosia,75.0,"2- B,S",3.25
+95,1498,Papua New Guinea,Ambrosia,63.0,"2- B,S",3.25
+96,1498,Venezuela,Ambrosia,70.0,"2- B,S",3.25
+97,1498,Peru,Ambrosia,68.0,"2- B,S",3.5
+98,75,Toscano Black,Amedei,66.0,"4- B,S,C,V",3.75
+99,123,Ecuador,Amedei,70.0,"4- B,S,C,V",3.0
+100,123,Jamaica,Amedei,70.0,"4- B,S,C,V",3.0
+101,123,Grenada,Amedei,70.0,"4- B,S,C,V",3.5
+102,123,Venezuela,Amedei,70.0,"4- B,S,C,V",3.75
+103,129,Trinidad,Amedei,70.0,"4- B,S,C,V",3.5
+104,170,Toscano Black,Amedei,63.0,"4- B,S,C,V",3.5
+105,979,"Piura, Blanco de Criollo",Amedei,70.0,"4- B,S,C,V",3.75
+106,2088,Madagascar,Amedei,70.0,"4- B,S,C,V",3.0
+107,2088,Chuao,Amedei,70.0,"4- B,S,C,V",3.0
+108,2092,Porcelana,Amedei,70.0,"4- B,S,C,V",3.0
+109,2092,Nine,Amedei,75.0,"4- B,S,C,V",3.5
+110,2434,Toscano Black,Amedei,70.0,"3- B,S,C",2.75
+111,572,"Monte Alegre, 3 diff. plantations",AMMA,85.0,"4- B,S,C,L",2.75
+112,572,"Monte Alegre, 3 diff. plantations",AMMA,50.0,"4- B,S,C,L",3.75
+113,572,"Monte Alegre, 3 diff. plantations",AMMA,75.0,"4- B,S,C,L",3.75
+114,572,"Monte Alegre, 3 diff. plantations",AMMA,60.0,"4- B,S,C,L",4.0
+115,1065,Catongo,AMMA,75.0,"4- B,S,C,L",3.25
+116,1259,Elvesia,Anahata,75.0,"2- B,S",3.0
+117,1852,Alto Beni,Animas,75.0,"2- B,S",3.5
+118,2586,"Maya Mountain, batch 39",Animas,75.0,"2- B,S",3.0
+119,2586,"Alta Verapaz, Cahabon & Lanquin regions, b. 4243",Animas,75.0,"2- B,S",3.25
+120,1375,Madagascar,Ara,75.0,"3- B,S,C",3.0
+121,1379,Chiapas,Ara,72.0,"3- B,S,C",2.5
+122,1379,Equateur,Ara,75.0,"3- B,S,C",2.75
+123,1379,Trincheras,Ara,75.0,"3- B,S,C",3.0
+124,1534,Fazenda Camboa,Arete,70.0,"2- B,S",3.5
+125,1534,Nacional,Arete,68.0,"2- B,S",3.5
+126,1534,"Puerto Quito, heirloom",Arete,70.0,"2- B,S",3.75
+127,1598,Oko Caribe,Arete,70.0,"2- B,S",3.5
+128,1598,Maya Mountain,Arete,70.0,"2- B,S",3.75
+129,1598,Chuno,Arete,70.0,"2- B,S",4.0
+130,1602,Fazenda Camboa,Arete,75.0,"2- B,S",2.75
+131,1602,Guatemala,Arete,70.0,"2- B,S",3.25
+132,1602,Camino Verde,Arete,75.0,"3- B,S,C",3.5
+133,1724,San Juan,Arete,70.0,"2- B,S",3.5
+134,1724,Kokoa Kamili,Arete,70.0,"2- B,S",3.75
+135,1900,Tien Giang,Arete,73.0,"3- B,S,C",3.5
+136,1904,Hacienda Victoria,Arete,70.0,"3- B,S,C",3.25
+137,1904,Costa Esmeraldas,Arete,70.0,"3- B,S,C",3.25
+138,1904,Lachua,Arete,70.0,"2- B,S",3.5
+139,1904,Rugoso,Arete,70.0,"3- B,S,C",3.75
+140,1908,"La Masica, FHIA",Arete,70.0,"2- B,S",3.5
+141,1908,"Coto Brus, Terciopelo",Arete,70.0,"2- B,S",4.0
+142,1924,Phantom,Arete,70.0,"2- B,S",4.0
+143,1928,Matasawalevu,Arete,70.0,"2- B,S",3.25
+144,1928,Lam Dong,Arete,73.0,"2- B,S",3.25
+145,1928,Elvesia,Arete,70.0,"2- B,S",3.75
+146,2020,Anamalai,Arete,70.0,"2- B,S",3.5
+147,2020,Sambirano Valley,Arete,70.0,"3- B,S,C",3.5
+148,2020,Ben Tre,Arete,73.0,"3- B,S,C",3.5
+149,2024,Beniano,Arete,70.0,"2- B,S",4.0
+150,2028,Ucayali,Arete,70.0,"3- B,S,C",3.5
+151,2028,Pisa,Arete,70.0,"2- B,S",4.0
+152,2068,Ramnath E.,Arete,70.0,"2- B,S",3.0
+153,2254,Tumaco,Arete,70.0,"2- B,S",4.0
+154,2330,Jangareddygudem,Arete,70.0,"3- B,S,C",3.25
+155,2450,Idukki,Arete,70.0,"3- B,S,C",3.0
+156,2162,Masaya,Argencove,70.0,"2- B,S",3.25
+157,2162,Mombacho,Argencove,70.0,"2- B,S",3.5
+158,2162,Cocibolca,Argencove,70.0,"2- B,S",3.5
+159,2166,Apoyo,Argencove,70.0,"2- B,S",3.0
+160,300,Congo,Artisan du Chocolat,72.0,"3- B,S,C",3.75
+161,355,"Ocumare, Venezuela",Artisan du Chocolat,75.0,"3- B,S,C",2.5
+162,355,Java,Artisan du Chocolat,72.0,"3- B,S,C",2.75
+163,363,Brazil Rio Doce,Artisan du Chocolat,72.0,"3- B,S,C",1.75
+164,363,Madagascar,Artisan du Chocolat,80.0,"3- B,S,C",3.0
+165,363,Peru,Artisan du Chocolat,75.0,"3- B,S,C",3.0
+166,363,Dominican Republic,Artisan du Chocolat,72.0,"3- B,S,C",3.25
+167,486,Venezuela,Artisan du Chocolat,100.0,"3- B,S,C",1.75
+168,531,Jamaica,Artisan du Chocolat,72.0,"3- B,S,C",3.75
+169,600,Costa Rica,Artisan du Chocolat,72.0,"3- B,S,C",3.25
+170,600,Ba Ria Vung Tau Province,Artisan du Chocolat,72.0,"3- B,S,C",3.25
+171,600,Bali,Artisan du Chocolat,72.0,"3- B,S,C",3.5
+172,729,Haiti,Artisan du Chocolat,72.0,"3- B,S,C",4.0
+173,745,Panama,Artisan du Chocolat,72.0,"3- B,S,C",2.75
+174,947,"Colombia, Casa Luker",Artisan du Chocolat,72.0,"3- B,S,C",3.75
+175,1193,"Trinidad, Heritage, Limited ed.",Artisan du Chocolat,72.0,"3- B,S,C",3.25
+176,1181,"Orinoqua Region, Arauca",Artisan du Chocolat (Casa Luker),72.0,"4- B,S,C,L",2.75
+177,2562,"Idukki Kerala, lot IN728221",Aruntam,72.0,"4- B,S,C,L",3.25
+178,2562,"Bejofo E., Akesson, lot MA72820",Aruntam,72.0,"4- B,S,C,L",3.25
+179,2566,"Kokoa Kamili, lot TZ72199",Aruntam,72.0,"4- B,S,C,L",3.5
+180,141,Xoconusco,Askinosie,75.0,"2- B,S",2.5
+181,175,San Jose del Tambo,Askinosie,70.0,"2- B,S",3.0
+182,331,Davao,Askinosie,77.0,"2- B,S",3.75
+183,647,"Tenende, Uwate",Askinosie,72.0,"2- B,S",3.75
+184,661,Cortes,Askinosie,70.0,"2- B,S",3.75
+185,1780,Mababa,Askinosie,68.0,"3- B,S,C",3.75
+186,2434,Solomon Islands,Atypic,70.0,"4- B,S,C,L",3.0
+187,2056,Davao,Auro,77.0,"4- B,S,V,L",2.75
+188,2056,"Paquibao E., 2016",Auro,70.0,"3- B,S,C",3.0
+189,2056,South Cotabato,Auro,70.0,"3- B,S,C",3.0
+190,2056,"Saloy E., 2016",Auro,70.0,"3- B,S,C",3.5
+191,2672,Tumaco,Avanaa,70.0,"2- B,S",2.5
+192,2672,Zorzal,Avanaa,70.0,"2- B,S",3.0
+193,995,Sambirano,Bahen & Co.,70.0,"2- B,S",3.0
+194,999,Bahia,Bahen & Co.,70.0,"2- B,S",2.5
+195,999,Houseblend,Bahen & Co.,70.0,"2- B,S",2.5
+196,1474,Houseblend,Bahen & Co.,80.0,"2- B,S",3.25
+197,1474,Papua New Guinea,Bahen & Co.,70.0,"2- B,S",3.5
+198,2146,"Bahia, Vale Potumujo",Baiani,70.0,"2- B,S",3.0
+199,1454,"Bambamarca, 2015",Bakau,70.0,"3- B,S,C",2.75
+200,1454,"Huallabamba, 2015",Bakau,70.0,"3- B,S,C",3.5
+201,2290,Belize,Bankston,72.0,"3- B,S,C",2.5
+202,2294,Uganda,Bankston,82.0,"3- B,S,C",2.75
+203,2294,Kokoa Kamili,Bankston,72.0,"3- B,S,C",3.25
+204,983,Duarte Province,Bar Au Chocolat,70.0,"2- B,S",3.25
+205,983,Chiapas,Bar Au Chocolat,70.0,"2- B,S",3.5
+206,983,Sambirano,Bar Au Chocolat,70.0,"2- B,S",3.75
+207,1295,Maranon Canyon,Bar Au Chocolat,70.0,"2- B,S",4.0
+208,1554,Bahia,Bar Au Chocolat,70.0,"2- B,S",3.5
+209,1980,"Turrialba, Cartago P.",Bar Au Chocolat,72.0,"2- B,S",3.5
+210,1980,Montserrat Hills,Bar Au Chocolat,80.0,"2- B,S",3.5
+211,955,single estate,Baravelli's,80.0,"4- B,S,C,V",2.75
+212,2736,"Rio Dulce, Xoco, batch 632",Bare Bones,65.0,"3- B,S,C",3.25
+213,1840,"Dominican Republic, Batch 3",Batch,65.0,"3- B,S,C",3.5
+214,1868,Brazil,Batch,70.0,"3- B,S,C",3.75
+215,1880,Ecuador,Batch,65.0,"3- B,S,C",3.25
+216,2374,Peru,Bean,70.0,"4- B,S,C,V",2.25
+217,1948,"Asajaya E, NW Borneo, b. #132/4500",Beau Cacao,73.0,"3- B,S,C",3.0
+218,1948,"Serian E., NW Borneo, b. #134/3800",Beau Cacao,72.0,"3- B,S,C",3.25
+219,1784,"Brazil, Batch 20316",Beehive,80.0,"3- B,S,C",2.75
+220,1784,"Dominican Republic, Batch 31616",Beehive,70.0,"3- B,S,C",2.75
+221,1784,"Ecuador, Batch 31516",Beehive,70.0,"3- B,S,C",2.75
+222,1788,Ecuador,Beehive,90.0,"3- B,S,C",2.75
+223,586,Costa Rica,Belcolade,64.0,"4- B,S,C,L",2.75
+224,586,Papua New Guinea,Belcolade,64.0,"4- B,S,C,L",2.75
+225,586,Peru,Belcolade,64.0,"4- B,S,C,L",2.75
+226,586,Ecuador,Belcolade,71.0,"4- B,S,C,L",3.5
+227,1800,"Kokao Kamili, Kilombero Valley",Bellflower,70.0,"3- B,S,C",3.5
+228,1804,"Alto Beni, Palos Blanco",Bellflower,70.0,"3- B,S,C",3.25
+229,1864,"Oko Caribe, Duarte P.",Bellflower,70.0,"2- B,S",3.5
+230,2190,Lam Dong,Belvie,75.0,"3- B,S,C",3.25
+231,2648,"Ben Tre, batch 70301",Belvie,70.0,"3- B,S,C",3.75
+232,1768,"Belize south, low fermentation",Belyzium,83.0,"3- B,S,C",2.75
+233,1768,Belize south,Belyzium,78.0,"3- B,S,C",3.0
+234,1768,Belize south,Belyzium,83.0,"3- B,S,C",3.5
+235,2246,Vung Tau,Benns,72.0,"4- B,S,C,L",3.0
+236,2246,"Anamalai, 2018 harvest",Benns,72.0,"4- B,S,C,L",3.0
+237,2246,"Sungai Ruan, Koh Farm",Benns,72.0,"4- B,S,C,L",3.0
+238,757,"Bali, Sukrama Bros. Farm, Melaya, 62hr C",Benoit Nihant,72.0,"3- B,S,C",4.0
+239,773,"Somia Plantation, Sambirano, 70hr C",Benoit Nihant,72.0,"3- B,S,C",3.75
+240,1141,Baracoa,Benoit Nihant,74.0,"3- B,S,C",3.5
+241,1141,Cuyagua Village,Benoit Nihant,74.0,"3- B,S,C",3.5
+242,1141,Chuao,Benoit Nihant,74.0,"3- B,S,C",3.5
+243,1141,Rio Peripa H.,Benoit Nihant,73.0,"3- B,S,C",4.0
+244,2744,"Hacienda Victoria, lot 42",Benoit Nihant,73.0,"4- B,S,C,L",3.5
+245,2744,"Finca Orquidea, Porcelana, lot 5",Benoit Nihant,74.0,"4- B,S,C,L",3.0
+246,797,Nature,Bernachon,55.0,"5- B,S,C,V,L",2.75
+247,508,"Carenero S., Barlovento, Grand Cru",Beschle (Felchlin),70.0,"3- B,S,C",3.25
+248,508,"Porcelana, Premier Cru, Quizas No. 1",Beschle (Felchlin),74.0,"3- B,S,C",3.25
+249,508,"Java, Grand Cru",Beschle (Felchlin),64.0,"3- B,S,C",3.5
+250,508,"Ocumare, Premier Cru, Quizas No. 2",Beschle (Felchlin),72.0,"3- B,S,C",3.5
+251,636,Madagascar,Beschle (Felchlin),64.0,"3- B,S,C",3.0
+252,636,Maracaibo,Beschle (Felchlin),88.0,"3- B,S,C",3.0
+253,636,"Indigena Amazonia, Grand Cru, Quizas",Beschle (Felchlin),72.0,"3- B,S,C",3.5
+254,636,Ecuador,Beschle (Felchlin),72.0,"3- B,S,C",4.0
+255,1482,"Nicaragua, American style",Bisou,76.0,"2- B,S",2.5
+256,1486,"San Andres, American style",Bisou,76.0,"2- B,S",2.5
+257,1486,"San Andres, silk",Bisou,78.0,"4- B,S,C,V",2.5
+258,1486,Belize,Bisou,86.0,"4- B,S,C,V",3.25
+259,2084,Aragua,Bitacora,70.0,"4- B,S,C,L",3.5
+260,2088,Merida,Bitacora,70.0,"4- B,S,C,L",3.0
+261,2088,Carabobo,Bitacora,70.0,"4- B,S,C,L",3.0
+262,233,Sambirano,Bittersweet Origins,71.0,"2- B,S",3.0
+263,233,Bocas del Toro,Bittersweet Origins,75.0,"2- B,S",3.5
+264,233,Puerto Plata,Bittersweet Origins,68.0,"2- B,S",3.75
+265,256,Ankasa,Bittersweet Origins,70.0,"2- B,S",3.0
+266,414,Puerto Plata,Bittersweet Origins,75.0,"2- B,S",3.0
+267,414,Puerto Plata,Bittersweet Origins,65.0,"2- B,S",3.5
+268,423,Sambirano,Bittersweet Origins,75.0,"2- B,S",3.25
+269,431,Sambirano,Bittersweet Origins,65.0,"2- B,S",3.5
+270,478,"Bali, Singaraja",Bittersweet Origins,75.0,"2- B,S",3.25
+271,502,"2009 Hapa Nibby, Dominican Rep., Bali",Bittersweet Origins,70.0,"2- B,S",3.75
+272,558,"Bali, Singaraja",Bittersweet Origins,65.0,"2- B,S",2.75
+273,565,"Sambirano, 2009",Bittersweet Origins,70.0,"2- B,S",3.0
+274,565,"Ocumare, prototype",Bittersweet Origins,78.0,"2- B,S",3.0
+275,963,Ghana,Bittersweet Origins,72.0,"3- B,S,C",3.5
+276,2108,Haiti,Bixby,70.0,"2- B,S",3.0
+277,2114,Guatemala,Bixby,70.0,"2- B,S",3.0
+278,2114,Dominican Republic,Bixby,70.0,"2- B,S",3.25
+279,2422,Belize,Bixby,70.0,"2- B,S",2.75
+280,256,La Red,Black Mountain,70.0,"3- B,S,C",2.75
+281,256,Carenero Superior,Black Mountain,70.0,"3- B,S,C",2.75
+282,256,Matiguas,Black Mountain,70.0,"3- B,S,C",3.0
+283,2574,"Cocoa Nibs, Hispaniola w/ nibs",Black Mountain,70.0,"4- B,S,C,L",3.75
+284,1331,Blue Mountain Region,Black River (A. Morin),70.0,"4- B,S,C,L",2.75
+285,2590,"Sierra Nevada, batch 92",Black Sheep,72.0,"3- B,S,C",3.25
+286,2590,"Maya Mountain, batch 98",Black Sheep,72.0,"3- B,S,C",3.25
+287,322,Organic Dark,Blanxart,72.0,"4- B,S,C,V",2.75
+288,1046,"Congo, Grand Cru",Blanxart,82.0,"4- B,S,C,V",3.5
+289,911,Guatemala,Blue Bandana,70.0,"3- B,S,C",3.5
+290,911,Madagascar,Blue Bandana,70.0,"3- B,S,C",3.75
+291,1740,"Akesson's E., Sambirano V.",Blue Bandana,82.0,"2- B,S",3.5
+292,1752,Lachua,Blue Bandana,75.0,"2- B,S",2.75
+293,1752,Kokoa Kamili,Blue Bandana,75.0,"2- B,S",3.5
+294,1756,Zorzal Reserva,Blue Bandana,75.0,"2- B,S",3.0
+295,1996,Maya Mtn,Boho,70.0,"3- B,S,C",2.75
+296,2290,"Keningau, Borneo Island",Bonaterra,68.0,"2- B,S",2.5
+297,2290,"Kota Marudu, Borneo Island",Bonaterra,72.0,"2- B,S",2.75
+298,2290,"Tawau, Borneo Island",Bonaterra,74.0,"2- B,S",3.25
+299,24,"Carribean, Trinite",Bonnat,75.0,"3- B,S,C",3.75
+300,32,"Ocumare, Puerto Cabello",Bonnat,75.0,"3- B,S,C",3.75
+301,48,"Maracaibo, El Rosario",Bonnat,75.0,"3- B,S,C",4.0
+302,75,Madagascar,Bonnat,75.0,"3- B,S,C",3.75
+303,81,One Hundred,Bonnat,100.0,"3- B,S,C",1.5
+304,81,Ceylan,Bonnat,75.0,"3- B,S,C",3.0
+305,81,Chuao,Bonnat,75.0,"3- B,S,C",4.0
+306,123,Equateur,Bonnat,75.0,"3- B,S,C",2.5
+307,199,"Porcelana, Venezuela",Bonnat,75.0,"3- B,S,C",4.0
+308,331,Ivory Coast,Bonnat,75.0,"3- B,S,C",3.0
+309,336,"Porcelana, Apotequil",Bonnat,75.0,"3- B,S,C",2.75
+310,336,"Porcelana, Tabasco, Marfil de Blanco",Bonnat,75.0,"3- B,S,C",3.0
+311,395,"Xoconusco, cacao Real",Bonnat,75.0,"3- B,S,C",3.0
+312,629,Cuba,Bonnat,75.0,"3- B,S,C",3.5
+313,629,"Cusco, Cacao Cusco",Bonnat,75.0,"3- B,S,C",3.5
+314,629,Piura Blanco,Bonnat,75.0,"3- B,S,C",3.5
+315,629,Libanio,Bonnat,75.0,"3- B,S,C",3.75
+316,629,Haiti,Bonnat,75.0,"3- B,S,C",4.0
+317,629,"Madagascar, 100% criollo",Bonnat,75.0,"3- B,S,C",4.0
+318,672,Juliana,Bonnat,75.0,"3- B,S,C",3.5
+319,761,Jamaique,Bonnat,75.0,"3- B,S,C",3.25
+320,1038,Maragnam,Bonnat,75.0,"3- B,S,C",3.5
+321,1042,Gabon,Bonnat,75.0,"3- B,S,C",3.25
+322,1339,Kaori,Bonnat,75.0,"3- B,S,C",4.0
+323,1418,"Los Colorados, Santo Domingo, Equateur",Bonnat,75.0,"3- B,S,C",3.25
+324,1418,"Surfin, Venez,Africa,Brasil,Peru,Mex",Bonnat,65.0,"3- B,S,C",3.75
+325,1912,Selva Maya,Bonnat,75.0,"3- B,S,C",3.5
+326,2246,Madre de Dios,Bonnat,75.0,"3- B,S,C",4.0
+327,2250,"El Rosario, Xoconuzco, Cusco, Sambirano",Bonnat,75.0,"3- B,S,C",4.0
+328,2554,"El Castillero, Indio Maiz",Bonnat,75.0,"3- B,S,C",3.75
+329,316,"El Oro, Hacienda de Oro",Bouga Cacao (Tulicorp),77.0,"2- B,S",3.25
+330,341,"El Oro, Hacienda de Oro",Bouga Cacao (Tulicorp),100.0,"3- B,S,C",1.5
+331,1267,Maya Mountain,Bowler Man,70.0,"3- B,S,C",2.75
+332,1271,Conacado,Bowler Man,70.0,"3- B,S,C",2.75
+333,2096,"Wild Bolivia, Sucre",Brasstown,70.0,"3- B,S,C",4.0
+334,2194,Ucayali,Brasstown,70.0,"3- B,S,C",3.75
+335,2254,Esmeraldas,Brasstown,75.0,"3- B,S,C",3.5
+336,2542,Kokoa Kamili,Brasstown,62.0,"3- B,S,C",3.0
+337,1125,Cooproagro,Brasstown aka It's Chocolate,72.0,"5- B,S,C,V,L",3.0
+338,1125,"Camino Verde, Guayas",Brasstown aka It's Chocolate,70.0,"5- B,S,C,V,L",3.25
+339,1129,"Ghana, batch 021813",Brasstown aka It's Chocolate,75.0,"5- B,S,C,V,L",3.5
+340,1129,"Chuao, Mantuano blend, batch 23613",Brasstown aka It's Chocolate,85.0,"5- B,S,C,V,L",3.5
+341,1255,Maya Mountain,Brasstown aka It's Chocolate,70.0,"3- B,S,C",3.75
+342,1355,Chuao,Brasstown aka It's Chocolate,70.0,"3- B,S,C",4.0
+343,1462,"Conacado, batch 001515",Brasstown aka It's Chocolate,68.0,"3- B,S,C",3.75
+344,1868,"Guasare, Zulia Prov.",Brasstown aka It's Chocolate,70.0,"3- B,S,C",3.5
+345,1868,"O'payo, Waslala",Brasstown aka It's Chocolate,70.0,"3- B,S,C",3.75
+346,1980,Elvesia P.,Brasstown aka It's Chocolate,70.0,"3- B,S,C",3.25
+347,1984,Manabi,Brasstown aka It's Chocolate,75.0,"3- B,S,C",3.75
+348,1514,Elvesia P.,Brazen,60.0,"3- B,S,C",3.0
+349,1514,Elvesia P.,Brazen,80.0,"3- B,S,C",3.25
+350,1514,"Alta Verapaz, 2014, batch 69",Brazen,70.0,"2- B,S",3.5
+351,1518,Ambolikapiky P.,Brazen,80.0,"3- B,S,C",2.75
+352,1518,Maya Mountain,Brazen,80.0,"3- B,S,C",3.25
+353,1518,Ambolikapkly P.,Brazen,60.0,"3- B,S,C",3.25
+354,1149,Jamaica,Breeze Mill,70.0,"4- B,S,C,V",3.0
+355,1231,Somia Plantation,Bright,72.0,"3- B,S,C",3.0
+356,1231,Marabel Farms,Bright,70.0,"3- B,S,C",3.5
+357,1231,"Camino Verde, Balao, Guayas",Bright,72.0,"3- B,S,C",3.5
+358,1235,Gran Couva,Bright,68.0,"3- B,S,C",2.75
+359,1638,Ecuador,Britarev,70.0,"2- B,S",3.25
+360,1181,Dominican Republic,Bronx Grrl Chocolate,68.0,"3- B,S,C",2.75
+361,2052,"Alto Beni, No.2, Batch 17, 2016",Bullion,70.0,"3- B,S,C",2.5
+362,2052,"Lanquin, No.3, Batch 21, 2016",Bullion,70.0,"3- B,S,C",3.0
+363,1299,"Trinidad, batch 05050114",Burnt Fork Bend,72.0,"3- B,S,C",3.25
+364,1299,"Mindo, batch 01040914",Burnt Fork Bend,72.0,"3- B,S,C",3.5
+365,1303,Belize,Burnt Fork Bend,72.0,"3- B,S,C",3.25
+366,1303,Blend,Burnt Fork Bend,72.0,"3- B,S,C",3.25
+367,1323,"Ecuador, Bob Bar",Burnt Fork Bend,60.0,"3- B,S,C",2.5
+368,2314,Ecuador,By Cacao,70.0,"2- B,S",3.0
+369,2274,Pingtung,Cacai Cacao,70.0,"2- B,S*",3.25
+370,2274,Davao,Cacai Cacao,70.0,"2- B,S*",3.5
+371,2266,Asochivite,Cacao 70,70.0,"4- B,S,C,L",3.5
+372,2266,Beniano,Cacao 70,70.0,"4- B,S,C,L",3.75
+373,2330,"Monte Grande, lot 001180312",Cacao 70,70.0,"4- B,S,C,L",3.0
+374,1606,Puerto Rico,Cacao Arabuco,70.0,"2- B,S",2.5
+375,502,"Dominican Republic, ""Love Bar""",Cacao Atlanta,75.0,"2- B,S",2.5
+376,502,Dominican Republic w/ nibs,Cacao Atlanta,75.0,"2- B,S",2.75
+377,600,Patanemo,Cacao Atlanta,75.0,"2- B,S",2.25
+378,1215,Tumbes,Cacao Atlanta,75.0,"2- B,S",2.5
+379,141,Venezuela,Cacao Barry,72.0,"5- B,S,C,V,L",2.0
+380,147,Mexico,Cacao Barry,66.0,"5- B,S,C,V,L",3.0
+381,300,Tanzania,Cacao Barry,75.0,"5- B,S,C,V,L",2.0
+382,586,Santo Domingo,Cacao Barry,70.0,"5- B,S,C,V,L",3.0
+383,1716,Grand 'Anse,Cacao Barry,65.0,"5- B,S,C,V,L",3.5
+384,2226,"H. Betulia, Antioquia, B8",Cacao Betulia,72.0,"2- B,S",2.5
+385,2226,"H. Betulia, Antioquia, B6",Cacao Betulia,72.0,"2- B,S",3.75
+386,2230,"H. Betulia, Antioquia, B9",Cacao Betulia,72.0,"2- B,S",3.0
+387,1391,"Agua Fria; Sucre region, H. La Trinidad",Cacao de Origen,75.0,"2- B,S",2.5
+388,1391,"Macuare; Miranda; Chloe formula, H. La Trinidad",Cacao de Origen,74.0,"2- B,S",3.25
+389,1391,"Chuao, Aragua region, H. La Trinidad",Cacao de Origen,75.0,"2- B,S",3.5
+390,1395,"Chuao, Aragua region, H. La Trinidad",Cacao de Origen,70.0,"2- B,S",3.75
+391,1668,Hacienda la Trinidad,Cacao de Origen,74.0,"2- B,S",3.25
+392,1688,Chuao,Cacao de Origen,77.0,"2- B,S",3.5
+393,1692,Rio Caribe,Cacao de Origen,75.0,"2- B,S",3.25
+394,2238,Carupano Pintao,Cacao de Origen,75.0,"2- B,S",2.75
+395,2278,"Barlovento, Familia Rojas",Cacao de Origen,75.0,"2- B,S",2.5
+396,2278,Canoabo,Cacao de Origen,70.0,"2- B,S",3.0
+397,2076,Chuao,Cacao Gonzales,70.0,"2- B,S",3.0
+398,1430,Sierra Nevada,Cacao Hunters,64.0,"4- B,S,C,L",3.5
+399,1430,Tumaco,Cacao Hunters,70.0,"4- B,S,C,L",3.5
+400,1434,"Boyaca, Aprocampa Coop, Pauna",Cacao Hunters,69.0,"4- B,S,C,L",2.75
+401,1434,Arauca,Cacao Hunters,70.0,"4- B,S,C,L",3.25
+402,1662,Arhuacos,Cacao Hunters,72.0,"3- B,S,C",3.75
+403,1816,Macondo,Cacao Hunters,71.0,"3- B,S,C",3.75
+404,1816,Perla Negra,Cacao Hunters,74.0,"3- B,S,C",3.75
+405,1860,"Jutiapa, lot 050916D",Cacao Market,70.0,"4- B,S,C,L",3.5
+406,641,"Dominican Republicm, rustic",Cacao Prieto,72.0,"2- B,S",3.0
+407,641,Dominican Republic,Cacao Prieto,66.0,"2- B,S",3.75
+408,647,"Dominican Republic, rustic",Cacao Prieto,65.0,"2- B,S",3.25
+409,991,"Criollo, Dominican Republic",Cacao Prieto,72.0,"2- B,S",3.75
+410,336,"Porcelana, Tabasco, La Joya",Cacao Sampaka,70.0,"4- B,S,C,L",4.0
+411,346,"Xoconusco, Chiapas, cacao Real",Cacao Sampaka,70.0,"4- B,S,C,L",4.0
+412,508,Madagascar,Cacao Sampaka,71.0,"4- B,S,C,L",3.5
+413,523,Ecuador,Cacao Sampaka,71.0,"4- B,S,C,L",3.75
+414,523,Papua,Cacao Sampaka,71.0,"4- B,S,C,L",4.0
+415,537,Grenada,Cacao Sampaka,71.0,"4- B,S,C,L",3.25
+416,537,Venezuela,Cacao Sampaka,71.0,"4- B,S,C,L",3.5
+417,537,Venezuela,Cacao Sampaka,77.0,"4- B,S,C,L",3.5
+418,1908,"Mahali, Kasai",Cacao Sampaka,70.0,"4- B,S,C,L",3.5
+419,2510,"Zorzal Reserve, Hispaniola, batch 239",Cacao Santa Fe (Art of Chocolate),72.0,"4- B,S,C,V",2.75
+420,2510,Ucayali,Cacao Santa Fe (Art of Chocolate),72.0,"4- B,S,C,V",2.75
+421,2510,Costa Esmeraldas,Cacao Santa Fe (Art of Chocolate),72.0,"4- B,S,C,V",3.0
+422,1684,Madagascar,Cacao Store,70.0,"2- B,S",3.0
+423,1684,Peru,Cacao Store,70.0,"2- B,S",3.25
+424,1684,Vietnam,Cacao Store,70.0,"2- B,S",3.5
+425,2084,Ghana,Cacaodada,70.0,"3- B,S,C",3.0
+426,2084,Dominican Republic,Cacaodada,70.0,"3- B,S,C",3.25
+427,2084,Ecuador,Cacaodada,70.0,"3- B,S,C",3.5
+428,2610,Chuncho-Cuzco,Cacaosuyo,70.0,"2- B,S",3.5
+429,2610,Piura Select,Cacaosuyo,70.0,"2- B,S",4.0
+430,2614,"Lakuna, Amazonas, silvestre",Cacaosuyo,70.0,"2- B,S",3.5
+431,2614,Cuzco,Cacaosuyo,80.0,"2- B,S",3.5
+432,237,Amazonia,Cacaoyere (Ecuatoriana),63.0,"4- B,S,C,L",3.5
+433,237,Esmeraldas,Cacaoyere (Ecuatoriana),71.0,"4- B,S,C,L",3.5
+434,245,Bolivar,Cacaoyere (Ecuatoriana),82.0,"4- B,S,C,L",2.5
+435,259,Pichincha,Cacaoyere (Ecuatoriana),91.0,"4- B,S,C,L",1.5
+436,141,Baking,Callebaut,70.0,"3- B,S,C",1.0
+437,296,Grenade,Callebaut,60.0,"3- B,S,C",2.75
+438,749,Sao Tome,C-Amaro,78.0,"2- B,S",2.25
+439,765,Trinidad,C-Amaro,70.0,"2- B,S",2.5
+440,809,Venezuela,C-Amaro,80.0,"2- B,S",3.0
+441,1185,Ecuador,C-Amaro,100.0,1- B,3.5
+442,1442,Cuba,C-Amaro,75.0,"2- B,S",2.5
+443,1442,Dominican Republic,C-Amaro,72.0,"2- B,S",3.0
+444,1442,"Lago di Como, Blu",C-Amaro,70.0,"2- B,S",3.5
+445,1804,Porcelana,Cao,75.0,"3- B,S,C",2.5
+446,1804,Tanzania,Cao,73.0,"3- B,S,C",2.75
+447,1804,"Porcelana, Batch 5163",Cao,70.0,"3- B,S,C",3.0
+448,1808,Bolivia,Cao,75.0,"3- B,S,C",3.0
+449,1808,Brazil,Cao,70.0,"3- B,S,C",3.25
+450,2558,Arauca,Caofiori,70.0,"4- B,S,C,L",3.25
+451,2558,Tumaco,Caofiori,70.0,"4- B,S,C,L",3.25
+452,2558,Choco,Caofiori,70.0,"4- B,S,C,L",3.5
+453,2558,Meta,Caofiori,70.0,"4- B,S,C,L",3.75
+454,237,Esmeraldas,Caoni (Tulicorp),77.0,"4- B,S,C,L",2.0
+455,237,Manabi,Caoni (Tulicorp),77.0,"4- B,S,C,L",2.5
+456,245,Los Rios,Caoni (Tulicorp),77.0,"4- B,S,C,L",2.75
+457,266,Manabi,Caoni (Tulicorp),55.0,"4- B,S,C,L",3.0
+458,269,Los Rios,Caoni (Tulicorp),55.0,"4- B,S,C,L",3.25
+459,269,Esmeraldas,Caoni (Tulicorp),55.0,"4- B,S,C,L",3.5
+460,1263,"Saidor Estate, Madang P.",Captain Pembleton,70.0,"3- B,S,C",3.5
+461,1263,Kulili Estate,Captain Pembleton,70.0,"3- B,S,C",3.75
+462,2626,"La Colonia, batch 5",CAR Artisan,70.0,"3- B,S,C",3.0
+463,2626,"Kokoa Kamili, batch 9",CAR Artisan,70.0,"3- B,S,C",3.25
+464,2630,"Ucayali, batch 12",CAR Artisan,70.0,"3- B,S,C",3.25
+465,2630,"Soconusco, batch 2",CAR Artisan,70.0,"3- B,S,C",3.25
+466,841,Costa Rica,Caribeans,72.0,"2- B,S",3.0
+467,845,Costa Rica,Caribeans,80.0,"2- B,S",2.75
+468,1582,"Antigua, Special Reserve",Caribeans,72.0,"3- B,S,C",3.5
+469,1586,"Talamanca, Raul-Kekoldo community",Caribeans,72.0,"2- B,S",3.25
+470,1586,Anselmo Paraiso Estate,Caribeans,72.0,"2- B,S",3.5
+471,1884,Arauca,Carlotta Chocolat,65.0,"3- B,S,C",3.0
+472,1888,Tumaco,Carlotta Chocolat,65.0,"3- B,S,C",3.25
+473,1888,Cordoba,Carlotta Chocolat,65.0,"3- B,S,C",3.25
+474,1888,Huila,Carlotta Chocolat,65.0,"3- B,S,C",3.5
+475,1888,"Cesar, CCN51",Carlotta Chocolat,65.0,"3- B,S,C",3.5
+476,2154,"Ecuador, Vietnam",Casa,75.0,"2- B,S",2.0
+477,2394,"Fazenda Camboa, Bahia, 2018",Casa Lasevicius,71.0,"2- B,S",3.0
+478,2402,"Amazon Forest, 2018",Casa Lasevicius,65.0,"2- B,S",3.25
+479,1101,"Bolivia, batch 166",Castronovo,70.0,"3- B,S,C",3.0
+480,1101,"Conacado, batch 161",Castronovo,73.0,"2- B,S",3.5
+481,1105,"San Martin, batch 155",Castronovo,70.0,"3- B,S,C",2.5
+482,1105,"Guaniamo, Amazonas, batch 159",Castronovo,70.0,"3- B,S,C",3.25
+483,1109,"Nicaragua, batch 164",Castronovo,72.0,"3- B,S,C",3.25
+484,1153,"Tumbes, batch 176",Castronovo,70.0,"3- B,S,C",2.75
+485,1153,"Guaniamo, batch 173",Castronovo,72.0,"3- B,S,C",3.0
+486,1347,"Sierra Nevada, batch 1",Castronovo,72.0,"3- B,S,C",3.5
+487,1371,"Arauca, batch 280",Castronovo,76.0,"3- B,S,C",3.5
+488,1407,Elvesia P.,Castronovo,70.0,"3- B,S,C",2.75
+489,1570,"the lost city, gracias a dias, batch 362",Castronovo,72.0,"3- B,S,C",3.5
+490,1570,"Duarte, Batch 360",Castronovo,70.0,"3- B,S,C",3.75
+491,1574,"Piaroa, Amazonas, Batch 350",Castronovo,72.0,"3- B,S,C",3.5
+492,1724,"Maya Mtn, Batch 454, Heirloom",Castronovo,72.0,"3- B,S,C",4.0
+493,1956,"Patanemo, batch 539",Castronovo,70.0,"2- B,S",3.25
+494,2314,"Xoconusco, criollo, batch 834",Castronovo,70.0,"3- B,S,C",3.75
+495,2354,Puerto Rico,Castronovo,70.0,"3- B,S,C",3.5
+496,2554,"Valle de Los Rios, batch 990",Castronovo,70.0,"3- B,S,C",4.0
+497,2688,"Chuao, batch 1089",Castronovo,72.0,"3- B,S,C",4.0
+498,2736,"Baracoa, Guantanamo Province, (72% Beans)",Cedric de Taeye,72.0,"3- B,S,C",3.0
+499,2740,"Ambanja, 2018 harvest (74% Beans)",Cedric de Taeye,74.0,"3- B,S,C",2.75
+500,2740,"Gran Couva, 2018 harvest (75% Beans)",Cedric de Taeye,75.0,"3- B,S,C",2.5
+501,1247,Ecuador,Cello,70.0,"3- B,S,C",2.5
+502,1247,Peru,Cello,70.0,"3- B,S,C",2.75
+503,1251,Venezuela,Cello,70.0,"3- B,S,C",2.75
+504,1251,Bolivia,Cello,70.0,"3- B,S,C",3.0
+505,404,Equateur,Cemoi,72.0,"3- B,S,C",2.75
+506,1426,Uganda,Chaleur B,70.0,"3- B,S,C",2.75
+507,2672,"Ambanja, Sambirano Valley",Chaleur B,70.0,"3- B,S,C",3.0
+508,2676,Maya Mountain,Chaleur B,70.0,"3- B,S,C",3.0
+509,2676,"Maranon, nano-lot #709, bar# 371",Chaleur B,72.0,"3- B,S,C",3.25
+510,2028,"Beni, Cru Sauvage",Chapon,74.0,"2- B,S",3.0
+511,2238,"San Esteban (Chloe, Maria, Patrice)",Chapon,68.0,"3- B,S,C",3.5
+512,1900,Maya Mtn,Charm School,70.0,"3- B,S,C",3.25
+513,252,Los Rios,Chchukululu (Tulicorp),75.0,"3- B,S,C",3.0
+514,486,Arriba,Chchukululu (Tulicorp),55.0,"3- B,S,C",2.75
+515,1235,la Amistad,Chequessett,70.0,"3- B,S,C",3.5
+516,2202,Ucayali River,Chequessett,72.0,"3- B,S,C",3.0
+517,2422,Costa Esmeraldas,Chequessett,72.0,"3- B,S,C",3.5
+518,2668,Tumaco Narino,Chequessett,83.0,"3- B,S,C",3.25
+519,2668,"Dominican Republic, ""Provincetown Dark""",Chequessett,69.0,"3- B,S,C",3.25
+520,672,Blend No. 1,Chloe Chocolat,70.0,"3- B,S,C",3.5
+521,1454,Ecuador,Chocablog,70.0,"3- B,S,C",3.25
+522,1407,Maya Mountain w/ nibs,Choco Del Sol,75.0,"2- B,S",3.0
+523,1407,Maya Mountain,Choco Del Sol,82.0,"2- B,S",3.25
+524,1696,"Mekong Delta, early 2014 Harvest",Choco Dong,70.0,"2- B,S",2.75
+525,1696,"Tawau, Oct. 2015 Harvest",Choco Dong,70.0,"2- B,S",3.5
+526,2298,La Dalia,Chococard (Lapos),72.0,"3- B,S,C",2.5
+527,2298,Zorzal,Chococard (Lapos),71.0,"3- B,S,C",3.25
+528,1482,"Peru, batch C7",Chocolarder,65.0,"2- B,S",2.5
+529,1482,"Peru + nibs, batch C6",Chocolarder,65.0,"2- B,S",2.75
+530,1514,"Dominican Republic, batch 5",Chocolarder,80.0,"2- B,S",2.5
+531,2442,"Ottange Farm, Mava P., Ramena River, Sambirano",Chocolarder,74.0,"2- B,S",3.0
+532,647,Madagascar,Chocola'te,70.0,"2- B,S",3.75
+533,647,Venezuela,Chocola'te,68.0,"2- B,S",3.75
+534,1772,"Tumbes, ""Zarumilla""",Chocolate Alchemist-Philly,90.0,"2- B,S*",2.5
+535,1772,"Philly Blend, 5 plantations",Chocolate Alchemist-Philly,80.0,"2- B,S*",2.5
+536,1760,Wild Bolivian,Chocolate Con Amor,70.0,"2- B,S",2.5
+537,1760,Uganda,Chocolate Con Amor,70.0,"2- B,S",2.75
+538,1764,Dominican Republic,Chocolate Con Amor,60.0,"2- B,S",3.0
+539,1764,Dominican Republic,Chocolate Con Amor,75.0,"2- B,S",3.0
+540,1764,Ocumare,Chocolate Con Amor,80.0,"2- B,S",3.0
+541,1764,Ecuador,Chocolate Con Amor,70.0,"2- B,S",3.25
+542,1768,Nicaragua,Chocolate Con Amor,80.0,"2- B,S",2.75
+543,1259,Peru,Chocolate Conspiracy,74.0,"3- B,S*,C",2.75
+544,1530,Tres Hombres,Chocolate Makers,75.0,"3- B,S,C",3.25
+545,1530,"Congo, Gorilla bar",Chocolate Makers,68.0,"3- B,S,C",3.5
+546,1530,"Peru, Awagum bar",Chocolate Makers,80.0,"3- B,S,C",3.75
+547,919,Ecuador,Chocolate Tree,82.0,"3- B,S,C",2.5
+548,919,Peru,Chocolate Tree,68.0,"3- B,S,C",2.75
+549,919,Madagascar,Chocolate Tree,72.0,"3- B,S,C",3.25
+550,1121,Peru,Chocolate Tree,70.0,"2- B,S",3.75
+551,1582,Maranon,Chocolate Tree,69.0,"3- B,S,C",3.75
+552,1582,Carenero Superior,Chocolate Tree,80.0,"2- B,S",3.75
+553,2700,Chuao,Chocolate Tree,70.0,"3- B,S,C",2.75
+554,2134,Zorzal,Chocolates by Josh (Box Chocolate),72.0,"3- B,S,C",3.25
+555,2294,"Idukki Hills, GoGround, batch 0089",Chocolatoa,70.0,"3- B,S,C",3.0
+556,1219,Xoconusco,Chocolats Privilege,70.0,"4- B,S,C,V",2.5
+557,2080,"Anamalai, Tamil Nadu",Chocolibrium,63.0,"3- B,S,C",2.5
+558,2080,"Monte Grande Plantation, Coatepeque",Chocolibrium,76.0,"2- B,S",2.75
+559,2080,Ucayali,Chocolibrium,70.0,"2- B,S",2.75
+560,1454,Patanemo,ChocoReko,77.0,"3- B,S,C",3.0
+561,682,"Chiapas, Lacandon Jungle, Oaxacom Mtn",Chocosol,65.0,"3- B,S,C",3.25
+562,1832,"Chiapas, Lacandon Jungle, Oaxacom Mtn",Chocosol,75.0,"3- B,S,C",3.25
+563,2594,"Chivite, Cahabon River",Chocotenango,70.0,"2- B,S",3.25
+564,2594,"Maya Mountain, Toledo",Chocotenango,70.0,"2- B,S",3.5
+565,2598,Duarte,Chocotenango,73.0,"2- B,S",3.25
+566,117,"Bolivar, Guaranda",Chocovic,71.0,"4- B,S,C,L",2.5
+567,117,Guyave,Chocovic,71.0,"4- B,S,C,L",2.5
+568,117,Maragda,Chocovic,70.0,"4- B,S,C,L",3.0
+569,209,Ocumare,Chocovic,71.0,"4- B,S,C,L",3.5
+570,439,Kendari,Chocovic,60.0,"4- B,S,C,L",3.25
+571,439,Tarakan,Chocovic,75.0,"4- B,S,C,L",3.25
+572,478,Xoconusco,Chocovic,71.0,"4- B,S,C,L",3.25
+573,478,Sambirano,Chocovic,71.0,"4- B,S,C,L",3.5
+574,1522,Tabasco,Chocovivo,65.0,"2- B,S",2.5
+575,1522,Tabasco,Chocovivo,75.0,"2- B,S",2.5
+576,377,Ocumare,Choklat,80.0,"4- B,S,C,V",2.5
+577,377,"Porcelana, Tabasco",Choklat,70.0,"4- B,S,C,V",2.75
+578,377,Brazilian,Choklat,70.0,"4- B,S,C,V",3.0
+579,377,Brazilian,Choklat,80.0,"4- B,S,C,V",3.0
+580,377,Ocumare,Choklat,70.0,"4- B,S,C,V",3.0
+581,2514,"Chuao w/ nibs, 2017-2018 harvest, Batch 9",Chokola,75.0,"2- B,S",3.75
+582,2514,"Bejofo, 2019 H., Batch 20",Chokola,67.0,"2- B,S",4.0
+583,2534,"Verapaz, 2017 harvest, Batch 14",Chokola,70.0,"2- B,S",3.5
+584,2534,"Maya Mountain, 2017 harvest, Batch 11",Chokola,70.0,"2- B,S",3.75
+585,2638,"Kokoa Kamili, harvest 2018",Chokola,75.0,"2- B,S",3.5
+586,2638,"Wild Tranquilidad, harvest 2018, batch 9",Chokola,75.0,"2- B,S",3.75
+587,1149,Guadeloupe,Chokolat Elot (Girard),42.0,"4- B,S,V,L",2.75
+588,2250,"Ucayali, batch 1",Christophe Toury,70.0,"2- B,S",2.75
+589,2226,Ucayali,Christopher Elbow,75.0,"3- B,S,C",3.75
+590,2306,Oko Caribe,Christopher Elbow,72.0,"3- B,S,C",3.75
+591,2310,"Hacienda Azul, 2017 harvest",Christopher Elbow,70.0,"3- B,S,C",3.25
+592,2310,"Camino Verde, 2017 harvest",Christopher Elbow,73.0,"3- B,S,C",3.5
+593,2310,"Kokoa Kamili, 2017 harvest",Christopher Elbow,72.0,"3- B,S,C",3.5
+594,2310,"Fazenda Camboa, 2017 harvest",Christopher Elbow,70.0,"3- B,S,C",4.0
+595,2314,"Vietnam, Marou 2017 harvest",Christopher Elbow,72.0,"3- B,S,C",3.0
+596,666,"Maranon Canyon, Fortunato No. 4",Christopher Morel (Felchlin),68.0,"3- B,S,C",3.75
+597,445,Choroni,Chuao Chocolatier,61.0,"5- B,S,C,V,L",3.0
+598,486,Chuao,Chuao Chocolatier (Pralus),77.0,"3- B,S,C",2.75
+599,209,Terreiro Velho P. w/ sugar crystals,Claudio Corallo,80.0,"3- B,S,C",3.0
+600,227,"Terreiro Velho P., Sao Tome & Principe",Claudio Corallo,75.0,"3- B,S,C",3.75
+601,252,"Principe, Sao Tome & Principe",Claudio Corallo,100.0,"3- B,S,C",1.0
+602,470,"Terreiro Velho P., Sao Tome & Principe",Claudio Corallo,73.5,"2- B,S",3.75
+603,2630,Oko Caribe,Cleveland Chocolate Company,70.0,"3- B,S,C",3.5
+604,2630,Pisa,Cleveland Chocolate Company,79.0,"3- B,S,C",3.5
+605,1486,"Camino Verde P., Balao, Guayas, 2014, batch 1",Cloudforest,73.0,"2- B,S",3.5
+606,2474,Ucayali,Coco,70.0,"3- B,S,C",3.5
+607,2402,St. Lucia,Cocoa Carib,70.0,"4- B,S,C,V",2.25
+608,2606,"Maranon, batch 244PEmaD",Cocoa Forge,68.0,"3- B,S,C",3.0
+609,2606,"Sambirano, batch 236MAsaD77",Cocoa Forge,77.0,"2- B,S",3.25
+610,2606,"Tumaco, batch 227COtm",Cocoa Forge,70.0,"3- B,S,C",3.25
+611,292,Carenero Superior,Compania de Chocolate (Salgado),80.0,"3- B,S,C",2.75
+612,292,Moxos,Compania de Chocolate (Salgado),72.0,"3- B,S,C",3.25
+613,292,Ocumare,Compania de Chocolate (Salgado),70.0,"3- B,S,C",3.75
+614,296,Esmeraldas,Compania de Chocolate (Salgado),88.0,"3- B,S,C",2.75
+615,579,Sur del Lago,Compania de Chocolate (Salgado),70.0,"3- B,S,C",3.25
+616,1630,Camino Verde,Condor,76.0,"2- B,S",3.5
+617,1916,"Tien Giang, 2015, batch 10-2-16",Confluence,78.0,"2- B,S",2.75
+618,2684,Ucayali,Conjure,68.0,"3- B,S,C",3.25
+619,2688,Malah Na Bulong,Conjure,70.0,"3- B,S,C",2.5
+620,2688,"Ivory Coast, Rainforest Alliance, batch 7",Conjure,70.0,"3- B,S,C",2.5
+621,2688,Kokoa Kamili,Conjure,75.0,"3- B,S,C",3.5
+622,196,"Sambirano, Menava P.",Coppeneur,72.0,"3- B,S,C",3.0
+623,220,"Porcelana, Tabasco, Mexico",Coppeneur,72.0,"3- B,S,C",3.0
+624,220,"Porcelana, Venezuela",Coppeneur,72.0,"3- B,S,C",3.0
+625,341,"Porcelana, Apotequil",Coppeneur,72.0,"3- B,S,C",3.0
+626,445,"Porcelana, Apotequil",Coppeneur,62.0,"3- B,S,C",3.25
+627,451,Chuao 100hr,Coppeneur,70.0,"3- B,S,C",3.5
+628,451,Chuao 70hr,Coppeneur,70.0,"3- B,S,C",3.75
+629,470,Grenada,Coppeneur,72.0,"3- B,S,C",3.25
+630,478,Chuao,Coppeneur,70.0,"3- B,S,C",3.0
+631,558,"Los Rios, H. Iara",Coppeneur,72.0,"3- B,S,C",2.5
+632,558,Trinidad,Coppeneur,72.0,"3- B,S,C",3.0
+633,558,Jamaica,Coppeneur,72.0,"3- B,S,C",3.25
+634,558,Ocumare 61,Coppeneur,72.0,"3- B,S,C",3.25
+635,813,Ghana Puristique,Coppeneur,85.0,"3- B,S,C",3.5
+636,817,Ecuador Puristique,Coppeneur,100.0,"3- B,S,C",1.5
+637,821,"Uba Budo, Sao Tome & Principe",Coppeneur,72.0,"3- B,S,C",3.75
+638,959,Madagascar,Coppeneur,70.0,"3- B,S,C",3.5
+639,1169,"Ecuador, Puristique",Coppeneur,65.0,"4- B,S,C,L",3.25
+640,1984,Ghana,Coppeneur,75.0,"3- B,S,C",3.75
+641,48,Sensations Intense,Cote d' Or (Kraft),70.0,"3- B,S,C",1.0
+642,971,"Tanzania, batch a1",Cravve,75.0,"3- B,S,C",3.25
+643,975,"Bahia, batch a1213",Cravve,65.0,"3- B,S,C",3.25
+644,975,"Namau Village, N. Taileva P., batch a2812",Cravve,67.0,"3- B,S,C",3.25
+645,975,"Vanuatu, batch 2410",Cravve,64.0,"3- B,S,C",3.25
+646,975,"Djual Island, batch 1712",Cravve,75.0,"3- B,S,C",3.5
+647,1283,"New Ireland, batch 1702",Cravve,70.0,"3- B,S,C",2.5
+648,1335,"Vanuatu, batch 2410",Cravve,83.0,"3- B,S,C",2.75
+649,1736,"heirloom, Arriba Nacional",Creo,85.0,"3- B,S,C",3.25
+650,1736,"heirloom, Arriba Nacional",Creo,73.0,"3- B,S,C",3.75
+651,2466,"Zorzal, batch 40",Crow and Moss,70.0,"2- B,S",3.25
+652,2466,"Aruaca, batch 39",Crow and Moss,70.0,"2- B,S",3.25
+653,2466,"Wampusirpi, batch 41",Crow and Moss,70.0,"2- B,S",3.5
+654,2502,"Camino Verde, batch 84",Crow and Moss,70.0,"2- B,S",3.25
+655,2656,"Anamalai, Pollachi City, batch 148",Crow and Moss,70.0,"2- B,S",3.75
+656,2720,"El Peten, batch 21156",CRU,72.0,"2- B,S",3.5
+657,2724,"La Dalia, batch 21266",CRU,72.0,"2- B,S",3.5
+658,2724,"La Masica, batch 21155",CRU,72.0,"2- B,S",3.0
+659,2522,"Pisa, 2020 harvest, batch 20111",Cultura,70.0,"3- B,S,C",3.5
+660,2522,"Maya Mountain, 2020 harvest, batch 20107",Cultura,75.0,"3- B,S,C",3.5
+661,2526,"Lachua, Cacao Verapaz, 2018 harvest, batch 20092",Cultura,70.0,"3- B,S,C",3.25
+662,2526,"Tabasco, Agrofloresta Cacao, 2020 h., batch 20098",Cultura,70.0,"3- B,S,C",3.5
+663,2622,"Comalcalco, Tabasco, b. 2370003, 2019 harvest",Cuna de Piedra,73.0,"2- B,S",3.75
+664,785,"Daintree Estates, N. Queensland",Daintree,70.0,"5- B,S,C,V,L",3.25
+665,1654,Goodman Estate,Daintree,70.0,"3- B,S,C",2.75
+666,1928,"Dominican Republic, batch 7",Dalloway,72.0,"2- B,S",2.75
+667,1610,Robson Estate,Damson,70.0,"3- B,S,C",3.0
+668,1610,Los Rios,Damson,70.0,"3- B,S,C",3.5
+669,1666,Crayfish Bay aka Non Pariel Estate,Damson,70.0,"3- B,S,C",2.25
+670,1666,O'Payo,Damson,70.0,"3- B,S,C",2.75
+671,2064,"Angel Bar, Nicaragua, Madagascar",Damson,65.0,"4- B,S,C,L",2.5
+672,2574,"Puerto Rico, collab w/ USDA (Juan Echevarria)",Dancing Lion,68.0,"4- B,S,C,L",2.5
+673,2574,Anamalai,Dancing Lion,72.0,"4- B,S,C,L",3.0
+674,2574,"Ucayali, collab w/ USAID & Alanzo Cacao",Dancing Lion,72.0,"4- B,S,C,L",3.5
+675,805,Upala,Dandelion,70.0,"2- B,S",3.0
+676,805,Colombian,Dandelion,70.0,"2- B,S",3.25
+677,915,"Elvesia, 2011",Dandelion,70.0,"2- B,S",3.75
+678,1026,"Cumboto, farmer Jose Lugo, batch 1",Dandelion,70.0,"2- B,S",2.75
+679,1026,"Patanemo, batch 3",Dandelion,70.0,"2- B,S",3.25
+680,1085,"Mantuano, 2012, batch 1",Dandelion,70.0,"2- B,S",3.5
+681,1153,"Papua New Guinea, batch 1",Dandelion,70.0,"2- B,S",3.5
+682,1219,Maya Mountain,Dandelion,70.0,"2- B,S",3.5
+683,1295,"Camino Verde P., Balao, Guayas, 2013",Dandelion,70.0,"2- B,S",3.5
+684,1303,Buto,Dandelion,70.0,"2- B,S",2.75
+685,1387,"San Francisco de Macoris, Cibao region",Dandelion,70.0,"2- B,S",3.75
+686,1446,"Maya Mtn., Break Bar- Snark",Dandelion,70.0,"2- B,S",3.0
+687,1816,"Zorzal Reserva, 2015 H., Kerchner",Dandelion,70.0,"2- B,S",3.75
+688,2024,"Hacienda Azul, 2016 Harvest",Dandelion,70.0,"2- B,S",3.0
+689,2178,"Gola Rainforest, 2017 harvest",Dandelion,70.0,"2- B,S",3.0
+690,2178,"WAMPU, La Mosquitia, 2017 harvest",Dandelion,70.0,"2- B,S",3.25
+691,2178,"Anamalai, 2017 harvest",Dandelion,70.0,"2- B,S",3.5
+692,2386,"Ben Tre, 2018 Harvest",Dandelion,70.0,"2- B,S",3.5
+693,2546,"Kokoa Kamili, 2017 h., batch 2",Dandelion,70.0,"2- B,S",3.5
+694,2546,"Vale Potumuju, 2019 h., batch 1",Dandelion,70.0,"2- B,S",4.0
+695,2550,"Piura Blanco, 2015 h.,Norandino Coop, batch 1",Dandelion,70.0,"2- B,S",3.25
+696,2550,"Zorzal Estate, 2016 h., batch 1",Dandelion,70.0,"2- B,S",3.5
+697,2602,"Cahabon, Cacao Verapaz, ADIOESMAC, batch 1",Dandelion,70.0,"2- B,S",2.75
+698,2602,"Anamalai, 2018 H., batch 1",Dandelion,70.0,"2- B,S",2.75
+699,2602,"Anamalai, 2019 H., batch 1, nutmeg fermentation",Dandelion,70.0,"2- B,S",3.25
+700,654,Dominican Republic,Dandelion (aka Brower Ave),70.0,"2- B,S",3.25
+701,654,Madagascar,Dandelion (aka Brower Ave),70.0,"2- B,S",3.25
+702,654,Tanzania,Dandelion (aka Brower Ave),70.0,"2- B,S",3.25
+703,2550,"Zorzal Estate, 2017 h.",Dandelion (Japan),70.0,"2- B,S",3.0
+704,423,Las Acacias E.,Danta,75.0,"4- B,S,C,V",3.0
+705,423,Las Acacias E.,Danta,60.0,"4- B,S,C,V",3.25
+706,661,Los Ujuxtes,Danta,60.0,"4- B,S,C,V",3.5
+707,987,Chuao,Danta,75.0,"4- B,S,C,V",3.0
+708,987,Los Ujuxtes,Danta,70.0,"2- B,S",3.75
+709,987,Sambirano,Danta,70.0,"2- B,S",3.75
+710,987,Las Acacias E.,Danta,70.0,"2- B,S",4.0
+711,991,"Oscuro, Finca Chimelb",Danta,70.0,"2- B,S",3.25
+712,1223,Los Ujuxtes,Danta,82.0,"4- B,S,C,V",3.25
+713,1920,"Venezuela, batch 122",DAR,72.0,"2- B,S",2.75
+714,1920,Vietnam,DAR,72.0,"2- B,S",3.0
+715,1920,"DUO, batch 002, Ecuador, Costa Rica",DAR,70.0,"2- B,S",3.25
+716,2342,Piura,Darcis,72.0,"4- B,S,C,L",3.0
+717,2342,Mekong Delta,Darcis,70.0,"4- B,S,C,L",3.25
+718,1550,Madagascar,Dark Forest,70.0,"3- B,S,C",3.0
+719,1550,Ocumare,Dark Forest,70.0,"3- B,S,C",3.25
+720,1554,Tanzania,Dark Forest,70.0,"3- B,S,C",3.0
+721,1554,Ecuador,Dark Forest,70.0,"3- B,S,C",3.25
+722,1708,Bolivia,Dark Forest,75.0,"3- B,S,C",3.25
+723,907,West Africa,Davis,58.0,"4- B,S,C,L",3.25
+724,1093,Ghana,Davis,70.0,"4- B,S,C,L",2.5
+725,1093,Rainforest,Davis,70.0,"4- B,S,C,L",2.75
+726,1093,Venezuela,Davis,70.0,"4- B,S,C,L",2.75
+727,1462,"Nativo, Varzea",De Mendes,72.0,"3- B,S,C",3.5
+728,1462,"Selvagem, Jari",De Mendes,65.0,"3- B,S,C",3.5
+729,1832,Bundibugyo District,De Villiers,70.0,"3- B,S,C",2.5
+730,1832,"Sambirano Valley, batch 2477",De Villiers,70.0,"3- B,S,C",3.0
+731,170,Madagascar,Dean and Deluca (Belcolade),66.0,"4- B,S,C,V",2.5
+732,175,Costa Rica,Dean and Deluca (Belcolade),64.0,"4- B,S,C,V",3.0
+733,175,Ecuador,Dean and Deluca (Belcolade),71.0,"4- B,S,C,V",3.0
+734,175,Ghana,Dean and Deluca (Belcolade),60.0,"4- B,S,C,V",3.0
+735,180,Papua New Guinea,Dean and Deluca (Belcolade),64.0,"4- B,S,C,V",3.0
+736,180,Peru,Dean and Deluca (Belcolade),64.0,"4- B,S,C,V",3.0
+737,263,Venezuela,Debauve & Gallais (Michel Cluizel),66.0,"4- B,S,C,V",3.75
+738,423,Papua New Guinea,Debauve & Gallais (Michel Cluizel),64.0,"4- B,S,C,V",3.0
+739,2222,Elvesia,Definite,70.0,"2- B,S",2.5
+740,2222,Duarte Province,Definite,70.0,"2- B,S",2.5
+741,2222,Duarte Province,Definite,80.0,"2- B,S",3.0
+742,1916,"Kilombero, batch 41",Desbarres,72.0,"2- B,S",2.5
+743,2422,"Monte Grande, batch 178",Desbarres,72.0,"2- B,S",3.0
+744,166,Costa Rica,DeVries,77.0,"2- B,S",3.5
+745,166,Dominican Republic,DeVries,77.0,"2- B,S",3.5
+746,241,Bolivian,DeVries,80.0,"2- B,S",2.75
+747,661,Sambirano,Dick Taylor,80.0,"2- B,S",2.75
+748,682,Mantuano,Dick Taylor,75.0,"2- B,S",2.75
+749,769,La Red,Dick Taylor,74.0,"2- B,S",3.0
+750,769,Ecuador,Dick Taylor,70.0,"2- B,S",3.25
+751,895,Bolivia,Dick Taylor,75.0,"2- B,S",2.75
+752,1034,"Ecuador, Choc. Garage Exclusive",Dick Taylor,70.0,"2- B,S",3.25
+753,1193,Camino Verde,Dick Taylor,76.0,"2- B,S",3.5
+754,1235,Elvesia,Dick Taylor,74.0,"2- B,S",3.5
+755,1634,"Alto Beni, Wild Harvest, Limited Ed.",Dick Taylor,70.0,"2- B,S",3.75
+756,1864,Tien Giang,Dick Taylor,78.0,"2- B,S",3.5
+757,1952,Lanquin Estate,Dick Taylor,70.0,"2- B,S",3.75
+758,1972,"Fazenda Camboa, Bahia, batch 17009",Dick Taylor,75.0,"2- B,S",3.75
+759,2016,"Solomon Is.,batch 17158, N.Vela",Dick Taylor,72.0,"2- B,S",4.0
+760,2258,"Vanua Levu, Matasawalevu",Dick Taylor,80.0,"2- B,S",3.75
+761,2270,"Maya Mtn, Toledo",Dick Taylor,72.0,"2- B,S",4.0
+762,2434,"Akesson P., Sambirano",Dick Taylor,72.0,"2- B,S",3.75
+763,2466,"Northerner, Madagascar and Brazil",Dick Taylor,73.0,"2- B,S",3.5
+764,2554,"Bachelor's Hall, batch 20240",Dick Taylor,75.0,"2- B,S",3.75
+765,2656,"Soconusco, Rayen Cacao Co-op, batch 21154",Dick Taylor,72.0,"2- B,S",4.0
+766,2732,Madagascar,Didier Smeets,63.0,"3- B,S,C",3.0
+767,2736,Peru,Didier Smeets,65.0,"3- B,S,C",2.75
+768,2740,Vietnam,Didier Smeets,70.0,"3- B,S,C",2.75
+769,2740,Bali,Didier Smeets,65.0,"3- B,S,C",2.5
+770,2402,"Sao Tome, unroasted, batch UNR-18-003",Diogo Vaz,70.0,"4- B,S,C,L",2.75
+771,2402,"Sao Tome, batch OST-18-01",Diogo Vaz,65.0,"4- B,S,C,L",3.0
+772,2406,"Sao Tome, Grand Cru Plantation, amelonado",Diogo Vaz,75.0,"4- B,S,C,L",2.5
+773,2406,"Sao Tome, batch TRI-18-002, trinitario",Diogo Vaz,75.0,"4- B,S,C,L",3.0
+774,1371,"Panama, Raven",Doble & Bignall,72.0,"3- B,S,C",3.25
+775,1371,"Puerto Cabello, Mantuano",Doble & Bignall,72.0,"3- B,S,C",3.25
+776,1407,Johe,Doble & Bignall,72.0,"3- B,S,C",3.5
+777,1688,Puerto Cabello,Doble & Bignall,85.0,"3- B,S,C",3.0
+778,311,"O'ahu Island, N. Shore, Waialua Estate",Dole (Guittard),70.0,"3- B,S,C",3.75
+779,63,Noir,Dolfin (Belcolade),70.0,"3- B,S,L",1.5
+780,304,"Africa, West Africa",Dolfin (Belcolade),88.0,"3- B,S,L",3.0
+781,87,Sur del Lago Classificado,Domori,70.0,"2- B,S",3.0
+782,87,Apurimac,Domori,70.0,"2- B,S",3.25
+783,87,Carenero Superior,Domori,70.0,"2- B,S",3.5
+784,111,Porcelana,Domori,70.0,"2- B,S",4.0
+785,129,"Ocumare 61, Puertomar",Domori,75.0,"2- B,S",3.25
+786,135,Granella,Domori,60.0,"2- B,S",3.25
+787,135,Madagascar,Domori,70.0,"2- B,S",3.5
+788,192,Madagared,Domori,70.0,"2- B,S",3.5
+789,192,"Java, Javablond",Domori,70.0,"2- B,S",3.75
+790,192,Ecuador,Domori,70.0,"2- B,S",4.0
+791,192,"Ocumare 67, Puertofino",Domori,70.0,"2- B,S",4.0
+792,227,"Carupano, H. San Jose",Domori,70.0,"2- B,S",3.0
+793,272,Teyuna,Domori,70.0,"2- B,S",3.0
+794,272,Blend No. 1,Domori,78.0,"2- B,S",3.5
+795,272,Ilblend,Domori,70.0,"2- B,S",3.75
+796,470,"Chuao, Hacienda San Jose",Domori,70.0,"2- B,S",3.0
+797,693,"Canoabo, Hacienda San Jose",Domori,70.0,"2- B,S",3.5
+798,863,Morogoro,Domori,70.0,"2- B,S",3.5
+799,863,Guasare,Domori,70.0,"2- B,S",3.75
+800,1109,"IL100, H. San Jose, batch NDL3A01",Domori,100.0,"3- B,S,C",3.0
+801,1672,Hacienda Victoria,Domori,70.0,"2- B,S",3.75
+802,1672,Ocumare 77,Domori,70.0,"2- B,S",3.75
+803,2040,Tanzania,Domori,70.0,"2- B,S",4.0
+804,2748,Brazil,Domori,70.0,"2- B,S",3.5
+805,1672,"Rio Caribe, Batch 7",Dormouse,70.0,"3- B,S,C",2.5
+806,1676,"Colombia, Batch 9",Dormouse,80.0,"3- B,S,C",2.75
+807,1676,"Madagascar, Batch 8",Dormouse,77.0,"3- B,S,C",2.75
+808,1880,Non Pariel Estate,Dormouse,75.0,"3- B,S*,C",2.75
+809,2052,"Kablon Farm, batch 242",Dormouse,71.5,"3- B,S*,C",2.75
+810,2052,"Verapaz, batch 254",Dormouse,72.0,"3- B,S*,C",3.5
+811,2096,"Piura, batch 274",Dormouse,80.0,"2- B,S*",3.5
+812,2696,"Trio Reserve, 2020 h. batch D002",Dormouse,78.0,"3- B,S,C",3.25
+813,2390,Oko Caribe,Double Spiral,75.0,"2- B,S",2.5
+814,2390,Kokoa Kamili,Double Spiral,70.0,"2- B,S",2.75
+815,2390,Hispaniola,Double Spiral,75.0,"2- B,S",3.0
+816,2752,"Zorzal, Cibao, San Francisco de Macoris",Ducrey,70.0,"2- B,S",3.25
+817,2752,"O'Payo, Wasalala Co-op",Ducrey,75.0,"2- B,S",2.75
+818,2752,Pisa,Ducrey,70.0,"2- B,S",3.25
+819,516,Panama,Duffy's,70.0,"3- B,S,C",3.5
+820,516,"Corazon del Ecuador, Calceta beans",Duffy's,72.0,"3- B,S,C",3.75
+821,523,Star of Ecuador,Duffy's,70.0,"3- B,S,C",2.5
+822,523,Star of Peru,Duffy's,70.0,"3- B,S,C",3.75
+823,623,"Indio Rojo, Xoco",Duffy's,72.0,"3- B,S,C",3.75
+824,661,Dominican Republic,Duffy's,65.0,"3- B,S,C",3.5
+825,697,"Bocas del Toro, Tierra Oscura",Duffy's,72.0,"3- B,S,C",3.0
+826,697,"Nicaliso, Xoco",Duffy's,71.0,"3- B,S,C",3.25
+827,765,Ocumare,Duffy's,71.0,"3- B,S,C",3.5
+828,923,Ocumare,Duffy's,72.0,"3- B,S,C",3.75
+829,1331,"Chuno, Xoco",Duffy's,70.0,"4- B,S,C,L",3.5
+830,1331,"Rico Rugoso, Xoco",Duffy's,76.0,"4- B,S,C,L",3.75
+831,1662,"Rio Dulce, Xoco",Duffy's,70.0,"4- B,S,C,L",4.0
+832,1964,Eti-Oni,Duffy's,70.0,"4- B,S,C,L",2.75
+833,2100,Mayan Red,Duffy's,80.0,"4- B,S,C,L",3.25
+834,2366,South Cotabato,Duffy's,70.0,"4- B,S,C,L",3.5
+835,2648,"Juno, batch 201006",Duffy's,70.0,"4- B,S,C,L",3.5
+836,1506,"Dominican Republic, batch 1507",Dulcinea,70.0,"2- B,S",3.25
+837,841,Madagascar,Durand,82.0,"3- B,S,C",2.75
+838,1626,"Maranon, Joya Rara",Durci,70.0,"3- B,S,C",3.5
+839,1626,"Rio Caribe, Tepui Treasure",Durci,70.0,"3- B,S,C",3.5
+840,1630,Taino Secret,Durci,70.0,"3- B,S,C",3.25
+841,1630,"Carenero, Empyrean Sabor",Durci,70.0,"3- B,S,C",3.25
+842,1630,Corona Arriba,Durci,70.0,"3- B,S,C",4.0
+843,2040,Piura Blanco,Durci,70.0,"3- B,S,C",4.0
+844,2744,Zorzal,DWAAR,70.0,"3- B,S,C",3.0
+845,1343,"Peru, batch P116",East Van Roasters,70.0,"3- B,S,C",3.25
+846,1343,"Madagascar, batch M132",East Van Roasters,70.0,"3- B,S,C",3.5
+847,1343,"Dominican Republic, batch DR113",East Van Roasters,70.0,"3- B,S,C",3.75
+848,1812,Tumaco,Eau de Rose,70.0,"3- B,S,C",3.25
+849,1812,Arauca,Eau de Rose,70.0,"3- B,S,C",3.25
+850,919,"Maranon, Good & Evil, w/ nibs",Eclat (Felchlin),72.0,"3- B,S,C",2.75
+851,2358,"NOE, nacional/criollo, batch 1",Eclat (Fruition),80.0,"2- B,S",3.5
+852,1876,Porcelana,Edelmond,68.0,"2- B,S",3.0
+853,2534,"Akessons, Sambirano Valley",El Buen,70.0,"2- B,S",3.0
+854,2534,Tumaco,El Buen,70.0,"2- B,S",3.0
+855,252,Alto Beni,El Ceibo,71.0,"4- B,S,C,L",2.75
+856,709,"Alto Beni, Covendo Region",El Ceibo,75.0,"4- B,S,C,L",3.75
+857,32,"Carenero Superior, Gran Saman",El Rey,70.0,"5- B,S,C,V,L",2.75
+858,206,"Carenero Superior, Apamate",El Rey,74.0,"5- B,S,C,V,L",2.5
+859,206,"Carenero Superior, Bucare",El Rey,58.0,"5- B,S,C,V,L",2.5
+860,206,"Carenero Superior, Mijao",El Rey,61.0,"5- B,S,C,V,L",3.0
+861,439,"Rio Caribe, Cariaco",El Rey,60.5,"5- B,S,C,V,L",2.75
+862,439,"Rio Caribe, Macuro",El Rey,70.0,"5- B,S,C,V,L",3.0
+863,1662,San Joaquin,El Rey,70.0,"5- B,S,C,V,L",3.75
+864,2382,"Polochic, batch 711",Eldora,70.0,"3- B,S,C",3.5
+865,2724,"Kokoa Kamili, 2020 harvest, batch 1574",Eldora,70.0,"3- B,S,C",3.5
+866,2724,"Lazan'ny, 2019 harvest, batch 1547",Eldora,70.0,"3- B,S,C",3.25
+867,2728,"Maya Mtn., 2019 harvest, batch 1573",Eldora,70.0,"3- B,S,C",3.5
+868,2728,"Puerto Quito, 2021 harvest, batch 1560",Eldora,70.0,"3- B,S,C",3.0
+869,2728,"Zorzal, 2021 harvest, batch 1549",Eldora,70.0,"3- B,S,C",3.0
+870,2728,"Semuliki, 2019 harvest, batch 1575",Eldora,70.0,"3- B,S,C",3.75
+871,1137,Emerald Estate,Emerald Estate,60.0,"2- B,S",2.75
+872,1137,Emerald Estate,Emerald Estate,70.0,"2- B,S",3.25
+873,1450,Patanemo,Emily's,79.0,"3- B,S,C",3.0
+874,1454,Peru,Emily's,78.0,"3- B,S,C",3.5
+875,2108,Pisa w/ nibs,Encuentro,70.0,"2- B,S",3.5
+876,2108,Asochivite,Encuentro,70.0,"2- B,S",3.5
+877,2114,Oko Caribe,Encuentro,70.0,"2- B,S",3.25
+878,2118,Bejofo,Encuentro,70.0,"2- B,S",3.5
+879,1916,"Wampusirpi, batch 007",ENNA,75.0,"2- B,S",3.25
+880,2198,"Ben Tre, batch 77",ENNA,72.0,"2- B,S",3.0
+881,2350,Gola Rainforest,ENNA,70.0,"3- B,S,C",2.5
+882,2350,Kokoa Kamili,ENNA,80.0,"3- B,S,C",3.0
+883,2350,"Maiden Voyage Estate, Herbert Pasqual",ENNA,72.0,"3- B,S,C",3.5
+884,565,"Terreiro Velho P., Sao Tome & Principe",Enric Rovira (Claudio Corallo),80.0,"3- B,S,C",3.25
+885,1205,Ben Tre,Erithaj (A. Morin),70.0,"3- B,S,C",3.25
+886,1209,Ham Luong,Erithaj (A. Morin),80.0,"3- B,S,C",3.0
+887,1209,"Ba Lai, Mekong Delta",Erithaj (A. Morin),74.0,"3- B,S,C",3.25
+888,252,Ocumare,Escazu,72.0,"4- B,S,C,V",3.0
+889,414,Guapiles,Escazu,65.0,"4- B,S,C,V",2.0
+890,423,Carenero Superior,Escazu,81.0,"4- B,S,C,V",3.5
+891,431,"Carenero, Guapiles, Ocumare blend",Escazu,74.0,"4- B,S,C,V",2.75
+892,903,Rio Caribe,Escazu,70.0,"4- B,S,C,V",2.75
+893,2570,"Roasted Cocoa Nibs, Latin America Blend, b.060321",Escazu,65.0,"3- B,S,C",3.0
+894,2570,"Arhuacos, Sierra Nevada, batch 060221",Escazu,70.0,"2- B,S",3.5
+895,666,"Peru, Madagascar",Ethel's Artisan (Mars),55.0,"4- B,S,C,V",2.5
+896,666,Trinidad,Ethel's Artisan (Mars),55.0,"4- B,S,C,V",2.5
+897,666,Porcelana,Ethel's Artisan (Mars),70.0,"4- B,S,C,V",2.5
+898,666,Red Vanilla,Ethel's Artisan (Mars),62.0,"4- B,S,C,V",2.75
+899,672,"Venezuela, Trinidad",Ethel's Artisan (Mars),62.0,"4- B,S,C,V",2.5
+900,1275,Belize,Ethereal,80.0,"3- B,S,C",3.0
+901,1275,Ecuador,Ethereal,80.0,"3- B,S,C",3.5
+902,1275,Dominican Republic,Ethereal,80.0,"3- B,S,C",3.75
+903,2142,Guatemala,Ethereal,80.0,"3- B,S,C",3.5
+904,2664,Uganda,Ethereal,70.0,"3- B,S,C",3.0
+905,2450,"Maranon, Fortunato",Exquisito,73.0,"3- B,S,C",3.0
+906,565,"Monte Alegre, D. Badaro, Raw, Organic",Fearless (AMMA),75.0,"2- B,S",2.75
+907,1732,Blue Mountain,Feitoria Cacao,76.0,"2- B,S",3.0
+908,1736,Cuyagua,Feitoria Cacao,76.0,"2- B,S",2.5
+909,1736,Maya Mountain,Feitoria Cacao,76.0,"2- B,S",2.75
+910,48,"Madagascar, Grand Cru",Felchlin,64.0,"5- B,S,C,V,L",3.0
+911,48,Maracaibo Clasificado,Felchlin,65.0,"5- B,S,C,V,L",3.0
+912,48,Arriba,Felchlin,72.0,"5- B,S,C,V,L",3.5
+913,56,"Alto Beni, Cru Savage",Felchlin,68.0,"5- B,S,C,V,L",4.0
+914,105,Supremo- SF,Felchlin,62.0,"5- B,S,C,V,L",2.0
+915,105,Elvesia P.,Felchlin,74.0,"5- B,S,C,V,L",3.0
+916,494,Grenada,Felchlin,58.0,"5- B,S,C,V,L",3.5
+917,1283,Puerto Rico,Finca,65.0,"3- B,S,C",2.25
+918,1283,Dominican Republic,Finca,80.0,"3- B,S,C",3.0
+919,1283,Dominican Republic,Finca,70.0,"3- B,S,C",3.25
+920,1287,Dominican Republic,Finca,85.0,"3- B,S,C",2.5
+921,2474,Honduras,Finnia,70.0,"3- B,S,C",2.75
+922,2478,Mexico,Finnia,70.0,"3- B,S,C",3.0
+923,2482,"Chigorodo, batch 001",Finnia,70.0,"3- B,S,C",2.75
+924,2486,"Ucayali (Peru), Papua New G., Tabasco (Mexico)",Finnia,70.0,"3- B,S,C",3.25
+925,2394,Karkar Island,Firetree,72.0,"4- B,S,C,L",3.5
+926,2398,Mindanao Island,Firetree,73.0,"4- B,S,C,L",3.25
+927,2398,Guadalcanal,Firetree,69.0,"4- B,S,C,L",3.5
+928,2398,Malekula Island,Firetree,72.0,"4- B,S,C,L",3.75
+929,2150,"Oko Caribe, San Fran. De Mac.,batch A",Five (5)Mile,75.0,"2- B,S",3.5
+930,2154,"Maya Mtn, batch 7C",Five (5)Mile,75.0,"2- B,S",2.75
+931,2154,"Monte Grande, batch 18",Five (5)Mile,75.0,"2- B,S",2.75
+932,2154,"Tumaco, batch 23abc",Five (5)Mile,75.0,"2- B,S",3.0
+933,2202,Bejofo,FJAK,70.0,"3- B,S,C",3.0
+934,2206,Goground,FJAK,68.0,"3- B,S,C",3.5
+935,2206,Kokoa Kamili,FJAK,70.0,"3- B,S,C",3.5
+936,1267,Rio Eni,Forever Cacao,72.0,"3- B,S*,C",2.75
+937,1776,Dominican Republic,Forteza (Cortes),70.0,"6- B,S,C,V,L,Sa",2.75
+938,1776,Puerto Rico,Forteza (Cortes),80.0,"6- B,S,C,V,L,Sa",2.75
+939,1772,"Akesson's E., Sambirano V.",Fossa,70.0,"2- B,S",2.75
+940,1776,"Camino Verde P., Balao, Guayas",Fossa,75.0,"2- B,S",3.5
+941,1776,"Kokoa Kamili Coop, Kilombero",Fossa,67.0,"2- B,S",3.75
+942,2072,Alto Beni,Fossa,70.0,"2- B,S",3.0
+943,2072,"Pak Eddy Farm, Yogyakarta Region",Fossa,70.0,"2- B,S",3.0
+944,2072,Davao,Fossa,70.0,"2- B,S",3.25
+945,2072,Pisa,Fossa,68.0,"2- B,S",3.5
+946,2076,Oko Caribe,Fossa,72.0,"2- B,S",2.75
+947,2430,"Finca La Rioja E., Cacahoatan, Chiapas, microlot",Fossa,70.0,"2- B,S",3.0
+948,2430,"Ottange Farm, Mava Plantation, Sambirano",Fossa,70.0,"2- B,S",3.5
+949,2712,"Burang, Popayato-Paquat microlot, Goranulo Province",Fossa,72.0,"2- B,S",3.5
+950,2712,"Semai Community, Kamping Long B, Pahang",Fossa,72.0,"2- B,S",3.5
+951,2318,"Kulkul P., Karkar Island, 2018 h., batch PK019",Foundry,70.0,"2- B,S",3.0
+952,2318,"Kilombero Valley, 2017 h., batch TK020",Foundry,70.0,"2- B,S",3.25
+953,2322,"Alto Beni, 2017 h.",Foundry,70.0,"2- B,S",3.0
+954,2322,"Masidau Farm, batch VM021",Foundry,70.0,"2- B,S",3.0
+955,2322,"Tumaco, 2017 h., batch U022",Foundry,70.0,"2- B,S",3.0
+956,2322,"Camino Verde, 2017 h., batch EC019",Foundry,70.0,"2- B,S",3.75
+957,2326,"Ucayali, 2017 h., batch PU024",Foundry,70.0,"2- B,S",3.75
+958,911,Canoabo,Franceschi,70.0,"3- B,S,C",3.75
+959,915,Sur del Lago,Franceschi,60.0,"3- B,S,C",3.5
+960,1355,"Choroni, batch 210414",Franceschi,70.0,"3- B,S,C",3.5
+961,1355,"Ocumare, batch 210414",Franceschi,70.0,"3- B,S,C",3.75
+962,2044,Rio Caribe,Franceschi,60.0,"4- B,S,C,L",2.5
+963,2100,"Sur del Lago, Zulia",Franceschi,70.0,"3- B,S,C",3.0
+964,2100,"Carenero, Miranda",Franceschi,70.0,"3- B,S,C",3.25
+965,2118,"Cuyagua, batch 4, lot DC2.3",Franceschi,72.0,"2- B,S",3.5
+966,2122,"Chuao, batch 4, Lot DH17",Franceschi,85.0,"2- B,S",3.0
+967,1351,Ghana,Frederic Blondeel,60.0,"4- B,S,C,L",3.5
+968,1351,Madagascar,Frederic Blondeel,65.0,"4- B,S,C,L",3.5
+969,1538,Costa Rica,Frederic Blondeel,70.0,"4- B,S,C,L",3.5
+970,1538,Peru Brutus,Frederic Blondeel,75.0,"4- B,S,C,L",3.5
+971,1542,Vietnam,Frederic Blondeel,80.0,"4- B,S,C,L",3.0
+972,781,"Maranon Canyon, Fortunato No. 4",French Broad,70.0,"2- B,S",3.5
+973,785,La Red,French Broad,65.0,"2- B,S",3.5
+974,883,"Tumbes Coop, batch 120724M",French Broad,70.0,"2- B,S",2.5
+975,883,"Palo Blanco, Chulucanas, b. 120725A",French Broad,66.0,"2- B,S*",3.5
+976,887,"Palo Blanco w/ panela, Chulucanas, b. 120725A",French Broad,81.0,"2- B,S*",2.0
+977,1042,"Palo Blanco, Chulucanas",French Broad,66.0,"2- B,S",3.5
+978,1209,San Andres,French Broad,80.0,"2- B,S",3.0
+979,1295,Matagalpa,French Broad,68.0,"2- B,S",3.25
+980,1634,Guatemala,French Broad,73.0,"2- B,S",3.5
+981,1940,"Norandino, batch 161208",French Broad,70.0,"2- B,S",3.5
+982,2430,"Animalai, batch 1063",French Broad,71.0,"3- B,S,C",3.25
+983,370,"Jamaica, #204, DR, SC",Fresco,80.0,"3- B,S,C",2.75
+984,370,"Jamaica, #206, DR, LC",Fresco,70.0,"3- B,S,C",3.0
+985,370,"Jamaica, #205, DR, MC",Fresco,70.0,"3- B,S,C",3.25
+986,370,"Carenero Superior, #203, MR, SC",Fresco,65.0,"3- B,S,C",3.5
+987,636,"Ghana, #211, MR, MC",Fresco,74.0,"3- B,S,C",2.75
+988,642,"Jamaica, #209, DR, SC",Fresco,70.0,"3- B,S,C",3.25
+989,642,"Conacado, #212, LR, SC",Fresco,72.0,"3- B,S,C",3.5
+990,642,"Jamaica, #210, DR, MC",Fresco,70.0,"3- B,S,C",3.5
+991,682,"Sambirano Valley, #214, LR, MC",Fresco,74.0,"3- B,S,C",2.75
+992,682,"Conacado, #213, DR, -C",Fresco,72.0,"3- B,S,C",3.25
+993,688,"Sambirano Valley, #215, MR, MC",Fresco,74.0,"3- B,S,C",3.0
+994,745,"Chuao, #218, MR, MC, batch 11-020",Fresco,76.0,"3- B,S,C",3.25
+995,745,"Chuao, #217, DR, MC, batch 11-021",Fresco,70.0,"3- B,S,C",4.0
+996,899,"Markham Valley, #219, LR, MC",Fresco,69.0,"2- B,S",3.5
+997,899,"Markham Valley, #221, DR, MC",Fresco,69.0,"2- B,S",3.5
+998,915,"Sambirano Valley, #216, MR, LC",Fresco,74.0,"3- B,S,C",4.0
+999,927,"Markham Valley, #220, MR, MC",Fresco,69.0,"2- B,S",4.0
+1000,931,"Markham Valley, #222, LR, 0C",Fresco,69.0,"2- B,S",3.0
+1001,1030,"Conacado, #223, MR, SC, batch 13-051",Fresco,72.0,"3- B,S,C",3.25
+1002,1081,"Conacado, #224, MR, MC, batch 13-061",Fresco,72.0,"3- B,S,C",3.75
+1003,1117,"San Martin, Bellavista Coop, #226, DR, MC",Fresco,70.0,"3- B,S,C",3.75
+1004,1149,"Bellavista Coop, #225, LR, MC, CG Exclusive",Fresco,70.0,"3- B,S,C",4.0
+1005,1383,"Maranon, #228, MR, SC",Fresco,70.0,"3- B,S,C",3.0
+1006,1383,"Maranon, #227, LR, MC",Fresco,70.0,"3- B,S,C",3.5
+1007,1383,"Maranon, #229, MR, LC",Fresco,70.0,"3- B,S,C",3.5
+1008,1387,"Maranon, #230, DR, LC",Fresco,70.0,"3- B,S,C",3.5
+1009,2024,"Polochic Valley, LR, LC, batch 17-203",Fresco,70.0,"3- B,S,C",3.5
+1010,2024,"Polochic Valley, MR, LC, batch 17-189",Fresco,70.0,"3- B,S,C",3.75
+1011,2028,"Polochic Valley, DR, LC, batch 17-201",Fresco,70.0,"3- B,S,C",3.5
+1012,2174,"Chuao, MR, SC, batch 18-224",Fresco,72.0,"3- B,S,C",3.25
+1013,2174,Carupano Pintao,Fresco,72.0,"3- B,S,C",3.5
+1014,2642,"ABOCFA, #260, LR-SC, batch 20-335",Fresco,68.0,"3- B,S,C",3.25
+1015,2642,"ABOCFA, #261, DR-MC, batch 21-448",Fresco,68.0,"3- B,S,C",3.5
+1016,2644,"O'Payo Profundo, Waslala, MR-MC, #271, b. 21-431",Fresco,70.0,"3- B,S,C",3.5
+1017,2644,"O'Payo Profundo, Waslala, DR-LC, #271, b. 21-433",Fresco,70.0,"3- B,S,C",3.75
+1018,2644,"Chuao Village, BR-SC, batch 21-437",Fresco,68.0,"3- B,S,C",4.0
+1019,2704,"Sambirano V., #290, MR MC, batch 21-454",Fresco,70.0,"3- B,S,C",3.5
+1020,2708,"Lamas, Oro Verde, #280, MR 0C, batch 21-457",Fresco,74.0,"3- B,S,C",3.0
+1021,2708,"Lamas, Oro Verde, #282, DR MC, batch 21-451",Fresco,74.0,"3- B,S,C",3.25
+1022,2000,"Fazenda Camboa, Bahia",Fresh Coast,70.0,"2- B,S",3.5
+1023,2000,"Kokoa Kamili, Kilombero District",Fresh Coast,70.0,"2- B,S",3.75
+1024,1375,Belize,Fresh Coast aka Just Good Choc.,70.0,"2- B,S",3.5
+1025,1375,Madagascar,Fresh Coast aka Just Good Choc.,70.0,"2- B,S",3.5
+1026,1375,Peru,Fresh Coast aka Just Good Choc.,70.0,"2- B,S",4.0
+1027,1912,"Rugoso, Bad Fermentation",Friis Holm,70.0,"2- B,S",3.5
+1028,1956,Barba,Friis Holm,70.0,"3- B,S,C",3.75
+1029,2122,"O'Payo, Wasalala Co-op",Friis Holm,68.0,"3- B,S,C",3.5
+1030,2122,Johe,Friis Holm,70.0,"3- B,S,C",3.75
+1031,2126,"La Dalia, Lazy Growers Blend",Friis Holm,60.0,"3- B,S,C",3.0
+1032,2126,"La Dalia, Lazy Growers Blend",Friis Holm,70.0,"3- B,S,C",3.25
+1033,2126,Medagla,Friis Holm,70.0,"3- B,S,C",3.75
+1034,2126,Indio Rojo,Friis Holm,70.0,"3- B,S,C",4.0
+1035,2130,"Chuno, 2x turned",Friis Holm,70.0,"3- B,S,C",3.0
+1036,2130,"Chuno, 3x turned",Friis Holm,70.0,"3- B,S,C",3.5
+1037,2130,Nicaliso,Friis Holm,70.0,"3- B,S,C",3.75
+1038,2130,"Rugoso, Bad Fermentation",Friis Holm,70.0,"3- B,S,C",4.0
+1039,2134,Rugoso,Friis Holm,70.0,"3- B,S,C",3.25
+1040,2720,"Don Alfonso, North of El Castillo, single farm",Friis Holm,70.0,"3- B,S,C",3.5
+1041,2720,"Bejofo, Akesson, slow dry",Friis Holm,64.0,"3- B,S,C",3.5
+1042,2720,"Bejofo, Akesson, fast dry",Friis Holm,64.0,"3- B,S,C",3.75
+1043,623,"Johe, Xoco",Friis Holm (Bonnat),70.0,"3- B,S,C",3.25
+1044,623,"Chuno, Xoco",Friis Holm (Bonnat),70.0,"3- B,S,C",3.5
+1045,623,"Nicaliso, Xoco",Friis Holm (Bonnat),70.0,"3- B,S,C",3.5
+1046,895,"Chuno, triple turned, Xoco",Friis Holm (Bonnat),70.0,"3- B,S,C",3.25
+1047,899,"Red Mayan, Xoco",Friis Holm (Bonnat),70.0,"3- B,S,C",3.25
+1048,899,"Chuno, double turned, Xoco",Friis Holm (Bonnat),70.0,"3- B,S,C",3.25
+1049,923,"Rugoso, Xoco",Friis Holm (Bonnat),70.0,"3- B,S,C",3.75
+1050,1034,"Barba, Xoco",Friis Holm (Bonnat),70.0,"3- B,S,C",3.25
+1051,1034,"Medagla, Xoco",Friis Holm (Bonnat),70.0,"3- B,S,C",3.5
+1052,1259,La Dalia,Friis Holm (Bonnat),70.0,"3- B,S,C",3.5
+1053,1680,La Dalia,Friis Holm (Bonnat),60.0,"3- B,S,C",3.0
+1054,1680,La Dalia,Friis Holm (Bonnat),85.0,"3- B,S,C",3.25
+1055,753,Signature Blend,Fruition,66.0,"3- B,S,C",3.25
+1056,781,Costa Rica,Fruition,70.0,"3- B,S,C",3.0
+1057,863,Peru,Fruition,70.0,"3- B,S,C",2.5
+1058,1046,La Red,Fruition,70.0,"3- B,S,C",3.75
+1059,1185,Camino Verde,Fruition,75.0,"3- B,S,C",3.0
+1060,1347,Gran Couva,Fruition,70.0,"3- B,S,C",3.75
+1061,1359,Maranon,Fruition,76.0,"3- B,S,C",3.0
+1062,1780,"Wild Bolivian, Batch 2",Fruition,74.0,"2- B,S",3.75
+1063,1780,"Coto Brus, Heirloom, Batch 1",Fruition,74.0,"2- B,S",4.0
+1064,2278,"Sambirano, Akessons, batch 1",Fruition,74.0,"2- B,S",3.75
+1065,2366,"Tumaco, batch 2",Fruition,85.0,"2- B,S",3.5
+1066,2550,"Los Bejucos, batch 1",Fruition,77.0,"2- B,S",3.25
+1067,2554,"Hispaniola, Dom. Rep. blend, batch 50",Fruition,68.0,"4- B,S,C,V",3.75
+1068,2664,"Ucayali, batch 1",Fruition,72.0,"3- B,S,C",3.75
+1069,2174,"Taiwan, #1",Fu Wan,70.0,"3- B,S,C",2.5
+1070,2190,Madagascar,Fu Wan,70.0,"2- B,S",3.0
+1071,2202,Tanzania,Fu Wan,70.0,"2- B,S",3.0
+1072,2202,Chuao,Fu Wan,70.0,"3- B,S,C",3.5
+1073,1367,"Kaua'i Island, Alea Estate +world",Garden Island,85.0,"3- B,S,V",2.5
+1074,1642,Akesson P.,Georgia Ramon,65.0,"4- B,S,C,L",3.25
+1075,1642,ABOCFA Coop,Georgia Ramon,70.0,"4- B,S,C,L",4.0
+1076,1646,Conacado Coop,Georgia Ramon,70.0,"4- B,S,C,L",3.5
+1077,1646,Conacado Coop,Georgia Ramon,80.0,"4- B,S,C,L",3.5
+1078,1646,Akesson P.,Georgia Ramon,75.0,"4- B,S,C,L",3.5
+1079,2012,"Rabot Estate, Island Growers",Georgia Ramon,77.0,"3- B,S,C",3.5
+1080,2012,"Porcelana, La Orquidea, Santa Barbara, Zulia",Georgia Ramon,75.0,"3- B,S,C",3.5
+1081,2096,Cahabon E.,Georgia Ramon,72.0,"3- B,S,C",2.75
+1082,2282,Chuao,Georgia Ramon,75.0,"3- B,S,C",2.75
+1083,1672,Bahia,Glennmade,66.0,"2- B,S",3.0
+1084,1848,"Toledo District, 2015 Harvest",Glennmade,70.0,"2- B,S",3.5
+1085,1924,"Almendra Blanca, batch 1004",Goodnow Farms,77.0,"3- B,S,C",2.75
+1086,1924,"Asochivite, batch 1005",Goodnow Farms,77.0,"3- B,S,C",3.25
+1087,1924,"El Carmen, batch 1003",Goodnow Farms,77.0,"3- B,S,C",3.25
+1088,2032,"Ucayali, batch 1041",Goodnow Farms,70.0,"3- B,S,C",3.25
+1089,2446,Boyaca,Goodnow Farms,73.0,"3- B,S,C",2.5
+1090,2446,Coto Brus,Goodnow Farms,73.0,"3- B,S,C",3.0
+1091,2602,"Costa Esmeraldas, Salazar Farm",Goodnow Farms,70.0,"3- B,S,C",3.75
+1092,2194,Maya Mtn,Gotham,70.0,"2- B,S",2.75
+1093,2642,"Idukki Hills, ""Adventurous""",Gotham,70.0,"2- B,S",3.0
+1094,2642,"Alto Beni, ""Wild""",Gotham,70.0,"2- B,S",3.25
+1095,2644,Oko Caribe,Gotham,70.0,"2- B,S",3.25
+1096,741,"Ben Tre, Dong Nai",Grand Place,72.0,"5- B,S,C,V,L",3.0
+1097,2692,"Sambirano, Ambanja, batch 11",Great Lakes,72.0,"3- B,S,C",3.5
+1098,2692,"Kokoa Kamili, Kilombero District, batch 11",Great Lakes,70.0,"3- B,S,C",3.5
+1099,2692,"Duarte Province, El Cibao, batch 10",Great Lakes,75.0,"3- B,S,C",3.5
+1100,2696,"Dak Lak, batch 09",Great Lakes,73.0,"3- B,S,C",3.5
+1101,15,Dark,Green & Black's (ICAM),70.0,"5- B,S,C,V,L",2.5
+1102,1896,Madagascar,Green Bean to Bar,70.0,"2- B,S",3.5
+1103,2382,Nativo Blanco,Green Bean to Bar,73.0,"2- B,S",2.5
+1104,2696,"Idukki Hills, batch 11",Green Door,70.0,"3- B,S,C",3.0
+1105,241,Grenada,Grenada Chocolate Co.,71.0,"5- B,S,C,V,L",2.5
+1106,363,Grenada,Grenada Chocolate Co.,60.0,"5- B,S,C,V,L",2.75
+1107,494,Grenada,Grenada Chocolate Co.,82.0,"5- B,S,C,V,L",3.25
+1108,355,"Arriba, A.S.S., prototype",Guido Castagna,64.0,"4- B,S,C,L",3.0
+1109,355,"Ghana, prototype",Guido Castagna,64.0,"4- B,S,C,L",3.0
+1110,355,"Trinidad & Tobago, prototype",Guido Castagna,64.0,"4- B,S,C,L",3.0
+1111,355,Lacri Blend,Guido Castagna,76.0,"4- B,S,C,L",3.0
+1112,355,"Ven, Trinidad, Ecuador, prototype",Guido Castagna,64.0,"4- B,S,C,L",3.25
+1113,2060,Madagascar,Guido Castagna,70.0,"4- B,S,C,L",2.75
+1114,15,Chucuri,Guittard,65.0,"5- B,S,C,V,L",3.0
+1115,87,Sur del Lago,Guittard,65.0,"5- B,S,C,V,L",2.5
+1116,87,"Sambirano, Ambanja",Guittard,65.0,"5- B,S,C,V,L",3.5
+1117,93,"Los Rios, Quevedo",Guittard,65.0,"5- B,S,C,V,L",3.5
+1118,93,Tsaranta,Guittard,61.0,"5- B,S,C,V,L",3.5
+1119,99,Semisweet,Guittard,61.0,"5- B,S,C,V,L",3.0
+1120,147,Quetzalcoatl,Guittard,72.0,"5- B,S,C,V,L",3.5
+1121,259,Machu Pichu,Guittard,65.0,"5- B,S,C,V,L",3.0
+1122,276,Special Maker Reserve,Guittard,64.0,"5- B,S,C,V,L",3.0
+1123,276,Ocumare,Guittard,65.0,"5- B,S,C,V,L",3.5
+1124,316,"O'ahu Island, N. Shore, Waialua E., Kakoleka",Guittard,55.0,"5- B,S,C,V,L",3.0
+1125,387,Nocturne,Guittard,91.0,"5- B,S,C,V,L",3.0
+1126,387,Complexite,Guittard,70.0,"5- B,S,C,V,L",3.5
+1127,552,Trinidad,Guittard,65.0,"5- B,S,C,V,L",3.0
+1128,654,Coucher du Soleil,Guittard,72.0,"5- B,S,C,V,L",2.75
+1129,654,Lever du Soleil,Guittard,61.0,"5- B,S,C,V,L",3.25
+1130,654,Onyx,Guittard,72.0,"5- B,S,C,V,L",3.25
+1131,1053,Haiti,Guittard,65.0,"5- B,S,C,V,L",2.75
+1132,1053,Nicaragua,Guittard,65.0,"5- B,S,C,V,L",2.75
+1133,1053,Jamaica,Guittard,65.0,"5- B,S,C,V,L",3.25
+1134,1053,Ecuador,Guittard,65.0,"5- B,S,C,V,L",3.5
+1135,1602,"Epique, Blend No. 49",Guittard,70.0,"5- B,S,C,V,L",3.75
+1136,1197,Papua New Guinea,Habitual,80.0,"3- B,S,C",2.75
+1137,1197,Campesino w/ nibs,Habitual,74.0,"3- B,S,C",2.75
+1138,1197,Dominican Republic,Habitual,75.0,"3- B,S,C",3.25
+1139,1197,Trinidad & Tobago,Habitual,70.0,"3- B,S,C",3.5
+1140,1201,Downtown London,Habitual,65.0,"3- B,S,C",2.75
+1141,1201,Africa meets Latina,Habitual,70.0,"3- B,S,C",3.0
+1142,1201,Amazonas,Habitual,80.0,"3- B,S,C",3.0
+1143,1201,"Hawai'i Island, Sharkey",Habitual,66.0,"3- B,S,C",3.25
+1144,1205,one hundred,Habitual,100.0,"3- B,S,C",2.0
+1145,166,Arriba,Hachez,77.0,"4- B,S,C,V",2.5
+1146,1327,Don Homero- Cerecita Valley,Hacienda El Castillo,55.0,"4- B,S,C,L",2.75
+1147,1327,Don Homero- Cerecita Valley,Hacienda El Castillo,70.0,"4- B,S,C,L",3.0
+1148,701,South America and Africa,Haigh,70.0,"3- B,S,C",3.0
+1149,1696,Brazil Blend,Harper Macaw,67.0,"3- B,S,C",3.0
+1150,1700,"Tome Acu E., Amazon Rainforest",Harper Macaw,77.0,"3- B,S,C",3.5
+1151,1700,"Vale do Juliana E., Atlantic Forest",Harper Macaw,74.0,"3- B,S,C",3.5
+1152,1808,"Vale do Juliana, w/ nibs",Harper Macaw,85.0,"3- B,S,C",3.25
+1153,2040,Libiano,Harper Macaw,75.0,"3- B,S,C",3.0
+1154,2270,"Ben Tre, batch 133",Harris & James,70.0,"3- B,S,C",3.25
+1155,2330,Kerla,Harris & James,70.0,"3- B,S,C",3.0
+1156,2752,Ghana,Harvest,68.0,"2- B,S",3.25
+1157,2756,Guatemala,Harvest,68.0,"2- B,S",3.5
+1158,2756,Ecuador,Harvest,68.0,"2- B,S",3.25
+1159,2756,Haiti,Harvest,64.0,"2- B,S",2.75
+1160,2378,Kokoa Kamili,Hazel Hill,72.0,"3- B,S,C",3.25
+1161,2378,Oko Caribe,Hazel Hill,70.0,"3- B,S,C",3.5
+1162,2382,Maranon,Hazel Hill,65.0,"3- B,S,C",2.75
+1163,2606,"Soconusco, La Rioja Farm, Chiapas",Hecho,70.0,"2- B,S",3.5
+1164,1876,Peru,Heilemann,64.0,"3- B,S,L",2.75
+1165,2302,"Pulau, Bali",Heinde & Verre,71.0,"4- B,S,C,L",2.5
+1166,2302,"Porcelana, Maracaibo",Heinde & Verre,71.0,"4- B,S,C,L",3.0
+1167,2306,"Dutch Blend, Ven.- Bali- Trinidad",Heinde & Verre,71.0,"4- B,S,C,L",2.5
+1168,1748,"Maya Mtn, Moho R., Toledo D., 2015",Heirloom Cacao Preservation (Brasstown),70.0,"3- B,S,C",3.25
+1169,1748,"Cota Brus, Terciopelo, 2015",Heirloom Cacao Preservation (Fruition),74.0,"3- B,S,C",3.5
+1170,1239,"Alto Beni, Upper Rio Beni, 2014",Heirloom Cacao Preservation (Guittard),67.0,"3- B,S,C",3.5
+1171,1243,"Wild Beni, Lower Rio Beni, Tranquilidad, 2014",Heirloom Cacao Preservation (Guittard),67.0,"3- B,S,C",3.0
+1172,1243,"Los Rios, Hacienda Limon, Orecao, 2014",Heirloom Cacao Preservation (Guittard),67.0,"3- B,S,C",3.75
+1173,1243,"O'ahu Island, Maunawili, Agri Research C., 2014",Heirloom Cacao Preservation (Guittard),67.0,"3- B,S,C",3.75
+1174,1744,"O'ahu Island, Maunawili, Agri Research C., 2015",Heirloom Cacao Preservation (Manoa),72.0,"3- B,S,C",3.5
+1175,1744,"Los Rios, Hacienda Limon, Orecao, 2015",Heirloom Cacao Preservation (Millcreek),70.0,"3- B,S,C",3.5
+1176,1748,"Pinchincha, Mindo, Coop Nueva Esper., 2015",Heirloom Cacao Preservation (Mindo),77.0,"3- B,S,C",3.5
+1177,1744,"Alto Beni, Upper Rio Beni, 2015",Heirloom Cacao Preservation (Zokoko),68.0,"3- B,S,C",3.75
+1178,1744,"Wild Beni, Lower Rio Beni, Tranquilidad, 2015",Heirloom Cacao Preservation (Zokoko),72.0,"3- B,S,C",4.0
+1179,1458,Uganda,hello cocoa (now Markham & Fitz),57.0,"3- B,S,C",2.75
+1180,1462,Venezuela,hello cocoa (now Markham & Fitz),74.0,"3- B,S,C",3.5
+1181,2614,"Esmeraldas, Muisne Estate",Hemisphere,70.0,"2- B,S",2.75
+1182,2614,"Matagalpa, El Tuma region",Hemisphere,70.0,"2- B,S",3.25
+1183,1546,Tanzania,hexx,70.0,"2- B,S*",2.75
+1184,1546,Madagascar,hexx,74.0,"2- B,S*",3.0
+1185,1546,Venezuela,hexx,70.0,"2- B,S*",3.0
+1186,1550,Ecuador,hexx,73.0,"2- B,S*",3.25
+1187,1550,Peru,hexx,70.0,"2- B,S*",3.25
+1188,2146,"Camino Verde, batch 0722",hexx,73.0,"2- B,S*",2.5
+1189,2146,"Oko Caribe, batch 0719",hexx,71.0,"2- B,S*",3.5
+1190,2150,"Maranon, batch 0723",hexx,70.0,"2- B,S*",2.25
+1191,2150,"Sambirano Valley, batch 0124",hexx,74.0,"2- B,S*",2.75
+1192,2150,"Kokoa Kamili, batch 0214",hexx,70.0,"2- B,S*",3.0
+1193,1712,Akesson's Estate,Hogarth,70.0,"3- B,S,C",2.75
+1194,1712,Carenero Superior,Hogarth,72.0,"3- B,S,C",2.75
+1195,1712,Conacado,Hogarth,75.0,"3- B,S,C",3.25
+1196,1712,Gran Blanco,Hogarth,66.0,"3- B,S,C",3.5
+1197,2426,"Porcelana, Lake Maracaibo",Hogarth,68.0,"3- B,S,C",3.25
+1198,2450,Hacienda Victoria,Hogarth,85.0,"3- B,S,C",3.5
+1199,414,Arriba,Hoja Verde (Tulicorp),80.0,"4- B,S,C,L",2.0
+1200,414,Manabi,Hoja Verde (Tulicorp),80.0,"2- B,S",2.5
+1201,414,Arriba,Hoja Verde (Tulicorp),72.0,"2- B,S",3.0
+1202,414,Arriba,Hoja Verde (Tulicorp),58.0,"4- B,S,C,L",3.25
+1203,414,Manabi,Hoja Verde (Tulicorp),58.0,"4- B,S,C,L",3.5
+1204,431,Ivory Coast,Holy Cacao,70.0,"2- B,S",2.5
+1205,431,Hispaniola,Holy Cacao,70.0,"2- B,S",2.75
+1206,431,San Martin,Holy Cacao,70.0,"2- B,S",3.5
+1207,431,Hispaniola w/ nibs,Holy Cacao,75.0,"2- B,S",3.75
+1208,1466,"Camino Verde P., Balao, Guayas",Holy Cacao,70.0,"4- B,S,C,L",3.5
+1209,1466,Sambirano,Holy Cacao,70.0,"4- B,S,C,L",3.5
+1210,1466,Gran Couva,Holy Cacao,70.0,"4- B,S,C,L",3.5
+1211,1466,Mara,Holy Cacao,70.0,"4- B,S,C,L",3.5
+1212,1872,Maranon,Holy Cacao,70.0,"4- B,S,C,L",2.75
+1213,1327,"Ecuador, w/ nibs, batch 140224-1",Honest,72.0,"2- B,S*",2.5
+1214,1030,"Marcial, single Cote, 2012",Hotel Chocolat,70.0,"2- B,S",4.0
+1215,1113,"Island Growers, 2012, 120hr c., batch 13080",Hotel Chocolat,100.0,"3- B,S,C",1.75
+1216,1654,"Pepiniere, single Cote",Hotel Chocolat,70.0,"2- B,S",2.75
+1217,2134,"Sierra Nevada, Cienaga",Hotel Chocolat,75.0,"4- B,S,C,L",2.75
+1218,2386,Copan,Hotel Chocolat,72.0,"4- B,S,C,L",3.0
+1219,2386,Kilombero Valley,Hotel Chocolat,80.0,"4- B,S,C,L",3.0
+1220,245,St. Lucia,Hotel Chocolat (Coppeneur),72.0,"3- B,S,C",3.0
+1221,296,Uganda,Hotel Chocolat (Coppeneur),80.0,"3- B,S,C",2.5
+1222,296,Tanzania,Hotel Chocolat (Coppeneur),75.0,"4- B,S,C,L",2.75
+1223,300,Uba Budo,Hotel Chocolat (Coppeneur),72.0,"4- B,S,C,L",3.0
+1224,552,Ecuador,Hotel Chocolat (Coppeneur),70.0,"3- B,S,C",2.75
+1225,552,Santo Domingo,Hotel Chocolat (Coppeneur),70.0,"3- B,S,C",3.0
+1226,600,Chuao,Hotel Chocolat (Coppeneur),70.0,"4- B,S,C,L",2.75
+1227,623,"Los Rios, H. Iara, 96hr c.",Hotel Chocolat (Coppeneur),80.0,"4- B,S,C,L",3.0
+1228,623,"Island Growers, 120hr c.",Hotel Chocolat (Coppeneur),65.0,"4- B,S,C,L",3.0
+1229,623,"Island Growers, 96hr c.",Hotel Chocolat (Coppeneur),65.0,"4- B,S,C,L",3.25
+1230,809,Sambirano,Hotel Chocolat (Coppeneur),66.0,"4- B,S,V,L",3.5
+1231,1038,Trinidad,Hotel Chocolat (Coppeneur),75.0,"4- B,S,C,L",3.0
+1232,1038,Mekong Delta & Dong Nai,Hotel Chocolat (Coppeneur),80.0,"4- B,S,C,L",3.5
+1233,1065,"Los Rios, H. Iara",Hotel Chocolat (Coppeneur),90.0,"2- B,S",3.0
+1234,1065,"Somia Plantation, Akesson, 2012, Rabot",Hotel Chocolat (Coppeneur),72.0,"4- B,S,C,L",3.0
+1235,1065,"Los Rios, H. Iara, 2012",Hotel Chocolat (Coppeneur),82.0,"2- B,S",3.5
+1236,1109,"Chanchamayo, Pichanadi, 2012, 60hr c., b.13092",Hotel Chocolat (Coppeneur),100.0,"3- B,S,C",2.75
+1237,1113,"Los Rios, H. Iara, 2012, 120hr c., batch 13092",Hotel Chocolat (Coppeneur),100.0,1- B,2.5
+1238,1113,"Conacado, 2012, 120hr c.batch 13092",Hotel Chocolat (Coppeneur),100.0,"3- B,S,C",2.75
+1239,1097,"Ocumare, Cumboto, batch 16",Hummingbird,70.0,"3- B,S,C",3.25
+1240,1097,"Amazonas, batch 14",Hummingbird,70.0,"3- B,S,C",3.75
+1241,1307,"Bolivia, batch 85",Hummingbird,70.0,"3- B,S,C",3.0
+1242,1311,"Bolivia, Bo-nib-ia, w/ nibs, batch 78",Hummingbird,70.0,"3- B,S,C",3.0
+1243,1311,"Momotombo, batch 74",Hummingbird,70.0,"3- B,S,C",3.0
+1244,1311,"Hispaniola, batch 73",Hummingbird,70.0,"3- B,S,C",3.75
+1245,1387,Zorzal Reserva w/ Charles Kerchner,Hummingbird,70.0,"3- B,S,C",3.5
+1246,1542,Lam Dong,Hummingbird,70.0,"3- B,S,C",3.5
+1247,725,Coopertiva Amazona,Idilio (Felchlin),72.0,"3- B,S,C",3.75
+1248,725,"Sur del Lago, Amiari Meridena, Zulia, 48hr c.",Idilio (Felchlin),72.0,"3- B,S,C",3.75
+1249,729,"Choroni, Finca Torres, 48hr c.",Idilio (Felchlin),72.0,"3- B,S,C",3.25
+1250,733,"Ocumare, H. Cata, 48hr c.",Idilio (Felchlin),72.0,"3- B,S,C",3.75
+1251,733,"Porcelana, Zulia",Idilio (Felchlin),74.0,"3- B,S,C",4.0
+1252,737,"Ocumare, H. Cata, w/ nibs",Idilio (Felchlin),72.0,"3- B,S,C",3.5
+1253,737,"Carenero Superior, Urrutia, Barlovento",Idilio (Felchlin),70.0,"3- B,S,C",4.0
+1254,737,Coopertiva Amazona w/ nibs,Idilio (Felchlin),72.0,"3- B,S,C",4.0
+1255,737,"Sur del Lago, Amiari Meridena, Zulia, w/ nibs",Idilio (Felchlin),72.0,"3- B,S,C",4.0
+1256,1085,"Chuao, (Choroni, Ven.)",Idilio (Felchlin),72.0,"3- B,S,C",3.75
+1257,1788,India (south),Indah,61.0,"4- B,S,C,L",2.5
+1258,1255,Honduras,Indi,77.0,"3- B,S,C",3.0
+1259,2008,Lam Dong,Indi,72.0,"3- B,S,C",3.25
+1260,943,"Satipo region, white label",iQ Chocolate,72.0,"4- B,S*,C,L",2.75
+1261,943,black label,iQ Chocolate,72.0,"4- B,S*,C,L",3.0
+1262,1275,"Madagascar, batch 27",Isidro,72.0,"2- B,S",3.5
+1263,1279,"Peru, batch 25",Isidro,72.0,"2- B,S",2.25
+1264,1279,"Belize, batch 26",Isidro,72.0,"2- B,S",3.25
+1265,1279,"Dominican Republic, batch 30",Isidro,72.0,"2- B,S",3.25
+1266,2250,Perseverance E.,Islands Chocolate,72.0,"4- B,S,C,L",2.75
+1267,1542,"Maya Mountain, Toledo, Batch 29",Izard,70.0,"2- B,S",3.5
+1268,1546,"Elvesia P., Batch 32",Izard,70.0,"2- B,S",2.75
+1269,5,Trinatario Treasure,Jacque Torres,71.0,"5- B,S,C,V,L",2.0
+1270,2146,"Venezuela, batch 107",Jean Marie Auboine,72.0,"3- B,S,C",3.25
+1271,1972,"Ocumare, Cuyagua",Johnny Iuzzini,72.0,"3- B,S,C",3.5
+1272,1976,Mount Pleasant,Johnny Iuzzini,67.0,"4- B,S,C,L",3.0
+1273,1976,"San Martin, Oro Verde",Johnny Iuzzini,75.0,"4- B,S,C,L",3.0
+1274,1976,"Tien Giang, Mekong Delta",Johnny Iuzzini,65.0,"4- B,S,C,L",3.5
+1275,1980,Camino Verde P.,Johnny Iuzzini,70.0,"4- B,S,C,L",3.5
+1276,2008,"Sambirano Valley, Batch 7",Johnny Iuzzini,68.0,"5- B,S,C,V,L",3.5
+1277,2008,"Costa Esmeralda, Batch 30",Johnny Iuzzini,78.0,"4- B,S,C,L",3.75
+1278,2100,"Anamalai, batch 8",Johnny Iuzzini,66.0,"4- B,S,C,L",3.0
+1279,2104,"Tumaco, batch 2",Johnny Iuzzini,73.0,"4- B,S,C,L",3.25
+1280,2104,"Tabaquite, batch 12",Johnny Iuzzini,80.0,"4- B,S,C,L",3.25
+1281,1534,Madagascar,Jordis,63.0,"2- B,S",2.75
+1282,2458,Chuao,Jordis,75.0,"3- B,S,C",2.75
+1283,2214,Chantaburi,Kad Kokoa,70.0,"3- B,S,C",3.5
+1284,2218,Chumphon,Kad Kokoa,70.0,"3- B,S,C",3.0
+1285,2218,Chiang Mai,Kad Kokoa,70.0,"3- B,S,C",3.5
+1286,2218,Prachuap Khiri Khan,Kad Kokoa,70.0,"3- B,S,C",3.75
+1287,1061,"Rizek Cacao, Cibao Valley, Rizek",Kah Kow,70.0,"5- B,S,C,V,L",3.5
+1288,1069,"Rizek Cacao, Domin. Rep.",Kah Kow,82.0,"5- B,S,C,V,L",3.0
+1289,1069,"Rizek Cacao, Domin. Rep.",Kah Kow,55.0,"5- B,S,C,V,L",3.25
+1290,1073,"Rizek Cacao, Domin. Rep.",Kah Kow,62.0,"5- B,S,C,V,L",3.25
+1291,2498,"Tireo, Rizek Historical Selection, single estate",Kah Kow,68.0,"4- B,S,C,L",3.75
+1292,2498,"La Magdalena, Rizek Historical S., single estate",Kah Kow,70.0,"3- B,S,C",3.75
+1293,2502,"West Indian, Rizek Historical S.",Kah Kow,67.0,"4- B,S,C,L",3.75
+1294,2716,El Ramonal,Kah Kow,80.0,"3- B,S,C",3.25
+1295,2390,Mata Larga,Kah Kow - USA,71.5,"3- B,S,C",3.5
+1296,2394,El Antiguo (Monet Plata & Duarte ),Kah Kow - USA,70.0,"3- B,S,C",3.0
+1297,2422,"Dominican Nacional, Collection 01",Kah Kow - USA,68.0,"4- B,S,C,L",3.75
+1298,2454,"El Valle, Collection 01, Rizek",Kah Kow - USA,72.0,"4- B,S,C,L",3.0
+1299,2454,"Los Bejucos, Collection 01, Rizek",Kah Kow - USA,65.0,"4- B,S,C,L",3.75
+1300,2764,"Tireo, light roast, Chi Bui collab",Kah Kow - USA,72.0,"4- B,S,C,L",3.5
+1301,2764,"Tireo, medium roast, Chi Bui collab",Kah Kow - USA,72.0,"4- B,S,C,L",4.0
+1302,2764,Los Bejucos,Kah Kow - USA,72.0,"4- B,S,C,L",3.5
+1303,2334,"Morogoro, Kamili, Kilombero Valley, batch 13",Kaitxo,75.0,"3- B,S,C",3.25
+1304,2338,"San Juan Coop, El Castillero",Kaitxo,75.0,"3- B,S,C",3.0
+1305,2338,"Chulucanas, Piura, Cesar Vallejo-farmer",Kaitxo,75.0,"3- B,S,C",3.0
+1306,387,Vanuatu,Kakao,65.0,"3- B,S,C",3.75
+1307,837,Peru,Kakao,64.0,"3- B,S,C",2.5
+1308,241,Sisa 36hr/ W. F. blend prototype,Kallari (Ecuatoriana),70.0,"4- B,S,C,V",3.0
+1309,241,Sisa's Secret/ original micro,Kallari (Ecuatoriana),70.0,"4- B,S,C,V",3.5
+1310,245,Roberto,Kallari (Ecuatoriana),75.0,"4- B,S,C,V",2.75
+1311,248,Diego/ original micro,Kallari (Ecuatoriana),85.0,"4- B,S,C,V",2.5
+1312,248,Diego 48hr/ W.F. blend prototype,Kallari (Ecuatoriana),85.0,"4- B,S,C,V",2.75
+1313,248,Diego 60hr/ W.F. blend prototype,Kallari (Ecuatoriana),85.0,"4- B,S,C,V",3.0
+1314,263,Cacao Nacional W.F.,Kallari (Ecuatoriana),75.0,"4- B,S,C,V",2.5
+1315,269,Cacao Nacional W.F.,Kallari (Ecuatoriana),85.0,"4- B,S,C,V",3.0
+1316,404,Noir,Kaoka (Cemoi),70.0,"3- B,S,C",2.75
+1317,423,Ecuador,Kaoka (Cemoi),80.0,"3- B,S,C",2.75
+1318,2708,"Davao, Mindanao, batch 24",Kasama,70.0,"3- B,S,C",3.25
+1319,2708,"Karkar Island, Madong, batch 34",Kasama,70.0,"3- B,S,C",3.5
+1320,1133,"La Red, Project Reserva, Guaconejo",Kerchner,70.0,"3- B,S,C",3.75
+1321,431,Dark,Ki' Xocolatl,72.0,"5- B,S,C,V,L",2.0
+1322,2478,"Tumaco, batch 113",Kin + Pod,70.0,"3- B,S,C",3.25
+1323,1251,"La Red, Guanconjeco",Kiskadee,60.0,"2- B,S",3.0
+1324,1968,Belize,Krak,70.0,"2- B,S",3.0
+1325,1968,Vietnam,Krak,70.0,"2- B,S",3.0
+1326,2016,Xoconusco,Krak,70.0,"2- B,S",3.25
+1327,2044,"Xoconusco, triple turned",Krak,70.0,"2- B,S",3.75
+1328,2064,Mava Sa Ferme D'ottange,Krak,70.0,"2- B,S",3.0
+1329,2068,Kablon Farm,Krak,70.0,"2- B,S",3.25
+1330,2282,Gazelle,Krak,70.0,"2- B,S",3.25
+1331,2286,H. Betulia B6,Krak,70.0,"2- B,S",3.0
+1332,1422,San Martin,Kto,72.0,"2- B,S",2.5
+1333,1422,Ocumare,Kto,72.0,"3- B,S,C",2.75
+1334,1422,Belize,Kto,72.0,"3- B,S,C",3.0
+1335,1422,Sambirano Valley,Kto,72.0,"3- B,S,C",3.25
+1336,1426,Belize,Kto,90.0,"2- B,S",3.25
+1337,1426,Elvesia,Kto,72.0,"3- B,S,C",3.25
+1338,1426,ROIG,Kto,72.0,"3- B,S,C",3.25
+1339,1840,"Kafupbo, Petit Bourg, De Borgnes",K'ul,70.0,"4- B,S,C,L",3.25
+1340,1852,"Maranon, Fortunato No. 4",K'ul,70.0,"4- B,S,C,L",2.75
+1341,1852,"Bahia, Fazenda Camboa",K'ul,70.0,"4- B,S,C,L",3.75
+1342,1852,"Los Rios, Hacienda Limon, Heirloom",K'ul,70.0,"4- B,S,C,L",3.75
+1343,1359,Uganda,Kyya,72.5,"5- B,S,C,V,Sa",2.5
+1344,1359,Hispaniola,Kyya,72.5,"5- B,S,C,V,Sa",3.0
+1345,1363,Ecuador,Kyya,72.5,"5- B,S,C,V,Sa",2.5
+1346,1363,Madagascar,Kyya,72.5,"5- B,S,C,V,Sa",3.0
+1347,431,Madagascar,L.A. Burdick (Felchlin),64.0,"5- B,S,C,V,L",3.5
+1348,451,Bolivian,L.A. Burdick (Felchlin),68.0,"5- B,S,C,V,L",3.0
+1349,576,Grenada,L.A. Burdick (Felchlin),75.0,"5- B,S,C,V,L",3.25
+1350,576,Dominican Republic,L.A. Burdick (Felchlin),74.0,"5- B,S,C,V,L",3.75
+1351,597,Venzuela,L.A. Burdick (Felchlin),71.0,"5- B,S,C,V,L",3.0
+1352,682,Quito,L.A. Burdick (Felchlin),74.0,"5- B,S,C,V,L",3.75
+1353,891,Peru,L.A. Burdick (Felchlin),74.0,"5- B,S,C,V,L",3.25
+1354,891,Brazil,L.A. Burdick (Felchlin),70.0,"5- B,S,C,V,L",4.0
+1355,927,Chuao,L.A. Burdick (Felchlin),68.0,"5- B,S,C,V,L",3.75
+1356,2426,"Fiji, batch 51019",La Cascade du Chocolat,68.0,"3- B,S,C",3.0
+1357,1892,"Lumas, 2015 Harvest, Batch 6, brown sugar",La Chocolaterie Nanairo,70.0,"3- B,S,C",2.25
+1358,1892,"Lumas, 2015 Harvest, Batch 7",La Chocolaterie Nanairo,70.0,"3- B,S,C",2.5
+1359,1892,"Belize, 2014 Harvest, Batch 9",La Chocolaterie Nanairo,70.0,"3- B,S,C",3.0
+1360,1892,"Tumbes, 2013 Harvest, Batch 8",La Chocolaterie Nanairo,70.0,"3- B,S,C",3.0
+1361,2138,Oko Caribe,La Chorena,70.0,"2- B,S",3.0
+1362,2138,Maranon,La Chorena,75.0,"2- B,S",3.0
+1363,2138,"Maya Mtn, Toledo",La Chorena,70.0,"4- B,S,C,L",3.25
+1364,2138,"Lachua, Cacao Verapaz",La Chorena,70.0,"2- B,S",3.25
+1365,2254,"Maya Mtn, 2017 harvest",La Feverie (Hasnaa),70.0,"2- B,S",3.5
+1366,2254,"Asochivite, 2017 harvest",La Feverie (Hasnaa),70.0,"2- B,S",3.5
+1367,2358,"Piura Blanco, 2018 harvest",La Feverie (Hasnaa),72.0,"2- B,S",3.5
+1368,230,"Cuana, 2008, Ven., Indonesia, Ecuad.",La Maison du Chocolat (Valrhona),74.0,"4- B,S,C,L",3.5
+1369,346,Akosombo,La Maison du Chocolat (Valrhona),68.0,"4- B,S,C,L",3.25
+1370,346,"Porcelana, Pariguan",La Maison du Chocolat (Valrhona),69.0,"4- B,S,C,L",3.5
+1371,439,Kuruba,La Maison du Chocolat (Valrhona),60.0,"4- B,S,C,L",3.0
+1372,445,Orinoco,La Maison du Chocolat (Valrhona),60.0,"4- B,S,C,L",3.75
+1373,741,Grenada,La Maison du Chocolat (Valrhona),68.0,"4- B,S,C,L",3.5
+1374,891,Loma Sotavento,La Maison du Chocolat (Valrhona),66.0,"4- B,S,C,L",3.5
+1375,1121,"Cuana, 2013, Africa, Carribean, C. Am.",La Maison du Chocolat (Valrhona),74.0,"4- B,S,C,L",2.75
+1376,1145,Tobago,La Maison du Chocolat (Valrhona),60.0,"4- B,S,C,L",3.25
+1377,1189,"Acarigua, w/ nibs",La Maison du Chocolat (Valrhona),56.0,"4- B,S,C,L",3.25
+1378,721,Peruvian Amazon,La Oroquidea,72.0,"3- B,S,C",2.5
+1379,713,Vinces,La Pepa de Oro,60.0,"3- B,S,C",3.25
+1380,2182,"Almendra Blanca, Blanco Marfil, Jimenez Garcia",La Rifa,70.0,"2- B,S",3.5
+1381,2186,"Xoconusco, Chiapas, Coop CASFA",La Rifa,70.0,"2- B,S",3.0
+1382,2186,"Uranga, Chiapas, Jimenez Garcia farm",La Rifa,70.0,"2- B,S",3.5
+1383,1434,Cuba,Laia aka Chat-Noir,70.0,"4- B,S,C,L",2.75
+1384,1438,Trinidad-Tobago,Laia aka Chat-Noir,68.0,"4- B,S,C,L",2.75
+1385,1590,"Madagascar, Batch 59/100",Laia aka Chat-Noir,75.0,"4- B,S,C,L",2.75
+1386,1590,"Vietnam, Batch 50/100",Laia aka Chat-Noir,75.0,"4- B,S,C,L",2.75
+1387,1590,"Cuba, Batch 59/100",Laia aka Chat-Noir,75.0,"4- B,S,C,L",3.0
+1388,1590,"Peru, Batch 51/100",Laia aka Chat-Noir,75.0,"4- B,S,C,L",3.25
+1389,1594,"Ivory Coast, Batch 56/100",Laia aka Chat-Noir,75.0,"4- B,S,C,L",3.0
+1390,1638,"Sao Tome, Batch 151",Laia aka Chat-Noir,75.0,"4- B,S,C,L",3.5
+1391,1642,"Bahia, Batch 148",Laia aka Chat-Noir,75.0,"4- B,S,C,L",3.25
+1392,1642,"Lam Dong, Batch 153",Laia aka Chat-Noir,75.0,"4- B,S,C,L",3.75
+1393,927,Catongo,Lajedo do Ouro,70.0,"3- B,S,C",3.5
+1394,327,Tanzania,Lake Champlain (Callebaut),75.0,"3- B,S,C",2.5
+1395,833,Carenero Superior,L'Amourette,75.0,"5- B,S,C,V,L",3.0
+1396,833,Rio Caribe,L'Amourette,75.0,"5- B,S,C,V,L",3.0
+1397,853,"Peru, Ecuador, Venezuela",L'Amourette,72.0,"5- B,S,C,V,L",3.0
+1398,1784,Rugoso,L'Amourette,80.0,"2- B,S",3.5
+1399,2048,Nueva Guinea,Land,71.0,"3- B,S,C",3.0
+1400,2048,San Pedro Sula,Land,70.0,"3- B,S,C",3.25
+1401,2048,"Nicaliso, Bocay",Land,73.0,"3- B,S,C",3.5
+1402,1972,"Tranquilidad, Itinez Province",Landmark (Amano),74.0,"3- B,S,C",3.75
+1403,2262,Upala,Legast,70.0,"3- B,S,C",3.25
+1404,2266,"Chucuri, finca los lagos el Carmen",Legast,70.0,"3- B,S,C",2.75
+1405,2266,Piura,Legast,70.0,"3- B,S,C",3.5
+1406,1371,Maranura,Letterpress,70.0,"2- B,S",3.5
+1407,1562,Beniamo,Letterpress,70.0,"2- B,S",3.25
+1408,1562,"San Juan Estate, Gran Couva",Letterpress,70.0,"2- B,S",3.5
+1409,1566,San Andres,Letterpress,70.0,"2- B,S",3.0
+1410,1566,"La Red, Guaconejo",Letterpress,70.0,"2- B,S",3.25
+1411,1566,Kokoa Kamili,Letterpress,70.0,"2- B,S",3.5
+1412,1728,Liberia,Letterpress,70.0,"2- B,S",3.25
+1413,1952,"Maya Mtn, Batch 18, Heirloom",Letterpress,70.0,"2- B,S",3.25
+1414,1952,"La Masica, Batch 7, FHIA",Letterpress,70.0,"2- B,S",3.5
+1415,1984,Ucayali,Letterpress,70.0,"3- B,S,C",4.0
+1416,2122,Ashanti,Letterpress,70.0,"3- B,S,C",3.75
+1417,2338,"Bachelor's Hall, batch 0001",Letterpress,70.0,"3- B,S,C",3.25
+1418,2442,"Tranquilidad, beniano",Letterpress,70.0,"3- B,S,C",3.25
+1419,2562,"Satocao, limited ed., batch 2",Letterpress,70.0,"3- B,S,C",3.5
+1420,2562,"Maui Kuia E., Hawaii, 2018-2019 h., batch 1",Letterpress,70.0,"3- B,S,C",3.75
+1421,1231,Sambirano,Levy,71.0,"3- B,S,C",3.5
+1422,1856,Madagascar,Lilla,70.0,"2- B,S",3.0
+1423,855,Perfect Illusion,Lillie Belle,65.0,"2- B,S",3.5
+1424,903,"Bolivia, Wild Thing",Lillie Belle,68.0,"2- B,S",3.5
+1425,903,La Selva,Lillie Belle,68.0,"2- B,S",3.75
+1426,947,"Purple Haze, Venezuela, Dom. Rep.",Lillie Belle,75.0,"2- B,S",2.75
+1427,947,"The Other One, Grand Cru",Lillie Belle,74.0,"2- B,S",3.0
+1428,947,Wild Thing,Lillie Belle,68.0,"2- B,S",3.5
+1429,157,Excellence (US Version),Lindt & Sprungli,85.0,"4- B,S,C,V",3.0
+1430,2538,"Gola Rainforest, batch 920",Lirio,72.0,"2- B,S",2.5
+1431,2538,"Anamalai, batch 970",Lirio,72.0,"2- B,S",3.0
+1432,2538,"Tien Giang, batch 970",Lirio,72.0,"2- B,S",3.0
+1433,1049,Puerto Rico,Loiza,65.0,"5- B,S,C,V,L",2.5
+1434,1093,"O'ahu Island, Opaeula Estate, Nene, CG Exclusive",Lonohana,71.0,"4- B,S,C,V",3.0
+1435,1097,"O'ahu Island, Opaeula Estate, Ele'ele",Lonohana,72.0,"4- B,S,C,V",3.0
+1436,1097,"Hawai'i Island, Hawaiian Crown, Kona Vanilla",Lonohana,70.0,"4- B,S,C,V",3.5
+1437,1383,"O'ahu Island, Haleiwa, Lonohana E., Kanahiku",Lonohana,70.0,"2- B,S",3.75
+1438,1395,"O'ahu Island, Haleiwa E, 2014",Lonohana,65.0,"4- B,S,C,V",3.25
+1439,1395,"O'ahu Island, Haleiwa E, 2014",Lonohana,75.0,"4- B,S,C,V",3.75
+1440,2586,Maya Mountain,Loon,75.0,"3- B,S,C",3.0
+1441,2590,Alto Beni,Loon,70.0,"3- B,S,C",2.75
+1442,1502,Nicaragua,Love Bar,75.0,"2- B,S",2.0
+1443,2194,Medalla,Love Brown,75.0,"2- B,S",2.5
+1444,2194,Sumatra,Love Brown,70.0,"2- B,S",3.0
+1445,2198,O'Payo,Love Brown,80.0,"2- B,S",3.25
+1446,2198,Chuno,Love Brown,78.0,"2- B,S",3.5
+1447,1976,"Rio Purus, 2016 Harvest",Luisa Abram,81.0,"2- B,S",3.25
+1448,2238,"Rio Acara, Wild Amazon",Luisa Abram,70.0,"2- B,S",3.0
+1449,2692,Wild Jurua (limited edition for Caputo's),Luisa Abram,70.0,"3- B,S,C",3.25
+1450,2518,Karkar Island,Luisa's Vegan,72.0,"3- B,S,C",3.25
+1451,552,"Selva, Colombia, Ecuador",Luker,46.0,"5- B,S,C,V,L",2.75
+1452,552,"Macondo, Colombia, Ecuador",Luker,60.0,"5- B,S,C,V,L",3.0
+1453,552,"Misterio, Colombia, Ecuador",Luker,58.0,"5- B,S,C,V,L",3.0
+1454,552,Santander,Luker,65.0,"5- B,S,C,V,L",3.5
+1455,2502,"Bejofo E., Sambirano, batch 115",Lumineux,73.0,"3- B,S,C",3.25
+1456,2502,"Kilombero Valley, batch 74",Lumineux,75.0,"3- B,S,C",3.25
+1457,2506,"Kerala State, GoGround, batch 88",Lumineux,72.0,"3- B,S,C",3.0
+1458,2506,"Semuliki Forest, Latitude Trading Co, batch 100",Lumineux,68.0,"3- B,S,C",3.25
+1459,2506,"Cote d'Ivoire, batch 83",Lumineux,67.0,"3- B,S,C",3.5
+1460,552,Peru,Machu Picchu Trading Co.,55.0,"3- B,S,C",2.25
+1461,721,Peru,Machu Picchu Trading Co.,70.0,"3- B,S,C",1.5
+1462,2426,Uganda,MaDe Atlantic City Chocolate Bar,75.0,"3- B,S,C",2.5
+1463,2430,Ghana,MaDe Atlantic City Chocolate Bar,75.0,"3- B,S,C",2.75
+1464,284,Madagascar,Madecasse (Cinagra),67.0,"5- B,S,C,V,L",3.5
+1465,284,Madagascar,Madecasse (Cinagra),70.0,"5- B,S,C,V,L",3.75
+1466,284,Madagascar,Madecasse (Cinagra),63.0,"5- B,S,C,V,L",4.0
+1467,288,Madagascar,Madecasse (Cinagra),75.0,"5- B,S,C,V,L",3.5
+1468,2664,Tumaco,Madhu,70.0,"2- B,S",2.5
+1469,607,"Chiapas, Triple Cacao",Madre,72.0,"4- B,S,C,V",2.75
+1470,672,Dominican,Madre,70.0,"4- B,S,C,V",2.5
+1471,693,Upala,Madre,70.0,"4- B,S,C,V",2.75
+1472,991,"Hawai'i Island, Hamakua Coast, Kokoleka",Madre,70.0,"4- B,S,C,V",3.25
+1473,995,"Criollo, Hawaii",Madre,70.0,"4- B,S,C,V",3.25
+1474,995,Kaua'i Island,Madre,70.0,"4- B,S,C,V",3.5
+1475,1085,Puerto Rico,Madre,70.0,"4- B,S,C,V",2.75
+1476,1085,Brazil,Madre,70.0,"4- B,S,C,V",3.5
+1477,1089,"Hawai'i Island, Choobua, Kona",Madre,70.0,"4- B,S,C,V",2.75
+1478,1089,"Xocunusco, Chiapas, Pichucalco",Madre,70.0,"4- B,S,C,V",2.75
+1479,1940,Guadalcanal,Madre,73.0,"2- B,S",3.5
+1480,300,Africa,Maglio,75.0,"4- B,S,C,V",2.0
+1481,308,Ecuador,Maglio,70.0,"4- B,S,V,L",3.0
+1482,308,Cuba,Maglio,70.0,"5- B,S,C,V,L",3.25
+1483,308,Santo Domingo,Maglio,70.0,"5- B,S,C,V,L",3.75
+1484,531,Ecuador,Majani,70.0,"4- B,S,C,L",2.0
+1485,184,Sambirano 2006,Malagasy (Chocolaterie Robert),75.0,"4- B,S,C,L",2.75
+1486,184,Mora Mora 2006,Malagasy (Chocolaterie Robert),73.0,"4- B,S,C,L",3.5
+1487,1121,"Davao, Mt. Talamo foothills",Malagos,65.0,"5- B,S,C,V,L",3.5
+1488,2226,Chantaburi,Malai,70.0,"3- B,S*,C",2.75
+1489,311,"O'ahu Island, N. Shore, Waialua Estate",Malie Kai (Guittard),55.0,"5- B,S,C,V,L",2.75
+1490,502,"O'ahu Island, N. Shore, Waialua Estate w/ nibs",Malie Kai (Guittard),55.0,"5- B,S,C,V,L",3.5
+1491,1856,Chuao,Malmo,70.0,"3- B,S,C",3.0
+1492,821,Conacado,Mana,74.0,"3- B,S,C",3.75
+1493,1219,Peru,Mana,74.0,"3- B,S,C",2.5
+1494,1219,Venezuela,Mana,74.0,"3- B,S,C",2.75
+1495,1446,"Ecuador, batch 1212",Mana,74.0,"2- B,S",2.5
+1496,1331,Colombia,Manifesto Cacao,70.0,"4- B,S,C,L",2.75
+1497,1003,"Liberia, batch 174",Manoa,72.0,"3- B,S,C",3.25
+1498,1007,"Hawai'i Island, Hamakua, Hawaiian Crown, b. 176",Manoa,72.0,"3- B,S,C",2.75
+1499,1007,"Piura, batch 173",Manoa,72.0,"3- B,S,C",3.0
+1500,1007,"O'ahu Island, Winward,Maunawili district, b. 151",Manoa,72.0,"3- B,S,C",3.25
+1501,1089,"O'ahu Island, Waiahole, b. 182",Manoa,72.0,"3- B,S,C",3.75
+1502,1522,Markham Valley,Manoa,72.0,"3- B,S,C",3.5
+1503,1522,Coto Brus,Manoa,72.0,"3- B,S,C",3.75
+1504,2032,Ucayali,Manoa,70.0,"3- B,S,C",3.25
+1505,2442,"Hawai'i Island, Hilo and Kona regions",Manoa,70.0,"3- B,S,C",3.5
+1506,871,Grand Cru Dominican Republic,Manufaktura Czekolady,70.0,"2- B,S",3.25
+1507,871,Grand Cru Ghana,Manufaktura Czekolady,70.0,"2- B,S",3.5
+1508,875,Grand Cru Ecuador,Manufaktura Czekolady,70.0,"2- B,S",3.25
+1509,1255,Porcelana,Manufaktura Czekolady,70.0,"2- B,S",3.75
+1510,1279,Kolumbia,Manufaktura Czekolady,85.0,"2- B,S",3.5
+1511,1844,Johe,Manufaktura Czekolady,70.0,"3- B,S,C",3.75
+1512,1848,Peru,Manufaktura Czekolady,70.0,"3- B,S,C",3.5
+1513,1474,"ROIG, 2014",Map Chocolate,70.0,"3- B,S,C",3.5
+1514,1474,"Maranon, 2014",Map Chocolate,62.0,"3- B,S,C",3.5
+1515,1478,Ecuador,Map Chocolate,70.0,"3- B,S,C",3.5
+1516,1606,"San Juan Estate, Cherry Blossoms at Night",Map Chocolate,70.0,"3- B,S,C",2.75
+1517,1606,"A case of the Xerces Blues, triple roast",Map Chocolate,70.0,"3- B,S,C",3.5
+1518,1606,"Tumbes, Dear Mr. Finley, 2014",Map Chocolate,68.0,"3- B,S,C",3.5
+1519,1610,Colombia,Map Chocolate,75.0,"3- B,S,C",2.75
+1520,1610,"Kakoa Kamili, Both Man & Bird & Beast",Map Chocolate,72.0,"3- B,S,C",3.0
+1521,1634,Le Chocolat Chaud,Map Chocolate,78.0,"3- B,S,C",3.5
+1522,1896,"Ben Tre, Surprise Valley",Map Chocolate,75.0,"3- B,S,C",3.25
+1523,1956,"Lam Dong, ""Red Poppy""",Map Chocolate,73.0,"2- B,S",3.0
+1524,2040,Zorzal Reserve,Map Chocolate,72.0,"3- B,S,C",3.5
+1525,2262,Peace of Wild Things,Map Chocolate,72.0,"3- B,S,C",3.0
+1526,2262,"Tabasco, ""Late for the Train"", batch 12184",Map Chocolate,72.0,"3- B,S,C",3.25
+1527,1884,Cusco,Marana,70.0,"3- B,S,C",2.75
+1528,2610,"San Martin, Allima coop",Marana,80.0,"3- B,S,C",3.25
+1529,2610,"Piura, Norandino coop, cacao blanco",Marana,70.0,"3- B,S,C",3.5
+1530,2598,Tabasco,Maribea,72.0,"3- B,S,C",2.75
+1531,2598,"Alto Beni, Walikewa",Maribea,72.0,"3- B,S,C",2.75
+1532,2598,"Bahia, Catongo",Maribea,72.0,"3- B,S,C",3.25
+1533,1808,Cacao Nib Crunch,Marigold's Finest,75.0,"2- B,S",3.25
+1534,2158,"Pisa, batch 58",Markham & Fitz,75.0,"2- B,S",2.75
+1535,845,Ba Ria,Marou,76.0,"3- B,S,C",3.5
+1536,845,Dong Nai,Marou,72.0,"3- B,S,C",3.5
+1537,845,"Tien Giang, Gao Co-op",Marou,70.0,"3- B,S,C",3.5
+1538,849,Ben Tre,Marou,78.0,"3- B,S,C",3.5
+1539,895,Tien Giang,Marou,80.0,"3- B,S,C",3.0
+1540,955,Lam Dong,Marou,74.0,"3- B,S,C",3.5
+1541,1149,"Tan Phu Dong, Treasure Island",Marou,75.0,"3- B,S,C",3.5
+1542,1650,"Tan Phu Dong Island, Heart of Darkness",Marou,85.0,"2- B,S",3.25
+1543,1650,Ben Tre,Marou,68.0,"2- B,S",3.5
+1544,1650,"Dak Lak, Batch 2451",Marou,70.0,"2- B,S",3.75
+1545,2258,"Dak Nong, Tam Farm",Marou,75.0,"3- B,S,C",3.5
+1546,537,"Matina 1-6, prototype",Mars,65.0,"3- B,S,C",3.0
+1547,544,"Ivory Coast, prototype",Mars,65.0,"3- B,S,C",3.0
+1548,544,"Nigeria, prototype",Mars,65.0,"3- B,S,C",3.25
+1549,544,"Ghana, prototype",Mars,65.0,"3- B,S,C",3.5
+1550,1189,Dominican Republic,Marsatta,74.0,"4- B,S,C,V",2.25
+1551,1189,Dominican Republic,Marsatta,89.0,"4- B,S,C,V",2.5
+1552,1836,Alto Beni,Martin Mayer,76.0,"3- B,S,C",2.75
+1553,1836,Pisa,Martin Mayer,82.0,"3- B,S,C",3.0
+1554,1836,Tumaco,Martin Mayer,74.0,"3- B,S,C",3.25
+1555,572,Patanemo,Mast Brothers,81.0,"2- B,S",2.75
+1556,572,Ocumare de la Costa,Mast Brothers,75.0,"2- B,S",3.0
+1557,572,"Dominican Republic, Coop",Mast Brothers,70.0,"2- B,S",3.25
+1558,672,Brooklyn Blend,Mast Brothers,72.0,"2- B,S",3.5
+1559,701,"Chuao, Med. Roast",Mast Brothers,76.0,"2- B,S",3.0
+1560,709,"Chuao, Dark Roast",Mast Brothers,70.0,"2- B,S",3.0
+1561,713,"Chuao, Light Roast",Mast Brothers,81.0,"2- B,S",2.75
+1562,773,Moho River,Mast Brothers,70.0,"2- B,S",3.5
+1563,777,Papua New Guinea,Mast Brothers,71.0,"2- B,S",2.75
+1564,777,San Martin,Mast Brothers,75.0,"2- B,S",3.0
+1565,777,Conacado,Mast Brothers,73.0,"2- B,S",3.25
+1566,777,"La Red de Guanconejo, N. Highlands coop",Mast Brothers,74.0,"2- B,S",3.75
+1567,959,"Shake Shack, Peru, Mad., Dom. Rep.",Mast Brothers,73.0,"2- B,S",3.5
+1568,999,Madagascar,Mast Brothers,72.0,"2- B,S",2.5
+1569,999,Chuao,Mast Brothers,73.0,"2- B,S",2.75
+1570,1359,"French Laundry 20th Anniversary, Peru, Belize",Mast Brothers,75.0,"2- B,S",3.75
+1571,1450,Guatemala,Mast Brothers,76.0,"2- B,S",3.0
+1572,1450,Tanzania,Mast Brothers,74.0,"2- B,S",3.25
+1573,1177,"Malekula P., 2013",Matale,72.0,"3- B,S,C",3.5
+1574,1177,"Somia, 2013",Matale,68.0,"3- B,S,C",4.0
+1575,1177,"Kulili P., 2013",Matale,74.0,"3- B,S,C",4.0
+1576,1181,"PNG, Vanuatu, Mad; 2013 h.",Matale,70.0,"3- B,S,C",3.75
+1577,2704,"Kuia Estate, Hawaii, lot 083122",Maui Kuia,70.0,"3- B,S,C",3.5
+1578,1367,Maya Mountain,Maverick,70.0,"2- B,S",3.25
+1579,1367,Elvesia,Maverick,70.0,"2- B,S",3.25
+1580,1430,Tumbes,Maverick,82.0,"2- B,S",3.25
+1581,1430,"Morropon, Norandiono Coop, Piura",Maverick,63.0,"3- B,S,C",3.5
+1582,2482,"Hawai'i Island, Big Island, Mauna Kea",Maverick,70.0,"3- B,S,C",3.0
+1583,2482,"Akesson P., Sambirano",Maverick,65.0,"3- B,S,C",3.25
+1584,2486,"Dak Nong, Marou Cacao",Maverick,75.0,"3- B,S,C",3.0
+1585,1728,Hispaniola,Mayacama,72.0,"2- B,S",3.0
+1586,2474,"Cahabon E., ""Adioesmac""",McGuire,70.0,"3- B,S,C",2.5
+1587,2478,"Maya Mountain, Toledo",McGuire,70.0,"3- B,S,C",3.25
+1588,1287,Bolivia,Meadowlands,70.0,"2- B,S",2.5
+1589,1287,Venezuela,Meadowlands,70.0,"2- B,S",2.75
+1590,1287,Belize,Meadowlands,70.0,"2- B,S",3.0
+1591,1291,"Nicaragua, w/ inbs",Meadowlands,70.0,"2- B,S",3.0
+1592,1291,Dominican Republic,Meadowlands,70.0,"2- B,S",3.5
+1593,2362,"Camino Verde, Duran Region",Mellow,85.0,"2- B,S*",2.5
+1594,2362,"Oko Caribe, El Cibao, 2018 Harvest",Mellow,70.0,"2- B,S*",2.75
+1595,2362,"Kablon Farms, Mindanao Island, 2018 harvest",Mellow,70.0,"2- B,S*",3.25
+1596,2362,"Kokoa Kamili, 2018 harvest, Mbingu Village",Mellow,70.0,"2- B,S*",3.25
+1597,837,Madagascar,Menakao (aka Cinagra),80.0,"4- B,S,C,L",2.5
+1598,841,Madagascar,Menakao (aka Cinagra),72.0,"4- B,S,C,L",2.5
+1599,2732,"Honduras, batch 744",Mesjokke,72.0,"4- B,S,C,L",2.5
+1600,1347,Honduras,Mesocacao,80.0,"3- B,S,C",3.25
+1601,1347,Honduras,Mesocacao,70.0,"3- B,S,C",3.5
+1602,1351,"La Tronca, Matagalpa",Mesocacao,70.0,"3- B,S,C",3.25
+1603,1351,"La Tronca, Matagalpa",Mesocacao,80.0,"3- B,S,C",3.5
+1604,1494,El Salvador,Mesocacao,80.0,"3- B,S,C",2.75
+1605,1494,El Salvador,Mesocacao,70.0,"3- B,S,C",3.0
+1606,2250,"Fazenda Bonanca, Bahia",Mestico,75.0,"3- B,S,C",2.5
+1607,1267,"Fazenda Sempre Firme P., Bahia, batch 7",Metiisto,70.0,"3- B,S,C",3.0
+1608,1267,"Akesson Estate, batch 10",Metiisto,72.0,"3- B,S,C",3.5
+1609,2166,"Patovaki, Paspaskato Is",Metiisto,72.0,"3- B,S,C",3.25
+1610,2170,Tenaru,Metiisto,67.0,"3- B,S,C",3.75
+1611,1688,South America,Metropolitan,70.0,"3- B,S,V",3.5
+1612,2210,Piura Blanco,Meybol,70.0,"3- B,S,C",3.5
+1613,2716,"Cusco No. 3, Chuncho Collection",Meybol,72.0,"3- B,S,C",3.0
+1614,24,Carre Amer,Michel Cluizel,60.0,"4- B,S,C,V",2.0
+1615,24,Carre Grand Noir,Michel Cluizel,85.0,"4- B,S,C,V",2.0
+1616,24,Tamarina,Michel Cluizel,70.0,"4- B,S,C,V",3.0
+1617,24,Los Ancones P.,Michel Cluizel,67.0,"4- B,S,C,V",3.75
+1618,24,Mangaro P.,Michel Cluizel,65.0,"4- B,S,C,V",3.75
+1619,24,Maralumi P.,Michel Cluizel,64.0,"4- B,S,C,V",3.75
+1620,81,Noir Infini,Michel Cluizel,99.0,"4- B,S,C,V",2.0
+1621,117,"Carenero Superior, Concepcion",Michel Cluizel,66.0,"4- B,S,C,V",3.5
+1622,135,Vila Gracinda,Michel Cluizel,67.0,"4- B,S,C,V",3.5
+1623,963,"Chiapas, Mokaya P.",Michel Cluizel,66.0,"4- B,S,C,V",3.75
+1624,2020,El Jardin,Michel Cluizel,69.0,"4- B,S,C,V",3.25
+1625,2270,Riachuelo Plantation,Michel Cluizel,70.0,"4- B,S,C,V",3.0
+1626,2438,La Laguna Plantation,Michel Cluizel,70.0,"4- B,S,C,V",3.5
+1627,887,Houseblend,Middlebury,65.0,"4- B,S*,C,Sa",1.5
+1628,887,Alto Beni,Middlebury,75.0,"4- B,S*,C,Sa",2.0
+1629,887,"Balinese, Java",Middlebury,70.0,"4- B,S*,C,Sa",2.5
+1630,1117,La Red,Middlebury,75.0,"3- B,S*,Sa",2.5
+1631,1117,Belize,Middlebury,80.0,"4- B,S,C,Sa",3.25
+1632,1490,Maya Mountain,Middlebury,80.0,"3- B,S,C",3.5
+1633,1490,San Juan Estate,Middlebury,70.0,"3- B,S,C",3.5
+1634,1490,Oko Caribe,Middlebury,75.0,"3- B,S,C",3.75
+1635,1490,"Patanemo, Epoch, Donaldo",Middlebury,75.0,"3- B,S,C",3.75
+1636,1538,Kokoa Kamili,Middlebury,75.0,"3- B,S,C",3.25
+1637,1538,"Matagalpa, Cacao Bisiesto",Middlebury,70.0,"3- B,S,C",3.5
+1638,2112,"Oko Caribe, hispaniola, 2017 harvest",Mike & Becky,70.0,"3- B,S,C",3.0
+1639,2112,Idukki,Mike & Becky,70.0,"3- B,S,C",3.25
+1640,2112,"San Jose, Toledo, 2017 harvest",Mike & Becky,70.0,"3- B,S,C",3.5
+1641,2114,"Maranon, 2017 harvest",Mike & Becky,70.0,"3- B,S,C",3.25
+1642,825,Ecuador,Millcreek Cacao Roasters,70.0,"4- B,S,C,V",3.5
+1643,1073,Ecuador,Millcreek Cacao Roasters,70.0,"4- B,S,C,V",2.5
+1644,2346,"Los Rios, Arriba, 2017 Harvest",Millesime,70.0,"3- B,S,C",3.0
+1645,2346,"Kaithapara Village, Idukki, Kerala, 2017 H.",Millesime,74.0,"3- B,S,C",3.0
+1646,2346,"Fazenda Leolinad, Bahia, 2017 H.",Millesime,76.0,"3- B,S,C",3.0
+1647,2566,Bocas del Toro,Millesime,75.0,"3- B,S,C",2.75
+1648,2570,Kaithapara,Millesime,74.0,"3- B,S,C",3.0
+1649,2570,Kilombero Valley,Millesime,90.0,"3- B,S,C",3.0
+1650,2210,Ambanja,Milton,70.0,"2- B,S",3.5
+1651,2214,Bahia,Milton,70.0,"2- B,S",3.0
+1652,2214,Ben Tre,Milton,70.0,"2- B,S",3.25
+1653,2214,"Piura Gran Blanco, Sisyu & Kiriyana Phoenix",Milton,70.0,"2- B,S",3.75
+1654,607,Ecuador,Mindo,77.0,"3- B,S,C",2.75
+1655,2382,"Ecuador, lot# 181220",Mindo,67.0,"3- B,S,C",2.75
+1656,1920,"Acul-du-Nord, 2015",Minimal,70.0,"2- B,S",3.5
+1657,1960,Papua New Guinea,Mirzam,72.0,"2- B,S",3.0
+1658,1960,Madagascar,Mirzam,72.0,"2- B,S",3.25
+1659,1960,India,Mirzam,65.0,"3- B,S,C",3.5
+1660,1960,Vietnam,Mirzam,65.0,"2- B,S",3.5
+1661,2370,Kokoa Kamili,Mirzam,72.0,"3- B,S,C",3.75
+1662,2458,Vietnam,Misina,70.0,"3- B,S,C",3.5
+1663,1626,"Bahia, Fazenda Venturosa",Mission,70.0,"2- B,S",3.5
+1664,1880,"Fazenda Camboa, Bahia",Mission,75.0,"2- B,S",3.75
+1665,2354,"Puerto Rico, 2018 harvest",Mission,70.0,"3- B,S,C",3.0
+1666,955,Tumaco,Mita,65.0,"3- B,S,C",2.5
+1667,607,"Umoho R., Toledo District, San Felipe",Moho,67.0,"3- B,S,C",2.75
+1668,1026,"Toledo District, w/ nibs",Moho,73.0,"3- B,S,C",3.25
+1669,1030,Toledo District,Moho,72.0,"3- B,S,C",3.0
+1670,2170,"Kombone Village, 2018 Harvest",Moka Origins,68.0,"2- B,S",3.0
+1671,2198,Brazil,Moka Origins,72.0,"3- B,S,C",2.5
+1672,2338,Zorzal Estate,Moka Origins,70.0,"2- B,S",3.5
+1673,2350,Gola Rainforest,Moka Origins,72.0,"3- B,S,C",3.0
+1674,2450,Kokoa Kamili,Moka Origins,72.0,"2- B,S",3.75
+1675,2648,"Bejofo, batch 7",Moku,70.0,"3- B,S,C",2.75
+1676,2652,"Zorzal, batch 8",Moku,70.0,"3- B,S,C",3.25
+1677,1614,La Red,Molucca,70.0,"2- B,S",3.0
+1678,1618,Indonesia,Molucca,70.0,"2- B,S",2.75
+1679,1618,Peru,Molucca,70.0,"2- B,S",3.25
+1680,661,Matagalpa,Momotombo,70.0,"2- B,S",2.75
+1681,661,Mombacho,Momotombo,70.0,"2- B,S",2.75
+1682,2142,Nueva Waslala,Momotombo,70.0,"3- B,S,C",3.25
+1683,1812,Oko Caribe,Monarque,72.0,"2- B,S",3.5
+1684,2680,"Kablon, lot 07 (made for Etat de Choc)",Monarque,76.0,"3- B,S,C",3.5
+1685,1391,Papaua New Guinea,Monsieur Truffe,70.0,"3- B,S,C",3.25
+1686,2222,Chiapas,Monsoon,70.0,"3- B,S,C",3.25
+1687,2542,"Esmeraldas, batch 9",Monsoon,75.0,"2- B,S",3.75
+1688,2656,"Ucayali, batch 9",Monsoon,72.0,"3- B,S,C",3.5
+1689,1654,Manabi,Montecristi,70.0,"3- B,S,C",3.25
+1690,1654,Manabi,Montecristi,63.0,"3- B,S,C",3.5
+1691,1658,Manabi,Montecristi,85.0,"3- B,S,C",3.5
+1692,2490,"Finca La Rioja E., Cacahoatan, Chiapas",MUCHO,70.0,"3- B,S,C",3.0
+1693,1462,Nicaragua,Muchomas (Mesocacao),70.0,"3- B,S,C",3.5
+1694,1462,Nicaragua,Muchomas (Mesocacao),80.0,"3- B,S,C",3.5
+1695,2190,Chuao,Musee du Chocolat Theobroma,70.0,"2- B,S",3.5
+1696,1896,"Oko Caribe, batch 1 SRB",Mutari,71.0,"2- B,S",2.75
+1697,1896,"Kokoa Kamili, batch 1 SRB",Mutari,68.0,"2- B,S",2.75
+1698,1900,"Ambanja, batch 1 SRB",Mutari,68.0,"2- B,S",2.75
+1699,1900,"Tien Giang, batch 1 SRB",Mutari,80.0,"2- B,S",3.0
+1700,1049,"Costa Rica, Oscuro",Nahua,58.0,"3- B,S,C",2.5
+1701,1049,"Costa Rica, Oscuro",Nahua,70.0,"3- B,S,C",3.0
+1702,867,Grenada,Naive,71.0,"4- B,S,C,V",2.5
+1703,1046,Trinidad & Tobago,Naive,70.0,"4- B,S,C,L",3.75
+1704,1133,"Maranon Canyon, Fortunato No. 4",Naive,78.0,"4- B,S,C,L",3.75
+1705,1379,Nicaragua,Naive,70.0,"4- B,S,C,L",3.25
+1706,1399,"Chuao, lot 0077",Naive,75.0,"4- B,S,C,L",2.75
+1707,1399,"Barinas, lot 0077",Naive,70.0,"4- B,S,C,L",3.0
+1708,2418,"Finca Concepcion, nano-lot",Naive,70.0,"3- B,S,C",3.25
+1709,2458,"Rugoso, nanolot for Cacao Review",Naive,67.0,"3- B,S,C",2.75
+1710,1007,Criollo Blend,Nanea,85.0,"3- B,S,C",3.5
+1711,1403,Peru,Nathan Miller,72.0,"2- B,S",2.25
+1712,1403,Hispaniola,Nathan Miller,70.0,"2- B,S*",2.5
+1713,1403,Madagascar,Nathan Miller,73.5,"2- B,S",2.5
+1714,1403,Ghana,Nathan Miller,70.0,"3- B,S,C",3.5
+1715,2060,"Hispaniola, batch 170308",Nearynogs,70.0,"2- B,S",3.25
+1716,15,West Africa,Neuhaus (Callebaut),73.0,"5- B,S,C,V,L",2.0
+1717,15,Sao Tome,Neuhaus (Callebaut),75.0,"5- B,S,C,V,L",2.75
+1718,24,Ocumare,Neuhaus (Callebaut),71.0,"5- B,S,C,V,L",3.0
+1719,135,Dark,Neuhaus (Callebaut),73.0,"5- B,S,C,V,L",1.0
+1720,230,Manickchand Estate,Neuhaus (Callebaut),67.0,"5- B,S,C,V,L",3.75
+1721,531,Papua New Guinea,Neuhaus (Callebaut),70.0,"5- B,S,C,V,L",2.5
+1722,1526,Patanemo,Nibble,72.0,"2- B,S",2.25
+1723,1526,Elvesia P.,Nibble,72.0,"2- B,S",2.75
+1724,1526,"Ambanja, Sambirano Valley",Nibble,72.0,"2- B,S",3.0
+1725,1526,Tumbes,Nibble,72.0,"2- B,S",3.0
+1726,2134,Bahia,Nibble,72.0,"2- B,S",3.0
+1727,2732,"Linhares, lot 0321, 2021 harvest",Nicolas,71.0,"3- B,S,C",3.25
+1728,2732,Terruc Tuere,Nicolas,72.0,"3- B,S,C",3.0
+1729,1022,Peru,Night Owl,75.0,"3- B,S,C",2.75
+1730,1022,Ecuador,Night Owl,75.0,"3- B,S,C",3.5
+1731,2398,"Los Rios, Dec. 2018 H., Batch 2",Nikoa,72.0,"3- B,S,C",3.75
+1732,2142,Chazuta,Nina,70.0,"3- B,S,C",3.0
+1733,2158,"Kokoa Kamili, Kilobmbero batch TK186",Ninth (9th) & Larkin,72.0,"3- B,S,C",3.0
+1734,2162,"Ben Tre, batch VNBT186",Ninth (9th) & Larkin,72.0,"3- B,S,C",2.75
+1735,2174,Oko Caribe,Ninth (9th) & Larkin,72.0,"3- B,S,C",3.0
+1736,2282,"Matasawalevu, batch FJMA1",Ninth (9th) & Larkin,74.0,"3- B,S,C",2.75
+1737,2394,"Sierra Nevada, batch CSN192",Ninth (9th) & Larkin,72.0,"3- B,S,C",3.25
+1738,1295,Ghana,Noble Bean aka Jerjobo,75.0,"4- B,S*,V,L",3.0
+1739,1299,Moho Valley,Noble Bean aka Jerjobo,75.0,"4- B,S*,V,L",3.0
+1740,1299,Maranon Canyon,Noble Bean aka Jerjobo,75.0,"4- B,S*,V,L",3.25
+1741,837,Venezuela,Noir d' Ebine,70.0,"3- B,S,C",3.0
+1742,841,Ecuador,Noir d' Ebine,70.0,"3- B,S,C",3.0
+1743,2736,Zorzal Republic,Nostalgia,70.0,"2- B,S",3.5
+1744,2756,Bejofo,Nostalgia,70.0,"2- B,S",3.25
+1745,2760,Anamalai,Nostalgia,70.0,"2- B,S",3.75
+1746,2760,Tabasco,Nostalgia,67.0,"2- B,S",3.0
+1747,2760,Ucayali,Nostalgia,70.0,"2- B,S",3.0
+1748,2760,Kokoa Kamili,Nostalgia,70.0,"2- B,S",3.5
+1749,931,"La Patriota, cacao Indio, purple label",Nova Monda,70.0,"2- B,S",3.0
+1750,935,"La Dalia, Matagalpa,cacao Bisesto,green label",Nova Monda,75.0,"2- B,S",2.75
+1751,935,"Punta Galera, cacao Nacional, gold label",Nova Monda,80.0,"2- B,S",3.25
+1752,1454,"Ghana, 2013, batch 3581",Nuance,70.0,"2- B,S",3.75
+1753,1458,"Ecuador, 2013",Nuance,70.0,"2- B,S",2.75
+1754,1458,"Canoabo, 2013, batch 2642",Nuance,70.0,"2- B,S",3.0
+1755,1458,"Sambirano Valley, 2012, batch 3062",Nuance,70.0,"2- B,S",3.5
+1756,1470,La Red,Nuance,70.0,"2- B,S",3.75
+1757,2486,"Akwa Ibom, 2017 h., batch 19762",Nuance,70.0,"3- B,S,C",3.0
+1758,2486,"Lam Dong, 2016 h., batch 20111",Nuance,70.0,"3- B,S,C",3.25
+1759,1876,Fazenda Leolinda,Nugali,70.0,"3- B,S,C",3.5
+1760,478,Jamaica,Oakland Chocolate Co.,70.0,"5- B,S,C,V,L",2.5
+1761,1638,"Pangoa, w/ nibs",Obolo,70.0,"2- B,S",3.75
+1762,2386,"Pangoa, 2018, batch 1584 - E",Obolo,70.0,"2- B,S",3.75
+1763,1558,Virunga,Ocelot,70.0,"3- B,S,C",3.75
+1764,1558,Piura,Ocelot,75.0,"3- B,S,C",4.0
+1765,1411,"PNG, Devotion, batch 96, gogol naru",Ocho,66.0,"2- B,S",2.75
+1766,1411,"PNG, Revolution, WAG1",Ocho,70.0,"2- B,S",3.0
+1767,1411,"PNG, Voodoo, batch 95",Ocho,88.0,"2- B,S",3.25
+1768,1411,"PNG, Nib Bar, WAG1",Ocho,74.0,"2- B,S",3.5
+1769,1760,Sang Yum Coop,Ocho,100.0,1- B,2.75
+1770,1760,Sang Yum Coop,Ocho,70.0,"2- B,S",3.5
+1771,2490,Cahabon,Odyssey,70.0,"2- B,S",3.0
+1772,2494,Kokoa Kamili,Odyssey,70.0,"2- B,S",3.0
+1773,2494,Bundibugyo,Odyssey,70.0,"2- B,S",3.25
+1774,2494,Idukki Hills,Odyssey,70.0,"2- B,S",3.25
+1775,2494,"Tranquilidad, Wild",Odyssey,70.0,"2- B,S",3.75
+1776,2498,Arhuaca,Odyssey,70.0,"2- B,S",3.25
+1777,2498,Ben Tre,Odyssey,70.0,"2- B,S",3.75
+1778,2566,Pisa,Odyssey,70.0,"2- B,S",3.75
+1779,2582,"Elegant Asian Blend"", Vietnam, India",Odyssey,100.0,1- B,3.0
+1780,2582,Hawaii Kona,Odyssey,70.0,"2- B,S",3.25
+1781,2696,Ucayali,Odyssey,70.0,"2- B,S",3.25
+1782,2704,Chuao,Odyssey,80.0,"2- B,S",3.0
+1783,2704,Chuao,Odyssey,70.0,"2- B,S",3.5
+1784,1594,"San Juan Estate, Gran Couva",Ohiyo,70.0,"3- B,S,C",2.75
+1785,1598,Tanzania,Ohiyo,70.0,"3- B,S,C",3.0
+1786,761,"Sylvestre, Oialla",Oialla by Bojessen (Malmo),70.0,"2- B,S",3.5
+1787,2142,Beniano,Oialla by Bojessen (Malmo),78.0,"3- B,S,C",3.75
+1788,457,"Dark 67, Ghana, Domin. Rep",Olive and Sinclair,67.0,"3- B,S,C",2.75
+1789,457,"Dark 75, Ghana, Domin. Rep",Olive and Sinclair,75.0,"3- B,S,C",3.0
+1790,486,Dominican Republic prototype,Olive and Sinclair,72.0,"3- B,S,C",3.0
+1791,486,Ghana prototype,Olive and Sinclair,72.0,"3- B,S,C",3.0
+1792,688,Carribean-Raw,Olivia,76.0,"5- B,S,C,V,L",2.0
+1793,688,Carribean,Olivia,76.0,"5- B,S,C,V,L",2.75
+1794,688,Carribean,Olivia,85.0,"5- B,S,C,V,L",2.75
+1795,688,Carribean-Raw,Olivia,85.0,"5- B,S,C,V,L",3.0
+1796,693,Ghana,Omanhene,80.0,"4- B,S,C,L",2.75
+1797,1247,Papua New Guinea,Omnom,70.0,"3- B,S,C",3.0
+1798,1247,Madagascar,Omnom,66.0,"3- B,S,C",3.5
+1799,1816,"Kakao Kamili, Kilombero Valley",Omnom,70.0,"3- B,S,C",3.75
+1800,2036,Nicaragua,Omnom,73.0,"3- B,S,C",3.0
+1801,2514,"Sambirano, Northern Ambanja, 2018 Harvest",Or Dubh,70.0,"2- B,S",3.25
+1802,2518,"Ben Tre, Mekond Delta, 2018 H.",Or Dubh,70.0,"2- B,S",3.25
+1803,2518,"Kokoa Kamili, Kilombero Valley, 2018 H.",Or Dubh,70.0,"2- B,S",3.5
+1804,2676,"San Ignacio, 2020 Harvest, Cajamarca, b. 6/10-1",Orfeve,70.0,"3- B,S,C",3.25
+1805,2676,"Bejofo Estate, 2019 Harvest, b. 4/6-2",Orfeve,75.0,"3- B,S,C",3.5
+1806,2680,"Tumaco, 2019 Harvest, b. 3/8-2",Orfeve,75.0,"3- B,S,C",2.75
+1807,2680,"Piura, Gran Blanco, 2019 Harvest, b. 7/9-2",Orfeve,75.0,"3- B,S,C",3.25
+1808,1161,Maya Mountain,organicfair,74.0,"3- B,S,C",2.75
+1809,1165,La Red,organicfair,72.0,"3- B,S,C",2.75
+1810,1165,Nicaraqua,organicfair,72.0,"3- B,S,C",2.75
+1811,1165,Caribe,organicfair,72.0,"3- B,S,C",3.0
+1812,1165,Mindo,organicfair,72.0,"3- B,S,C",3.0
+1813,2076,Panama,organicfair,71.0,"3- B,S,C",3.0
+1814,331,"D.R. Congo, Cru Virunga",Original Beans (Felchlin),70.0,"3- B,S,C",3.0
+1815,341,"Piura, Apotequil, ""Porcelana"" 72hr c.",Original Beans (Felchlin),75.0,"3- B,S,C",3.0
+1816,341,"Alto Beni, Wild Harvest, Itenez R., 60hr c.",Original Beans (Felchlin),68.0,"3- B,S,C",3.25
+1817,733,"Alto Beni, Wild Harvest, Itenez R. 24hr c.",Original Beans (Felchlin),66.0,"3- B,S,C",3.75
+1818,1438,Papua Kerafat,Original Beans (Felchlin),68.0,"3- B,S,C",2.75
+1819,1442,"Grand Cru Blend No.1, 5 yr. Anniversary Ed",Original Beans (Felchlin),80.0,"2- B,S",3.25
+1820,24,"Hawai'i Island, Kona Estate, Hualalai Mtn",Original Hawaiin Chocolate Factory,60.0,"5- B,S,C,V,L",3.0
+1821,316,"Hawai'i Island, Kona Grand Cru E.",Original Hawaiin Chocolate Factory,60.0,"5- B,S,C,V,L",3.0
+1822,859,Peru,Orquidea,65.0,"4- B,S,C,L",3.0
+1823,859,Peru,Orquidea,72.0,"4- B,S,C,L",3.0
+1824,224,Esmeraldas,Pacari,60.0,"4- B,S,C,L",2.75
+1825,224,Los Rios,Pacari,72.0,"4- B,S,C,L",3.0
+1826,224,Manabi,Pacari,65.0,"4- B,S,C,L",3.0
+1827,266,Raw,Pacari,100.0,"3- B,S,C",2.0
+1828,266,Raw,Pacari,70.0,"4- B,S,C,L",3.5
+1829,721,Nube- prototype,Pacari,70.0,"4- B,S,C,L",3.5
+1830,817,"Ecuador, raw",Pacari,85.0,"4- B,S,C,L",2.75
+1831,863,Piura,Pacari,70.0,"4- B,S,C,L",4.0
+1832,1415,Garaua,Pacari,70.0,"4- B,S,C,L",3.25
+1833,1415,Cumbia,Pacari,70.0,"4- B,S,C,L",3.5
+1834,1415,Montubia,Pacari,70.0,"4- B,S,C,L",3.75
+1835,1415,Tangara,Pacari,70.0,"4- B,S,C,L",4.0
+1836,1848,"Sierra Nevada, Tutu Iku",Pacari,70.0,"4- B,S,C,L",4.0
+1837,2230,Haiti,Palet D'Or,70.0,"5- B,S,C,V,L",3.5
+1838,2234,Vietnam,Palet D'Or,72.0,"5- B,S,C,V,L",3.25
+1839,2234,Cuba,Palet D'Or,72.0,"5- B,S,C,V,L",3.75
+1840,1239,"Alto Beni, Palos Blancos",Palette de Bine,72.0,"2- B,S",2.75
+1841,1239,Sambirano,Palette de Bine,78.0,"2- B,S",3.75
+1842,1303,"Camino Verde P., Balao, Guayas",Palette de Bine,75.0,"2- B,S",2.75
+1843,1399,Duo- Gran Couva & Camino Verde,Palette de Bine,75.0,"2- B,S",3.5
+1844,1399,Gran Couva,Palette de Bine,70.0,"2- B,S",3.75
+1845,1570,"Silvestre, La Paz, Beni",Palette de Bine,70.0,"2- B,S",3.25
+1846,1570,"San Juan Estate, Gran Couva",Palette de Bine,70.0,"2- B,S*",3.25
+1847,1574,Kokoa Kamili,Palette de Bine,72.0,"2- B,S",3.5
+1848,1574,Lam Dong,Palette de Bine,72.0,"2- B,S",3.75
+1849,1720,Lachua,Palette de Bine,70.0,"2- B,S",2.75
+1850,1720,Maya Mtn,Palette de Bine,72.0,"2- B,S",3.0
+1851,1992,Maranon,Palette de Bine,72.0,"2- B,S",2.75
+1852,1992,Pisa,Palette de Bine,70.0,"2- B,S",3.5
+1853,2000,Dominican Republic,Palette de Bine,75.0,"2- B,S",2.75
+1854,2286,"Maranon, batch 28",Palette de Bine,70.0,"2- B,S",3.5
+1855,1860,Matasawalevu,Pangea,76.0,"2- B,S",3.0
+1856,2298,Maya Mtn,Pangea,75.0,"2- B,S",3.25
+1857,2298,Sambirano,Pangea,76.0,"2- B,S",3.25
+1858,2302,Caribe,Pangea,76.0,"2- B,S",3.25
+1859,2302,Chilique,Pangea,71.0,"2- B,S",3.5
+1860,2334,"Alto Beni, batch 100518",Pangea,76.0,"2- B,S",2.75
+1861,2334,South Cotabato,Pangea,76.0,"2- B,S",3.0
+1862,1363,South America,Park 75,65.0,"3- B,S,V",3.5
+1863,1251,Alto Beni,Parliament,70.0,"2- B,S",3.0
+1864,1255,"Oko Caribe, batch 4",Parliament,70.0,"2- B,S",3.5
+1865,1542,"Lachua, Q'egchi families",Parliament,70.0,"2- B,S",3.5
+1866,1856,Kilombero Valley,Parliament,70.0,"2- B,S",3.25
+1867,2274,Guatemala,Parre Chocolat,75.0,"3- B,S,C",2.75
+1868,2274,Dominican Republic,Parre Chocolat,75.0,"3- B,S,C",2.75
+1869,2278,Colombia,Parre Chocolat,75.0,"3- B,S,C",3.0
+1870,1137,Peru,Pascha,55.0,"4- B,S,C,V",2.5
+1871,1137,Peru,Pascha,70.0,"4- B,S,C,V",2.75
+1872,196,Madagascar,Patric,70.0,"3- B,S,C",4.0
+1873,331,Madagascar,Patric,75.0,"3- B,S,C",4.0
+1874,439,Madagascar,Patric,67.0,"3- B,S,C",3.5
+1875,439,"Rio Caribe, Paria Penninsula",Patric,70.0,"3- B,S,C",3.5
+1876,636,Signature Blend,Patric,70.0,"3- B,S,C",3.75
+1877,1034,"Piura, Choc. Garage Exclusive",Patric,67.0,"3- B,S,C",4.0
+1878,1271,"Madagascar, w/ shell",Paul Young,73.0,"2- B,S*",2.25
+1879,1271,"Madagascar, w/ shell",Paul Young,64.0,"2- B,S*",2.75
+1880,1454,Dominican Republic,Peppalo,82.0,"3- B,S,C",3.0
+1881,2258,Fiji,Perrenial,75.0,"3- B,S*,C",3.0
+1882,2294,"Ucayali, batch PR-17",Petite Patrie,70.0,"4- B,S,C,L",3.25
+1883,81,"Porcelana, Tabasco, Limited Ed.",Pierre Marcolini,72.0,"5- B,S,C,V,L",4.0
+1884,93,"Kendem Lembu, Java",Pierre Marcolini,72.0,"5- B,S,C,V,L",3.0
+1885,93,"Ocumare, Puerto Cabello, Venezuela",Pierre Marcolini,72.0,"5- B,S,C,V,L",3.75
+1886,111,"Cabosse, Venezuela, Java",Pierre Marcolini,70.0,"5- B,S,C,V,L",4.0
+1887,129,"Los Rios, Puerto Romero, Equateur",Pierre Marcolini,72.0,"5- B,S,C,V,L",3.75
+1888,141,"Sambirano, Ambanja, Madagascar",Pierre Marcolini,72.0,"5- B,S,C,V,L",4.0
+1889,166,"Fleur de Cacao, Venezuela/ Ghana",Pierre Marcolini,85.0,"5- B,S,C,V,L",3.5
+1890,414,"Bahia Brazil, Fazenda Sao Pedro",Pierre Marcolini,72.0,"5- B,S,C,V,L",3.0
+1891,445,"Porcelana, Tabasco, Finca La Joya",Pierre Marcolini,72.0,"5- B,S,C,V,L",3.0
+1892,478,Chuao,Pierre Marcolini,75.0,"5- B,S,C,V,L",3.0
+1893,478,Trinite,Pierre Marcolini,75.0,"5- B,S,C,V,L",3.25
+1894,516,Baracoa,Pierre Marcolini,78.0,"5- B,S,C,V,L",3.75
+1895,531,"Peru, Las Pampas P.",Pierre Marcolini,85.0,"5- B,S,C,V,L",3.0
+1896,1658,"Haut Penja, w/ nibs",Pierre Marcolini,70.0,"5- B,S,C,V,L",3.25
+1897,2342,"Sambirano, Rieur, Ambanja",Pierre Marcolini,76.0,"4- B,S,C,L",3.0
+1898,2342,"Haut Penja, Transporte",Pierre Marcolini,70.0,"4- B,S,C,L",3.0
+1899,2700,"Hainan, lot 218012",Pierre Marcolini,72.0,"4- B,S,C,L",3.5
+1900,2462,"Dak Nong, batch 405",Piety and Desire,70.0,"3- B,S,C",3.0
+1901,2462,"Kokoa Kamili, Kilombero Valley, batch 304",Piety and Desire,70.0,"3- B,S,C",3.5
+1902,2462,Kerla,Piety and Desire,73.0,"3- B,S,C",3.5
+1903,1772,Wampusirpi Region,Pinellas,80.0,"4- B,S,V,L",2.5
+1904,1311,Akesson Estate,Pitch Dark,73.0,"2- B,S",3.25
+1905,1315,Namau Village,Pitch Dark,73.0,"2- B,S",2.5
+1906,1319,"Camino Verde P., Balao, Guayas, ""Fruity""",Pitch Dark,73.0,"2- B,S",3.25
+1907,1319,"Camino Verde P., Balao, Guayas, ""Floral""",Pitch Dark,73.0,"2- B,S",3.5
+1908,1506,Tenor,Pitch Dark,62.0,"3- B,S,C",2.5
+1909,1506,Johe,Pitch Dark,80.0,"2- B,S",2.75
+1910,1510,Chuno,Pitch Dark,80.0,"3- B,S,C",2.75
+1911,1510,Nicalizo,Pitch Dark,80.0,"3- B,S,C",2.75
+1912,1510,Rugoso,Pitch Dark,80.0,"2- B,S",3.25
+1913,2530,"Tranquilidad, ""Wild Bolivia""",Pollinator,70.0,"3- B,S,C",3.0
+1914,2530,Zorzal Plantation,Pollinator,70.0,"3- B,S,C",3.0
+1915,2530,Tanzania,Pollinator,70.0,"3- B,S,C",3.25
+1916,829,"La Red, 2011",Pomm (aka Dead Dog),76.0,"3- B,S,C",2.5
+1917,829,"Peru, batch 1",Pomm (aka Dead Dog),82.0,"3- B,S,C",2.75
+1918,2582,Haiti,Poppy and Peep,71.0,"3- B,S,C",2.75
+1919,2582,Guatemala,Poppy and Peep,76.0,"3- B,S,C",3.0
+1920,2586,Ghana,Poppy and Peep,66.0,"3- B,S,C",3.0
+1921,607,"Upala, Batch 12",Potomac,82.0,"2- B,S",3.75
+1922,647,Upala w/ nibs,Potomac,70.0,"2- B,S",3.5
+1923,654,"Upala, Batch 18",Potomac,70.0,"2- B,S",3.0
+1924,789,"San Martin, Amazonian Highlands",Potomac,70.0,"2- B,S",2.75
+1925,789,Bahia,Potomac,70.0,"2- B,S",3.5
+1926,1387,"Cuyagua, 2013",Potomac,70.0,"2- B,S",3.75
+1927,1820,"Oko Caribe, Duarte Province, 2016 H.",Potomac,70.0,"2- B,S",3.75
+1928,2076,Tumaco,Potomac,70.0,"2- B,S",4.0
+1929,2538,"Semuliki Forest, batch 20035",Potomac,75.0,"2- B,S",3.75
+1930,2622,"Ucayali, batch 200105",Potomac,70.0,"2- B,S",3.75
+1931,32,Jamaique,Pralus,75.0,"4- B,S,C,L",3.75
+1932,40,Vanuatu,Pralus,75.0,"4- B,S,C,L",3.0
+1933,93,Fortissima,Pralus,80.0,"4- B,S,C,L",3.75
+1934,99,Cuba,Pralus,75.0,"4- B,S,C,L",3.0
+1935,99,"Caracas, Venezuela and Ghana",Pralus,75.0,"4- B,S,C,L",3.0
+1936,99,"Djakarta, Java and Ghana",Pralus,75.0,"4- B,S,C,L",3.5
+1937,105,"Monte Alegre (Itacare), Brazil",Pralus,75.0,"4- B,S,C,L",3.0
+1938,162,Claudio Corallo w/ nibs,Pralus,75.0,"4- B,S,C,L",4.0
+1939,202,"Sambirano Valley, Le 100%",Pralus,100.0,"2- B,C",3.0
+1940,280,Dominican Republic-Organic,Pralus,75.0,"4- B,S,C,L",2.0
+1941,280,"Monte Alegre, Diego Badero",Pralus,75.0,"4- B,S,C,L",3.5
+1942,451,Cuyagua,Pralus,75.0,"4- B,S,C,L",2.0
+1943,486,Chuao,Pralus,75.0,"4- B,S,C,L",3.5
+1944,717,"Porcelana, S. of Lake Maracaibo",Pralus,75.0,"4- B,S,C,L",3.25
+1945,1446,Peru,Pralus,75.0,"3- B,S,C",3.25
+1946,2406,Papouasie,Pralus,75.0,"4- B,S,C,L",3.0
+1947,2410,Java,Pralus,75.0,"4- B,S,C,L",3.0
+1948,2410,Barlovento,Pralus,75.0,"4- B,S,C,L",3.0
+1949,2410,Trinidad,Pralus,75.0,"4- B,S,C,L",3.25
+1950,2410,Sao Tome & Principe,Pralus,75.0,"4- B,S,C,L",3.5
+1951,2414,Nosy Be Isle.,Pralus,75.0,"4- B,S,C,L",3.0
+1952,2414,Ghana,Pralus,75.0,"4- B,S,C,L",3.25
+1953,2414,Tanzanie,Pralus,75.0,"4- B,S,C,L",3.5
+1954,2418,Colombie,Pralus,75.0,"4- B,S,C,L",3.0
+1955,2418,Equateur,Pralus,75.0,"4- B,S,C,L",3.5
+1956,2118,"Kokoa Kamili, 2018 Harvest",Primo Botanica,75.0,"2- B,S*",3.25
+1957,2118,Choba Choba,Primo Botanica,75.0,"2- B,S*",3.25
+1958,2318,Vietnam,Public Chocolatory,70.0,"2- B,S",2.75
+1959,1223,"Patanemo, Carabobo, Tisano family, b. 3211",Pump Street Bakery,75.0,"3- B,S,C",2.75
+1960,1223,Guantupi River,Pump Street Bakery,75.0,"3- B,S,C",3.0
+1961,1223,"Akessons Estate, Sambirano, Ambanja, b. 3212",Pump Street Bakery,72.0,"3- B,S,C",3.25
+1962,1227,Guantupi River,Pump Street Bakery,85.0,"3- B,S,C",2.75
+1963,1502,"Crayfish Bay Estate, 2014",Pump Street Bakery,70.0,"3- B,S,C",3.5
+1964,1530,"Akesson's, batch 4411",Pump Street Bakery,74.0,"3- B,S,C",3.5
+1965,1688,Honduras,Pump Street Bakery,80.0,"3- B,S,C",2.75
+1966,1872,"Chocoan Rainforest, Teroro Escondido, ESM",Pump Street Bakery,77.0,"3- B,S,C",3.5
+1967,1956,"Bachelor's Hall, batch 6911",Pump Street Bakery,75.0,"2- B,S",3.75
+1968,2166,"Guadalcanal, Tenaru, David Natei F.",Pump Street Bakery,72.0,"3- B,S,C",3.25
+1969,931,Venezuela,Pura Delizia,73.0,"4- B,S,C,L",2.75
+1970,1984,Vietnam,Pura Delizia,75.0,"4- B,S,C,L",3.5
+1971,1988,Ecuador,Pura Delizia,73.0,"4- B,S,C,L",3.25
+1972,1988,Papua New Guinea,Pura Delizia,75.0,"4- B,S,C,L",3.25
+1973,1988,Philippines,Pura Delizia,66.0,"4- B,S,C,L",3.5
+1974,1988,Dominican,Pura Delizia,65.0,"4- B,S,C,L",3.75
+1975,935,Brazil,Q Chocolate,60.0,"3- B,S,C",3.0
+1976,935,Brazil,Q Chocolate,65.0,"3- B,S,C",3.25
+1977,1057,Brazil,Q Chocolate,75.0,"3- B,S,C",3.25
+1978,1057,Brazil,Q Chocolate,85.0,"3- B,S,C",3.5
+1979,1069,Brazil,Q Chocolate,55.0,"3- B,S,C",2.75
+1980,1069,Brazil,Q Chocolate,80.0,"3- B,S,C",3.25
+1981,2238,"Bagua, Amazonas",Qantu,70.0,"3- B,S,C",3.0
+1982,2426,"Chunchu, Ayacucho, lot 208",Qantu,70.0,"3- B,S,C",3.75
+1983,2470,"Morropon, Piura, AoC Golden Bean 2018",Qantu,70.0,"3- B,S,C",3.5
+1984,2506,"Piura, Gran Blanco, lot 400",Qantu,70.0,"3- B,S,C",4.0
+1985,2594,"Chaska, Junin, lot 425",Qantu,70.0,"3- B,S,C",3.75
+1986,1796,"Mexico, Lot 28022016",Quetzalli (Wolter),70.0,"3- B,S,C",2.75
+1987,1800,"Uranga, Lot 22032016",Quetzalli (Wolter),74.0,"3- B,S,C",3.0
+1988,785,La Red,Raaka,85.0,"3- B,S,C",3.5
+1989,959,Madagascar,Raaka,75.0,"3- B,S,C",3.25
+1990,1708,Virunga,Raaka,75.0,"3- B,S,C",2.75
+1991,1788,"Amazon Basin Blend- SMartin,Pangoa,nacional",Raaka,70.0,"3- B,S,C",3.0
+1992,2032,"Pisa, unroasted",Raaka,70.0,"3- B,S,C",3.25
+1993,2032,"Pisa, roasted",Raaka,70.0,"3- B,S,C",3.5
+1994,470,Suchitepequez E.,Rain Republic,70.0,"5- B,S,C,V,L",2.75
+1995,565,Ecuador,Rancho San Jacinto,75.0,"3- B,S,C",3.0
+1996,1558,"San Martin, Batch 2",Ranger,70.0,"2- B,S",2.5
+1997,1562,"Chulucanas, Batch 1",Ranger,80.0,"2- B,S",3.25
+1998,1562,"Tumbes, Batch 2",Ranger,73.0,"2- B,S",3.5
+1999,2668,Soconusco,Ranger,70.0,"2- B,S",3.25
+2000,1872,Piura,Raoul Boulanger,75.0,"3- B,S,C",3.25
+2001,2158,"Kokoa Kamili, Kilombero batch IT7507",Raphio,72.0,"3- B,S,C",3.75
+2002,2158,"El Gran Sapasoa, batch IP7487",Raphio,72.0,"3- B,S,C",3.75
+2003,2166,Camino Verde,Raphio,72.0,"3- B,S,C",3.5
+2004,2330,"Oko Caribe, San Fran. De Macoris, El Cibao",Raphio,72.0,"3- B,S,C",3.5
+2005,2334,Matagalpa,Raphio,72.0,"3- B,S,C",3.5
+2006,2618,"Suhum Region, ABOCFA, b. IG7720",Raphio,72.0,"3- B,S,C",3.5
+2007,867,Raw,Raw Cocoa,70.0,"3- B,S,C",2.5
+2008,147,Manabi,Republica del Cacao (aka Confecta),75.0,"4- B,S,C,L",3.0
+2009,147,El Oro,Republica del Cacao (aka Confecta),67.0,"4- B,S,C,L",3.5
+2010,170,Los Rios,Republica del Cacao (aka Confecta),75.0,"4- B,S,C,L",3.75
+2011,439,"Los Rios, Vinces",Republica del Cacao (aka Confecta),75.0,"4- B,S,C,L",2.5
+2012,494,Esmeraldas,Republica del Cacao (aka Confecta),75.0,"4- B,S,C,L",3.25
+2013,745,Costa Rica,Ritual,75.0,"2- B,S",3.5
+2014,891,"Sambirano, 2011 harvest, batch 1",Ritual,75.0,"2- B,S",4.0
+2015,967,"Camino Verde P., 2012, Balao, Guayas, batch 1",Ritual,75.0,"2- B,S",3.25
+2016,979,"Gran Couva, 2012 harvest, batch 001",Ritual,75.0,"2- B,S",3.5
+2017,1089,"Toledo District, Maya, batch 001",Ritual,75.0,"2- B,S",3.75
+2018,1181,"Maranon, Cajamarca, batch 002",Ritual,75.0,"2- B,S",3.0
+2019,1466,"Camino Verde P., Balao, Guayas, 2014, b. 001",Ritual,85.0,"2- B,S",3.5
+2020,1466,"Mid Mountain, 2014, batch 002",Ritual,70.0,"2- B,S",3.5
+2021,1860,"Camino Verde P., Balao, 2015 harvest, batch8",Ritual,75.0,"2- B,S",3.75
+2022,2008,Xoconusco,Ritual,75.0,"3- B,S,C",3.75
+2023,2282,"La Colonia, Enliven Cacao",Ritual,70.0,"2- B,S",3.5
+2024,2418,"Jagassar Estate, Moruga Region, microlot",Ritual,80.0,"2- B,S",3.5
+2025,2514,"Sambirano, 2019 h., batch 7",Ritual,75.0,"3- B,S,C",3.5
+2026,2080,"Kokoa Kamili, Morogoro",River-Sea,72.0,"3- B,S,C",3.0
+2027,2354,"Vanua Levu, Matasawalevu",River-Sea,70.0,"3- B,S,C",2.5
+2028,2354,Ucayali,River-Sea,70.0,"3- B,S,C",2.5
+2029,1844,"La Dorado, light roast",Roasting Masters,70.0,"2- B,S",3.25
+2030,1844,"Tapanti, light roast",Roasting Masters,70.0,"2- B,S",3.25
+2031,1844,Maleku,Roasting Masters,70.0,"2- B,S",3.25
+2032,1061,Madagascar,Robert (aka Chocolaterie Robert),75.0,"5- B,S,C,V,L",3.25
+2033,1061,Madagascar w/ nibs,Robert (aka Chocolaterie Robert),68.0,"4- B,S,C,L",3.25
+2034,923,"Gru Grococo, St. Andrews",Rococo (Grenada Chocolate Co.),66.0,"3- B,S,C",3.5
+2035,213,"Hispaniola, 2008",Rogue,70.0,"2- B,S",2.75
+2036,213,Jamaica,Rogue,70.0,"2- B,S",2.75
+2037,213,"Sambirano, 2008",Rogue,70.0,"2- B,S",3.0
+2038,213,Trinidad,Rogue,70.0,"2- B,S",3.0
+2039,327,Rio Caribe,Rogue,70.0,"2- B,S",3.5
+2040,565,Piura,Rogue,75.0,"2- B,S",3.75
+2041,793,"Silvestre, Batch 1, 2011",Rogue,75.0,"2- B,S",3.0
+2042,979,"Camino Verde P., Balao, Guayas",Rogue,75.0,"2- B,S",3.75
+2043,1038,"Akessons Estate, Sambirano, 2013",Rogue,70.0,"2- B,S",3.5
+2044,1081,"Hispaniola, 2013",Rogue,70.0,"2- B,S",3.5
+2045,1081,"Silvestre, Batch 7, 2013",Rogue,75.0,"2- B,S",4.0
+2046,1193,"Bachelor's Hall E., St. Thomas Parish, batch 1",Rogue,75.0,"2- B,S",3.75
+2047,1209,Porcelana,Rogue,80.0,"2- B,S",3.75
+2048,1446,"Caranero, Choc. Garage Exclusive",Rogue,70.0,"2- B,S",3.75
+2049,1566,"Tranquilidad, Batch 1",Rogue,75.0,"2- B,S",3.25
+2050,1748,"La Masica, Batch 1, FHIA Research Center",Rogue,75.0,"2- B,S",3.75
+2051,713,Carenero Superior,Rozsavolgyi,73.0,"3- B,S,C",3.5
+2052,717,Porcelana,Rozsavolgyi,71.0,"3- B,S,C",2.5
+2053,717,"Aragua, Trincheras",Rozsavolgyi,70.0,"3- B,S,C",3.5
+2054,765,Principe,Rozsavolgyi,77.0,"3- B,S,C",2.75
+2055,809,Sur del Lago,Rozsavolgyi,84.0,"3- B,S,C",2.5
+2056,871,"Rio Caribe Superior, Paria Penninsula, b. R380",Rozsavolgyi,76.0,"3- B,S,C",2.25
+2057,871,"Sambirano, Akesson Estate, batch MT3802",Rozsavolgyi,72.0,"3- B,S,C",2.5
+2058,2004,Chuao,Rozsavolgyi,73.0,"3- B,S,C",3.75
+2059,2672,"Piura, Norandino, Gran Blanco Nativo, b. PB4704",Rozsavolgyi,72.0,"3- B,S,C",3.75
+2060,1964,"Red Mayan, Xoco",Ruket,72.0,"3- B,S*,C",2.75
+2061,2036,"Pisa, lot 03HA",Ruket,75.0,"3- B,S,C",3.0
+2062,2036,"Nugu, lot 02N",Ruket,70.0,"3- B,S,C",3.5
+2063,2660,Kokoa Kamili. Lot 73T,Ruket,72.0,"2- B,S",3.5
+2064,2668,"Sumba, lot 02IN",Ruket,77.0,"2- B,S",2.75
+2065,607,Malgascio,S.A.I.D.,64.0,"3- B,S,C",3.5
+2066,615,100 percent,S.A.I.D.,100.0,"3- B,S,C",1.5
+2067,615,Samana,S.A.I.D.,70.0,"3- B,S,C",3.0
+2068,615,"Carribean, Arawak",S.A.I.D.,72.0,"3- B,S,C",3.5
+2069,615,Latino,S.A.I.D.,72.0,"3- B,S,C",3.5
+2070,813,"Midnight, Central and S. America",Sacred,83.0,"4- B,S*,C,V",2.75
+2071,813,"Twilight, Central and S. America",Sacred,69.0,"4- B,S*,C,V",3.25
+2072,288,Bahia Superior,Salgado,70.0,"4- B,S,C,L",3.5
+2073,288,Esmeraldas,Salgado,70.0,"4- B,S,C,L",3.5
+2074,288,Carenero Superior,Salgado,70.0,"4- B,S,C,L",3.5
+2075,292,Rio Arriba,Salgado,70.0,"4- B,S,C,L",3.5
+2076,2004,"H. San Jose, Los Rios, L300817",San Jose,70.0,"4- B,S,C,L",3.25
+2077,32,Colombian Semi Dark,Santander (Compania Nacional),53.0,"5- B,S,C,V,L",2.0
+2078,32,Colombian,Santander (Compania Nacional),65.0,"5- B,S,C,V,L",3.0
+2079,32,Colombian Dark,Santander (Compania Nacional),70.0,"5- B,S,C,V,L",3.75
+2080,404,Colombian 2008,Santander (Compania Nacional),75.0,"3- B,S,L",2.75
+2081,414,Colombian w/ nibs,Santander (Compania Nacional),70.0,"5- B,S,C,V,L",3.0
+2082,761,Sao Tome,Santome,70.0,"5- B,S,C,V,L",2.75
+2083,15,Extra Dark,Scharffen Berger,82.0,"5- B,S,C,V,L",2.0
+2084,15,Bittersweet,Scharffen Berger,70.0,"5- B,S,C,V,L",3.5
+2085,40,"Kumasi Sambirano, Ghana & Madagascar",Scharffen Berger,68.0,"5- B,S,C,V,L",2.0
+2086,56,Jamaica a l'ancienne,Scharffen Berger,70.0,"5- B,S,C,V,L",2.0
+2087,56,Semisweet,Scharffen Berger,62.0,"5- B,S,C,V,L",3.0
+2088,117,"Las Islas, Carribean(DR/Jam/Tri)",Scharffen Berger,72.0,"5- B,S,C,V,L",3.0
+2089,135,Nibby,Scharffen Berger,62.0,"5- B,S,C,V,L",3.0
+2090,135,Cuyagua,Scharffen Berger,75.0,"5- B,S,C,V,L",3.75
+2091,188,Antilles (Trin/Gren/DR/Ven),Scharffen Berger,75.0,"5- B,S,C,V,L",3.0
+2092,227,"Finisterra, Ven., Trinidad, Mad.",Scharffen Berger,72.0,"5- B,S,C,V,L",3.0
+2093,336,Tome Acu,Scharffen Berger,68.0,"5- B,S,C,V,L",3.75
+2094,336,Asante,Scharffen Berger,65.0,"5- B,S,C,V,L",4.0
+2095,445,Ben Tre,Scharffen Berger,72.0,"5- B,S,C,V,L",3.75
+2096,464,Camahogne,Scharffen Berger,68.0,"5- B,S,C,V,L",3.5
+2097,464,Amina,Scharffen Berger,65.0,"5- B,S,C,V,L",3.75
+2098,781,Markham Valley,Scharffen Berger,68.0,"5- B,S,C,V,L",3.75
+2099,959,San Juan de Cheni,Scharffen Berger,78.0,"4- B,S,C,L",4.0
+2100,1658,Dominican Republic,Seaforth,70.0,"2- B,S",2.75
+2101,1658,Grenada,Seaforth,70.0,"2- B,S",2.75
+2102,2104,Wampusirpi,Seahorse,70.0,"2- B,S",2.75
+2103,2104,Kokoa Kamili,Seahorse,70.0,"2- B,S",3.25
+2104,2108,Zorzal,Seahorse,70.0,"2- B,S",3.0
+2105,2446,Matasawalevu,Seahorse,70.0,"2- B,S",2.75
+2106,2446,Semuliki Forest,Seahorse,70.0,"2- B,S",3.5
+2107,2590,Ucayali,Seahorse,70.0,"2- B,S",3.5
+2108,2594,Ben Tre,Seahorse,70.0,"2- B,S",3.5
+2109,2660,Gewan Gangaram,Seahorse,75.0,"2- B,S",3.25
+2110,2660,Anamalai,Seahorse,70.0,"2- B,S",3.5
+2111,2366,Belize,Shane Chocolate Works,70.0,"3- B,S,C",3.5
+2112,2370,Guatemala,Shane Chocolate Works,70.0,"3- B,S,C",3.0
+2113,2370,Colombia,Shane Chocolate Works,70.0,"3- B,S,C",3.0
+2114,1335,Ecuador,Shark Mountain,75.0,"2- B,S",3.0
+2115,1335,"Belize, 2013",Shark Mountain,72.0,"2- B,S",3.25
+2116,1450,Jamaica,Shark Mountain,72.0,"2- B,S",3.25
+2117,1450,Papua New Guinea,Shark Mountain,73.0,"2- B,S",3.5
+2118,1466,Cuyagua,Shark Mountain,77.0,"2- B,S",2.75
+2119,1466,ROIG,Shark Mountain,74.0,"2- B,S",3.5
+2120,713,"Hawai'i Island, Hilo",Shark's,73.0,"4- B,S,C,V",2.0
+2121,721,"Hawai'i Island, Hilo, w/ added cocoa butter",Shark's,73.0,"4- B,S,C,V",2.5
+2122,757,Porcelana,Shattell,75.0,"3- B,S,C",3.5
+2123,1884,Tingo Maria,Shattell,70.0,"3- B,S,C",3.25
+2124,1586,Oro,Sibu,82.0,"3- B,S,C",3.25
+2125,1586,Oscuro,Sibu,70.0,"3- B,S,C",3.5
+2126,911,Peru,Sibu Sura,70.0,"3- B,S,C",2.5
+2127,2716,"Sierra Nevada, Santa Marta",Sierra Sagrada,72.0,"3- B,S,C",3.5
+2128,717,Maya Belize,Silvio Bessone,67.0,"4- B,S,C,Sa",3.0
+2129,725,"Trintade, Sao Tome",Silvio Bessone,65.0,"4- B,S,C,Sa",3.25
+2130,729,"Bahia, Scavina",Silvio Bessone,60.0,"4- B,S,C,Sa",3.25
+2131,741,"Porcelana, Colombia, Amazonas",Silvio Bessone,68.0,"4- B,S,C,Sa",3.0
+2132,1339,"Somia Plantation, 2012",Sirene,67.0,"3- B,S,C",3.75
+2133,1339,"Somia Plantation, 2012",Sirene,73.0,"3- B,S,C",3.75
+2134,1343,"Camino Verde P., Balao, Guayas",Sirene,73.0,"3- B,S,C",3.75
+2135,1502,"Somia Plantation, 2012",Sirene,100.0,1- B,3.0
+2136,1506,"Camino Verde P., Balao, Guayas, 2012",Sirene,100.0,1- B,3.0
+2137,1614,Lachua w/ cane sugar,Sirene,73.0,"2- B,S",3.0
+2138,1614,"Lachua w/ maple sugar, batch 5",Sirene,73.0,"2- B,S*",3.25
+2139,1650,Pisa,Sirene,73.0,"2- B,S",3.25
+2140,1788,Wild Bolivia,Sirene,73.0,"2- B,S",3.5
+2141,1856,Kokoa Kamili Coop,Sirene,73.0,"2- B,S",3.5
+2142,1860,"Esmeraldas, Salazar Farm",Sirene,73.0,"2- B,S",3.75
+2143,1996,Tingo Maria,Sirene,73.0,"2- B,S",3.75
+2144,2652,"Soconusco, Rayen Cacao Co-op",Sirene,73.0,"3- B,S,C",3.0
+2145,2652,"Anamalai, Pollachi City",Sirene,73.0,"3- B,S,C",3.25
+2146,1454,Ghana,Sjolinds,70.0,"4- B,S,C,V",2.75
+2147,1462,"Nicaragua, lot N510",Sjolinds,72.0,"3- B,S,C",3.0
+2148,1618,Akesson's Estate,"Smooth Chocolator, The",65.0,"3- B,S,C",3.25
+2149,1622,Akesson's Estate,"Smooth Chocolator, The",70.0,"3- B,S,C",3.5
+2150,1622,Kokoa Kamili,"Smooth Chocolator, The",67.0,"3- B,S,C",3.75
+2151,1622,San Juan Estate,"Smooth Chocolator, The",70.0,"3- B,S,C",3.75
+2152,1622,Camino Verde,"Smooth Chocolator, The",72.0,"3- B,S,C",4.0
+2153,1626,Bolivia,"Smooth Chocolator, The",72.0,"3- B,S,C",2.75
+2154,1662,"Papua New Guinea, triple roast, batch 1","Smooth Chocolator, The",65.0,"3- B,S,C",3.5
+2155,1666,"Maranon, batch 2","Smooth Chocolator, The",67.0,"3- B,S,C",3.0
+2156,1666,"Chuao, batch 3","Smooth Chocolator, The",70.0,"3- B,S,C",3.75
+2157,1740,"Guasare, La Sierra de Perija, batch gua001","Smooth Chocolator, The",70.0,"3- B,S,C",3.75
+2158,1740,"Porcelana, Sorotaima,Machiques,batch pcl001","Smooth Chocolator, The",70.0,"3- B,S,C",4.0
+2159,1756,"Maya Mtn, Moho R., Toledo D.","Smooth Chocolator, The",70.0,"3- B,S,C",3.75
+2160,1864,Tien Giang,"Smooth Chocolator, The",70.0,"3- B,S,C",3.0
+2161,1864,Australia,"Smooth Chocolator, The",67.0,"3- B,S,C",3.75
+2162,1908,"Chimelb, Lanquin, Alta Verapaz, b-GUA001","Smooth Chocolator, The",70.0,"3- B,S,C",3.25
+2163,1940,"Oko Caribe, DOR005","Smooth Chocolator, The",70.0,"3- B,S,C",3.5
+2164,1952,"Pisa, batch HA102","Smooth Chocolator, The",70.0,"3- B,S,C",3.5
+2165,502,Madagascar,Snake & Butterfly,68.0,"3- B,S,C",3.0
+2166,502,Ecuador,Snake & Butterfly,68.0,"3- B,S,C",3.25
+2167,693,Ghana,Snake & Butterfly,67.0,"3- B,S,C",1.5
+2168,2112,Sulawesi,Soeka,66.0,"3- B,S*,C",3.25
+2169,1968,India,Soklet,70.0,"3- B,S,C",2.75
+2170,1518,Madagascar,Sol Cacao,72.0,"2- B,S",3.0
+2171,1812,"Ecuador, Batch 1",Sol Cacao,70.0,"2- B,S",3.5
+2172,1840,"Castillo, Hispaniola, unroasted",Solkiki,85.0,"2- B,S",2.75
+2173,1840,"Maranon, Fortunato No. 4",Solkiki,68.0,"2- B,S",2.75
+2174,2366,"Kablon Farms, Red Pod, 2018 harvest",Solkiki,70.0,"3- B,S,C",2.5
+2175,1792,Solomon Island,Solomons Gold,70.0,"2- B,S",3.25
+2176,1796,Solomon Island w/ nibs,Solomons Gold,75.0,"2- B,S",3.25
+2177,1157,Sambirano,Solstice,70.0,"2- B,S",3.0
+2178,1157,Amazonas,Solstice,70.0,"2- B,S",3.0
+2179,1161,Bolivia,Solstice,70.0,"2- B,S",3.25
+2180,1161,San Martin,Solstice,70.0,"3- B,S,C",3.25
+2181,1161,Wasatch,Solstice,70.0,"3- B,S,C",3.5
+2182,1335,Bundibugyo,Solstice,70.0,"3- B,S,C",3.0
+2183,1992,Kilombero,Solstice,70.0,"3- B,S,C",3.25
+2184,2068,Anamalai,Solstice,70.0,"3- B,S,C",3.25
+2185,2660,"Dak Nong, Lot 103120",Solstice,70.0,"3- B,S,C",3.5
+2186,377,Hispaniola,Soma,70.0,"3- B,S,C",3.0
+2187,377,Africa,Soma,70.0,"3- B,S,C",3.5
+2188,387,Conacado,Soma,70.0,"3- B,S,C",3.0
+2189,387,Papua New Guinea,Soma,70.0,"3- B,S,C",3.5
+2190,387,Madagascar,Soma,70.0,"3- B,S,C",3.75
+2191,387,Ocumare,Soma,70.0,"3- B,S,C",3.75
+2192,607,"Black Science Blend 1, DR, Ecuador, Peru",Soma,70.0,"3- B,S,C",3.75
+2193,676,"Grenada, Black Science",Soma,70.0,"3- B,S,C",2.75
+2194,676,"Alto Beni, Wild Bolivian",Soma,70.0,"3- B,S,C",3.5
+2195,676,"Three Amigos(Chuao, Wild Bolivia, D.R.)",Soma,70.0,"3- B,S,C",4.0
+2196,676,Peruvian,Soma,64.0,"3- B,S,C",4.0
+2197,682,"Elvesia P., Black Science",Soma,70.0,"3- B,S,C",3.75
+2198,688,Chuao,Soma,70.0,"3- B,S,C",3.5
+2199,817,Noula Coop,Soma,70.0,"3- B,S,C",3.25
+2200,833,O'ahu Island,Soma,70.0,"3- B,S,C",3.75
+2201,867,"Dual Origins, Sambirano, Elvesia, batch SD06",Soma,70.0,"3- B,S,C",4.0
+2202,867,"Dancing in Your Head, 5 bean blend",Soma,70.0,"3- B,S,C",4.0
+2203,951,"Cahabon Region, batch Tri1",Soma,70.0,"3- B,S,C",3.5
+2204,951,"Carenero Superior, batch CS2",Soma,70.0,"3- B,S,C",3.75
+2205,967,"Eastern Promises, Mad., Java, PNG, batch EP1",Soma,70.0,"3- B,S,C",3.5
+2206,983,Papua New Guinea,Soma,85.0,"3- B,S,C",3.5
+2207,1019,"Rizek Cacao, batch DR 12",Soma,77.0,"3- B,S,C",3.75
+2208,1030,Java,Soma,70.0,"3- B,S,C",3.25
+2209,1073,"Apurimac, El Quinacho Co-op",Soma,70.0,"3- B,S,C",2.75
+2210,1073,Sangre Grande P.,Soma,70.0,"3- B,S,C",3.75
+2211,1077,Chef's Blend,Soma,70.0,"3- B,S,C",3.25
+2212,1077,Patanemo,Soma,70.0,"3- B,S,C",3.75
+2213,1077,"Crazy 88, Guat., D.R., Peru, Mad., PNG",Soma,88.0,"3- B,S,C",4.0
+2214,1077,"Maracaibo, El Vigia",Soma,70.0,"3- B,S,C",4.0
+2215,1081,"Equator, Peru, Dom. Rep",Soma,67.0,"3- B,S,C",4.0
+2216,1173,"Orinoco, batch ORI 1",Soma,70.0,"3- B,S,C",3.25
+2217,1177,"Bachelor's Hall E., St. Thomas Parish, batch bh1",Soma,70.0,"3- B,S,C",4.0
+2218,1227,"La Tronca, Matagalpa",Soma,70.0,"3- B,S,C",3.5
+2219,1259,Maranon Canyon,Soma,70.0,"3- B,S,C",3.75
+2220,1307,La Dalia,Soma,70.0,"3- B,S,C",3.25
+2221,1307,"Camino Verde P., Balao, Guayas",Soma,80.0,"3- B,S,C",3.5
+2222,1307,"Espiritu Santo, 'Smoke Monster', batch sm1",Soma,70.0,"3- B,S,C",3.75
+2223,1339,"Little Big Man, Madagascar & Ecuador",Soma,70.0,"3- B,S,C",3.25
+2224,1594,CSB Chama,Soma,70.0,"3- B,S,C",3.5
+2225,1594,Porcelana,Soma,75.0,"3- B,S,C",4.0
+2226,1820,"Oko Caribe, Duarte P., Collab w Chocosol",Soma,62.0,"3- B,S,C",3.5
+2227,1820,"Sambirano Valley, Black Science, B-60307.0",Soma,70.0,"3- B,S,C",3.5
+2228,1828,"Bahia Black, batch bra50722.1",Soma,70.0,"3- B,S,C",3.5
+2229,1828,"Chuno, San Jose de Bocay, Pantasma R.,B.S.",Soma,70.0,"3- B,S,C",3.75
+2230,1828,"Abstract S. w/ Jamaica nibs,batch abs60323.0",Soma,75.0,"3- B,S,C",3.75
+2231,1828,"Tien Giang, Black S., batch VIT60420.0",Soma,70.0,"3- B,S,C",4.0
+2232,1832,"Camino Verde, Black S., batch cvu6030.0",Soma,70.0,"3- B,S,C",3.25
+2233,2016,Fiji,Soma,70.0,"3- B,S,C",3.25
+2234,2016,Arauca,Soma,70.0,"3- B,S,C",4.0
+2235,2068,"Pisa, Creole Gardens",Soma,70.0,"3- B,S,C",3.0
+2236,2242,"Bejofo, Sambirano V., Akesson E.",Soma,70.0,"3- B,S,C",4.0
+2237,2242,"Choroni, Aragua, Finca Torres Farm",Soma,70.0,"3- B,S,C",4.0
+2238,2638,"Bejofo, Sambirano V., Akesson, b. 6116-BEJ210324",Soma,70.0,"3- B,S,C",3.5
+2239,2638,"Guasare, Rosario de Perija, b.4279-GUA201123",Soma,70.0,"3- B,S,C",3.5
+2240,2680,Dream Machine (Mad./Dom.Rep./Ecuador),Soma,62.0,"4- B,S,C,V",3.25
+2241,2700,"Ben Tre, batch BEN210924 8983",Soma,70.0,"3- B,S,C",4.0
+2242,2768,"Semuliki Forest, Bundibugyo, b. 13416SEM220426",Soma,70.0,"3- B,S,C",4.0
+2243,1367,Nicaragua,Somerville,70.0,"2- B,S",3.25
+2244,1395,"Hawai'i Island, Big Island",Somerville,70.0,"2- B,S",3.5
+2245,1932,Dominican Republic,Soul,70.0,"2- B,S",3.25
+2246,1936,Ecuador,Soul,75.0,"2- B,S",3.25
+2247,1936,Papua New Guinea,Soul,77.0,"2- B,S",3.25
+2248,1936,Madagascar,Soul,70.0,"2- B,S",3.5
+2249,1936,Venezuela,Soul,75.0,"2- B,S",3.5
+2250,1940,Tanzania,Soul,80.0,"2- B,S",3.5
+2251,793,AgroCriso Plantation,Spagnvola,70.0,"4- B,S,C,V",3.0
+2252,793,AgroCriso Plantation,Spagnvola,80.0,"4- B,S,C,V",3.0
+2253,793,AgroCriso Plantation,Spagnvola,75.0,"4- B,S,C,V",3.25
+2254,1434,Malekula Island,Spencer,72.0,"3- B,S,C",2.75
+2255,1792,"Dominican Republic, lot D82R",Spencer,70.0,"3- B,S,C",3.5
+2256,1792,"Ecuador, lot E432314L",Spencer,70.0,"3- B,S,C",3.75
+2257,1792,"Madagascar, lot M0403R",Spencer,70.0,"3- B,S,C",3.75
+2258,1932,Peru,Spencer,70.0,"3- B,S,C",2.75
+2259,1932,Ecuador,Spencer,70.0,"3- B,S,C",3.5
+2260,1932,Dominican Republic,Spencer,70.0,"3- B,S,C",3.75
+2261,2684,"Maya Mountain, Toledo District, batch 12-1",Spinnaker,70.0,"2- B,S",3.25
+2262,2684,"Bejofo, Akesson, batch 10-1",Spinnaker,70.0,"2- B,S",3.5
+2263,2684,"Bundibugyo, Semuliki Forest, batch 9-1",Spinnaker,70.0,"2- B,S",3.5
+2264,1057,Alto Beni,Sprungli (Felchlin),70.0,"4- B,S,C,L",3.0
+2265,1113,Dominican Republic,SRSLY,70.0,"3- B,S,L",3.0
+2266,1121,Dominican Republic,SRSLY,84.0,"3- B,S,L",2.25
+2267,2748,Bejofo,Standout,70.0,"2- B,S",3.25
+2268,2748,"Maya Mtn, March-May 2020 harvest",Standout,70.0,"2- B,S",3.5
+2269,2748,"Idukki, GoGround, 2019 harvest",Standout,70.0,"2- B,S",3.5
+2270,1634,"Bolivar, Arriba",Starchild,70.0,"4- B,S*,C,V",3.0
+2271,1692,Hispaniola,Starchild,70.0,"4- B,S*,C,V",3.0
+2272,1692,Cacao Verapaz,Starchild,70.0,"4- B,S*,C,V",3.0
+2273,1692,Rio Tuma,Starchild,70.0,"4- B,S*,C,V",3.0
+2274,1696,Sambirano Valley,Starchild,70.0,"4- B,S*,C,V",3.0
+2275,729,India,Stella (aka Bernrain),72.0,"4- B,S,C,V",3.25
+2276,859,"Bahia, Agri-Forestal Plantation, 2010",Stella (aka Bernrain),68.0,"4- B,S,C,V",2.75
+2277,1291,"Ecuador, Midnight Dark, batch 600414",Stone Grindz,84.0,"3- B,S,C",3.5
+2278,1291,"Ecuador, Twilght Dark, batch 500414",Stone Grindz,70.0,"3- B,S,C",3.5
+2279,2012,"Wild Bolivia, batch 260",Stone Grindz,70.0,"3- B,S,C",2.5
+2280,939,"Samar, East Visayas region",StRita Supreme,65.0,"4- B,S,C,V",2.5
+2281,943,"Samar, East Visayas region",StRita Supreme,70.0,"4- B,S,C,V",2.5
+2282,943,"Samar, East Visayas region",StRita Supreme,75.0,"4- B,S,C,V",2.75
+2283,1157,Sambirano,Sublime Origins,67.0,"2- B,S",2.75
+2284,1157,Moho Valley,Sublime Origins,78.0,"2- B,S",3.25
+2285,1800,Peru,Summerbird,61.0,"5- B,S,C,V,L",2.5
+2286,1800,Peru,Summerbird,71.0,"5- B,S,C,V,L",3.0
+2287,1796,Venezuela,Suruca Chocolate,70.0,"3- B,S,C",2.75
+2288,1796,Venezuela,Suruca Chocolate,60.0,"3- B,S,C",3.0
+2289,1618,Sri Lanka,Svenska Kakaobolaget,70.0,"2- B,S",2.75
+2290,2434,"Kokoa Kamili, 2017 harvest",Svenska Kakaobolaget,74.0,"2- B,S",2.75
+2291,2634,Honduras,sweet beans,72.0,"3- B,S,C",3.0
+2292,2634,Peru,sweet beans,72.0,"3- B,S,C",3.0
+2293,2634,Uganda,sweet beans,77.0,"3- B,S,C",3.5
+2294,2634,Trinidad,sweet beans,80.0,"3- B,S,C",3.75
+2295,2230,Chuao,Sweet Escalier,75.0,"5- B,S,C,V,L",3.25
+2296,2234,Tanzania,Sweet Escalier,75.0,"3- B,S,C",2.75
+2297,2234,Belize,Sweet Escalier,70.0,"5- B,S,C,V,L",3.0
+2298,2242,San Martin,Sweet Escalier,70.0,"5- B,S,C,V,L",2.5
+2299,2242,"Amazonas, Wild Cacao",Sweet Escalier,70.0,"5- B,S,C,V,L",3.0
+2300,2470,Ucayali,Sweetness,68.0,"3- B,S,C",3.25
+2301,2474,Tabasco,Sweetness,74.0,"3- B,S,C",3.0
+2302,2482,Papua New Guinea,Sweetness,73.0,"3- B,S,C",3.25
+2303,761,Crudo,Szanto Tibor,70.0,"3- B,S,C",3.0
+2304,939,Santo Domingo,Szanto Tibor,70.0,"3- B,S,C",3.25
+2305,939,Millot Plantation,Szanto Tibor,70.0,"3- B,S,C",3.25
+2306,939,"Ayacucho, ""El Guinacho""",Szanto Tibor,70.0,"3- B,S,C",3.75
+2307,1185,"Autumn, Primary Harvest, 2012",Szanto Tibor,70.0,"3- B,S,C",3.5
+2308,1185,"Spring, Secondary Harvest, 2012",Szanto Tibor,70.0,"3- B,S,C",3.5
+2309,1193,Cacao Blanco,Szanto Tibor,70.0,"3- B,S,C",3.25
+2310,1263,Porcelana,Szanto Tibor,70.0,"3- B,S,C",3.5
+2311,1263,Baracoa,Szanto Tibor,70.0,"3- B,S,C",3.75
+2312,1668,Nacional,Szanto Tibor,70.0,"3- B,S,C",3.25
+2313,1704,Baracoa,Szanto Tibor,88.0,"3- B,S,C",3.25
+2314,1704,Ambolikapiky,Szanto Tibor,70.0,"3- B,S,C",3.25
+2315,1704,"Winak, Sumaco",Szanto Tibor,70.0,"3- B,S,C",3.75
+2316,1708,"Ben Tre, Mekong Delta",Szanto Tibor,70.0,"3- B,S,C",3.25
+2317,1708,"Fazenda Sempre Firme, Bahia",Szanto Tibor,70.0,"3- B,S,C",3.5
+2318,1101,"Costa Rica, batch 83",Tabal,70.0,"4- B,S,C,V",2.75
+2319,1101,Dominican Republic,Tabal,70.0,"4- B,S,C,V",2.75
+2320,1105,"Chiapas, Lacandon Jungle, batch 95",Tabal,70.0,"4- B,S,C,V",2.5
+2321,1105,"Peru, batch 96",Tabal,70.0,"4- B,S,C,V",3.0
+2322,1450,Colombia,Tablette (aka Vanillabeans),70.0,"5- B,S,C,V,L",3.0
+2323,1450,Papua,Tablette (aka Vanillabeans),62.0,"5- B,S,C,V,L",3.25
+2324,1450,Vietnam,Tablette (aka Vanillabeans),60.0,"5- B,S,C,V,L",3.25
+2325,1680,Trinidad,Tablette (aka Vanillabeans),77.0,"4- B,S,C,L",2.75
+2326,2286,Vietnam,Tala,70.0,"3- B,S,C",2.75
+2327,2286,Vietnam,Tala,75.0,"3- B,S,C",3.0
+2328,1868,"Paramaribo, batch 20160043-01",Tan Ban Skrati,70.0,"2- B,S",3.25
+2329,2262,"Chuao, batch 20170714C",Taste Artisan,75.0,"4- B,S,C,V",3.0
+2330,2326,Amazonas,Taste Artisan,75.0,"3- B,S,C",3.25
+2331,2326,Piura,Taste Artisan,75.0,"3- B,S,C",4.0
+2332,1646,Sambirano,Taste Artisan aka Coleman and Davis,75.0,"4- B,S,C,V",3.0
+2333,2306,Nicaragua,Taucherli,72.0,"3- B,S,C",3.0
+2334,2306,Mexico,Taucherli,70.0,"3- B,S,C",3.25
+2335,2566,"Haiti, batch 2020SEP",Taylor Made,67.0,"3- B,S,C",2.75
+2336,180,"Dark, Stone Ground",Taza,70.0,"3- B,S,C",3.0
+2337,451,Chiapan,Taza,75.0,"3- B,S,C",2.75
+2338,785,Alto Beni,Taza,87.0,"3- B,S,C",3.25
+2339,1271,Belize,Taza,68.0,"3- B,S,C",3.0
+2340,199,Chocolatey-beta,TCHO,70.0,"5- B,S,C,V,L",2.5
+2341,280,Fruity-beta,TCHO,70.0,"5- B,S,C,V,L",2.5
+2342,280,Citrus-beta,TCHO,70.0,"5- B,S,C,V,L",2.75
+2343,284,Nutty-beta,TCHO,70.0,"5- B,S,C,V,L",2.5
+2344,387,TCHOPro 60.5,TCHO,60.0,"5- B,S,C,V,L",2.75
+2345,387,TCHOPro 68,TCHO,68.0,"5- B,S,C,V,L",3.0
+2346,915,"Peru, Ecuador",TCHO,99.0,"3- B,S,C",3.25
+2347,1716,West Africa,TCHO,62.0,"5- B,S,C,V,L",2.0
+2348,801,Concepcion,Tejas,70.0,"4- B,S,C,V",2.75
+2349,801,"Bayou Blend, Ecuador, Mad., PNG",Tejas,70.0,"4- B,S,C,V",3.0
+2350,805,Aranama,Tejas,70.0,"4- B,S,C,V",3.0
+2351,805,Presidio,Tejas,70.0,"4- B,S,C,V",3.5
+2352,817,"La Bahia, w/ cane juice",Tejas,70.0,"4- B,S,C,V",3.25
+2353,821,Capistrano,Tejas,70.0,"4- B,S,C,V",2.0
+2354,825,"La Bahia, w/ cane sugar",Tejas,70.0,"3- B,S,C",3.25
+2355,829,San Jose,Tejas,70.0,"3- B,S,C",2.75
+2356,829,Capistrano*,Tejas,70.0,"3- B,S,C",3.0
+2357,833,Espada,Tejas,70.0,"3- B,S,C",3.25
+2358,967,Espada,Tejas,70.0,"3- B,S,C",2.75
+2359,971,Concepcion*,Tejas,80.0,"4- B,S,C,V",3.0
+2360,971,San Jose,Tejas,67.0,"3- B,S,C",3.25
+2361,971,"Bahia, Floresta Azul,Good Friends Reserve#3",Tejas,70.0,"3- B,S,C",3.5
+2362,1323,"Ecuador, batch 6-5-15",Terroir,77.0,"2- B,S",3.25
+2363,1323,"Madagascar, batch 6-5-15",Terroir,67.0,"2- B,S",3.75
+2364,1323,"Uganda, batch 6-3-15",Terroir,73.0,"2- B,S",3.75
+2365,1478,Peru,Terroir,70.0,"2- B,S",2.75
+2366,1478,Belize,Terroir,70.0,"2- B,S",3.75
+2367,1478,Madagascar,Terroir,70.0,"2- B,S",3.75
+2368,1482,Ecuador,Terroir,70.0,"2- B,S",3.25
+2369,1554,Oko Caribe,Terroir,70.0,"3- B,S,C",3.5
+2370,1558,Guatemala,Terroir,70.0,"3- B,S,C",3.75
+2371,2358,Maya Mountain,Terroir,77.0,"3- B,S,C",3.0
+2372,2370,Alto Beni,Terroir,77.0,"3- B,S,C",3.25
+2373,2374,Haiti,Terroir,72.0,"3- B,S,C",2.75
+2374,1614,Peru,The Barn,70.0,"3- B,S,C",3.0
+2375,162,Madagascar,Theo,65.0,"3- B,S,C",3.5
+2376,184,Ivory Coast,Theo,75.0,"4- B,S,C,V",2.5
+2377,184,"Ghana, Kumasi",Theo,84.0,"4- B,S,C,V",3.0
+2378,188,"Venezuela; Barinos, Merida, Tachron",Theo,91.0,"2- B,S",2.0
+2379,188,"Ghana, Panama, Ecuador",Theo,75.0,"3- B,S,C",3.0
+2380,903,Congo w/ nibs,Theo,65.0,"4- B,S,C,V",3.25
+2381,1684,"Piura Select, Cacao Blanc",Theobroma,70.0,"2- B,S",3.25
+2382,2414,"Costa Esmeraldas, 2017 h., batch 28",Thistle & Rose aka Aggie USU,70.0,"2- B,S",3.5
+2383,2182,"Meta, lot 052",Tibito,70.0,"3- B,S,L",3.0
+2384,2182,"Putumayo, lot 021",Tibito,70.0,"3- B,S,L",3.25
+2385,1836,"Belize, med roast",Timo A. Meyer,72.0,"3- B,S,C",3.75
+2386,2358,Kokoa Kamili,Tiny House,71.0,"2- B,S",2.75
+2387,2510,"Galapagos, Santa Cruz Island, 2018 h.",To'ak,75.0,"3- B,S,C",3.25
+2388,1418,Manabi,To'ak (Ecuatoriana),81.0,"2- B,S",3.25
+2389,895,"Roxborough, Tobago",Tobago Estate (Pralus),70.0,"3- B,S,C",4.0
+2390,789,Venezuela,Tocoti,72.0,"3- B,S,C",2.75
+2391,789,Dominican Republic,Tocoti,74.0,"3- B,S,C",3.0
+2392,927,"Wild Bolivian, Jungle Love",Tocoti,77.0,"3- B,S,C",3.0
+2393,2060,"Alto Beni, 2016",Tosier,70.0,"3- B,S,C",3.0
+2394,2060,Maya Mtn.,Tosier,70.0,"3- B,S,C",3.5
+2395,2064,Acul du Nard,Tosier,70.0,"3- B,S,C",2.75
+2396,2270,Tumaco,Tosier,70.0,"3- B,S,C",2.75
+2397,2314,Ecuador,Tree to Bar,70.0,"2- B,S",3.5
+2398,1239,Conacado,Treehouse,72.0,"2- B,S",3.0
+2399,821,La Red,Treehouse aka Indaphoria,70.0,"3- B,S*,C",3.25
+2400,907,"Conacado, Manifesto",Treehouse aka Indaphoria,70.0,"3- B,S*,C",2.75
+2401,2526,La Colonia,Triangle Roasters,70.0,"2- B,S",3.25
+2402,2526,Pisa,Triangle Roasters,70.0,"2- B,S",3.25
+2403,2530,Guatemala,Triangle Roasters,70.0,"2- B,S",3.75
+2404,2664,Malah Na Bulong,Triangle Roasters,70.0,"2- B,S",3.25
+2405,2210,Ucayali,Tribar,73.0,"3- B,S,C",3.0
+2406,2218,"Piura, Gran Chilique",Tribar,70.0,"3- B,S,C",3.5
+2407,2470,Ucayali,Tribe,70.0,"2- B,S",3.0
+2408,2490,"Dak Lak, batch 0A08",Tribe,70.0,"2- B,S",2.75
+2409,2490,"Copan, batch 0A03",Tribe,70.0,"2- B,S",2.75
+2410,753,"Ambanja, Tsara Valley",Tsara (Cinagra),72.0,"3- B,S,C",3.5
+2411,753,Dominican Republic,twenty-four blackbirds,73.0,"2- B,S",2.75
+2412,1022,"Dominican Republic, batch 85",twenty-four blackbirds,68.0,"2- B,S",3.25
+2413,1026,"Palos Blancos, batch 97",twenty-four blackbirds,75.0,"2- B,S",2.5
+2414,1235,"Madagascar, lot 137",twenty-four blackbirds,75.0,"2- B,S",3.5
+2415,1700,Oko Caribe,twenty-four blackbirds,75.0,"2- B,S",2.75
+2416,1700,"Cedeno, lot 271",twenty-four blackbirds,75.0,"2- B,S",3.5
+2417,1996,Kokoa Kamili,twenty-four blackbirds,75.0,"2- B,S",3.25
+2418,1740,Peru,Two Ravens,60.0,"3- B,S,C",3.0
+2419,709,Dominican Republic,Un Dimanche A Paris,63.0,"3- B,S,C",3.75
+2420,2000,Dominican Republic,Uncouth,75.0,"2- B,S",2.75
+2421,2004,Tanzania,Uncouth,75.0,"2- B,S",3.0
+2422,2004,Guatemala,Uncouth,75.0,"2- B,S",3.25
+2423,1438,Matagalpa,Undone,74.0,"2- B,S",2.75
+2424,1438,"San Francisco de Macoris, Nourish",Undone,70.0,"2- B,S",3.0
+2425,1752,"Madagascar, Sassy Bar",Upchurch,72.0,"2- B,S",3.0
+2426,1752,"Tanzania, Party Bar",Upchurch,72.0,"2- B,S",3.25
+2427,1327,"Sur del Lago, Merida",Urzi,65.0,"4- B,S,C,V",3.25
+2428,1968,"Sierra Nevada, Tutu Iku",Utopick,70.0,"3- B,S,C",3.75
+2429,2210,Nugo,Utopick,70.0,"3- B,S,C",3.75
+2430,2478,"Maya Mountain, Toledo, batch 91",Vaka,74.0,"3- B,S,C",3.5
+2431,63,"Carribean, Caraibe",Valrhona,66.0,"5- B,S,C,V,L",3.0
+2432,63,"Guanaja, South America",Valrhona,70.0,"5- B,S,C,V,L",3.75
+2433,75,Gran Couva 2005 P.,Valrhona,64.0,"5- B,S,C,V,L",2.5
+2434,75,"Porcelana, Maracaibo, Palmira P. 2005",Valrhona,64.0,"5- B,S,C,V,L",3.0
+2435,75,"Sambirano, Ampamakia 2005, Millot P.",Valrhona,64.0,"5- B,S,C,V,L",3.5
+2436,117,"Araguani, Venezuela, Carribean",Valrhona,72.0,"5- B,S,C,V,L",3.0
+2437,129,Chuao 2002 P.,Valrhona,65.0,"5- B,S,C,V,L",3.75
+2438,129,Manjari,Valrhona,64.0,"5- B,S,C,V,L",4.0
+2439,147,Le Noir Extra Amer,Valrhona,85.0,"5- B,S,C,V,L",1.5
+2440,153,"Abinao, West Africa",Valrhona,85.0,"5- B,S,C,V,L",2.5
+2441,157,"Le Noir Amer, West Africa",Valrhona,71.0,"5- B,S,C,V,L",2.75
+2442,162,"Porcelana, Maracaibo, Palmira P. 2006",Valrhona,64.0,"5- B,S,C,V,L",3.25
+2443,327,Tainori,Valrhona,64.0,"5- B,S,C,V,L",3.75
+2444,370,Alpaco,Valrhona,66.0,"5- B,S,C,V,L",3.75
+2445,395,Nyangbo,Valrhona,68.0,"5- B,S,C,V,L",3.5
+2446,709,Caraque,Valrhona,56.0,"5- B,S,C,V,L",3.25
+2447,757,"Porcelana, Pedegral",Valrhona,64.0,"5- B,S,C,V,L",4.0
+2448,931,"Otucan, Grand Cru",Valrhona,69.0,"5- B,S,C,V,L",4.0
+2449,1145,"Andoa, Grand Cru blend",Valrhona,70.0,"5- B,S,C,V,L",3.5
+2450,1153,"Loma Sotavento, 2013",Valrhona,64.0,"5- B,S,C,V,L",3.5
+2451,1510,"Piura, Illanka, Quemazon",Valrhona,63.0,"5- B,S,C,V,L",4.0
+2452,1972,"Oriado, Peru, Dom. Rep",Valrhona,60.0,"3- B,S,C",3.25
+2453,963,Manhattan,Vanleer (Barry Callebaut),72.0,"3- B,S,C",2.5
+2454,963,Napa,Vanleer (Barry Callebaut),65.0,"3- B,S,C",2.75
+2455,404,Madagascar,Vao Vao (Chocolaterie Robert),72.0,"3- B,S,C",2.75
+2456,404,Madagascar,Vao Vao (Chocolaterie Robert),76.0,"4- B,S,C,V",2.75
+2457,404,Madagascar,Vao Vao (Chocolaterie Robert),80.0,"4- B,S,C,V",2.75
+2458,404,Madagascar,Vao Vao (Chocolaterie Robert),70.0,"3- B,S,C",3.0
+2459,404,Madagascar w/ nibs,Vao Vao (Chocolaterie Robert),68.0,"3- B,S,C",3.0
+2460,404,Madagascar,Vao Vao (Chocolaterie Robert),64.0,"3- B,S,C",3.25
+2461,2744,Guatemala,Vesta,78.0,"3- B,S*,C",3.5
+2462,1470,Palos Blancos,Vicuna,70.0,"2- B,S",3.25
+2463,1470,Palos Blancos + nibs,Vicuna,70.0,"2- B,S",3.25
+2464,2186,Palos Blancos,Vicuna,70.0,"2- B,S",2.75
+2465,2186,Alta Verapaz,Vicuna,70.0,"2- B,S",3.0
+2466,2190,San Francisco de Macoris,Vicuna,70.0,"2- B,S",3.25
+2467,991,"Classic, Central and S. America",Videri,70.0,"3- B,S,C",3.25
+2468,1117,"Dark, Central and S. America",Videri,90.0,"3- B,S,C",3.75
+2469,1211,Dominican Republic,Videri,90.0,"3- B,S,C",3.25
+2470,1211,Trinidad,Videri,75.0,"3- B,S,C",3.5
+2471,1227,Mindo,Videri,75.0,"3- B,S,C",3.5
+2472,2578,Chimelb,Videri,75.0,"2- B,S",2.75
+2473,2578,Zorzal,Videri,75.0,"2- B,S",3.0
+2474,2578,"Classic Dark, Ecuador-Guatemala-Dom. Rep.",Videri,70.0,"3- B,S,C",3.5
+2475,2578,Costas Esmeraldas,Videri,75.0,"2- B,S",3.5
+2476,951,"Ben Tre, Mekong Delta, MoCay",Vietcacao (A. Morin),70.0,"4- B,S,C,L",3.5
+2477,1205,San Martin,Vintage Plantations,75.0,"3- B,S,C",3.0
+2478,153,"Los Rios, Rancho Grande 2004/2007",Vintage Plantations (Tulicorp),100.0,"3- B,S,C",2.0
+2479,153,"Los Rios, Rancho Grande 2004/2007",Vintage Plantations (Tulicorp),90.0,"3- B,S,C",2.0
+2480,153,"Los Rios, Rancho Grande 2004/2007",Vintage Plantations (Tulicorp),75.0,"3- B,S,C",3.0
+2481,153,"Los Rios, Rancho Grande 2007",Vintage Plantations (Tulicorp),65.0,"3- B,S,C",3.0
+2482,1458,Sambirano Valley,Violet Sky,77.0,"2- B,S",2.75
+2483,1458,Moho River Valley,Violet Sky,77.0,"2- B,S",3.0
+2484,1458,Cuyagua,Violet Sky,77.0,"2- B,S",3.0
+2485,1458,Peru,Violet Sky,77.0,"2- B,S",3.25
+2486,1502,Cahabon,Violet Sky,77.0,"2- B,S",2.75
+2487,1720,Peru,Vivra,70.0,"5- B,S,C,V,L",2.5
+2488,1720,Ocumare,Vivra,70.0,"5- B,S,C,V,L",2.5
+2489,1724,Dominican Republic,Vivra,70.0,"5- B,S,C,V,L",3.0
+2490,2178,Alto Beni,Vivra,70.0,"5- B,S,C,V,L",2.5
+2491,2182,"Pisa, Adul de Nord",Vivra,70.0,"5- B,S,C,V,L",2.5
+2492,1756,Conacado,Wellington Chocolate Factory,70.0,"2- B,S*",3.5
+2493,1756,"Piura Blanco, Norandino",Wellington Chocolate Factory,70.0,"2- B,S*",3.5
+2494,2012,Samoa,Wellington Chocolate Factory,77.0,"2- B,S",3.0
+2495,2092,Kokoa Kamili,White Label aka Mutari,68.0,"3- B,S,C",3.0
+2496,2096,Alto Beni,White Label aka Mutari,72.0,"3- B,S,C",3.0
+2497,2622,"La Masica, 2015 harvest, b. LH74HORZConcheV2",White Label aka Mutari,74.0,"2- B,S",3.75
+2498,2622,"Garcia Estate, 2019 harvest, b. GT722162021820",White Label aka Mutari,72.0,"3- B,S,C",3.75
+2499,2626,"Kablon Farms, b. KP7417211821",White Label aka Mutari,74.0,"3- B,S,C",3.5
+2500,2626,"Semuliki, 2017-18 h., batch SU72conche22212621",White Label aka Mutari,72.0,"3- B,S,C",3.5
+2501,2764,"Costa Esmeraldas, CEconche77121620121820",White Label aka Mutari,77.0,"3- B,S,C",4.0
+2502,2768,"Bachelor's Hall, BHJ72030521040321",White Label aka Mutari,72.0,"3- B,S,C",3.75
+2503,2768,"Kerala, K172Testbatch1",White Label aka Mutari,72.0,"3- B,S,C",3.75
+2504,2768,"Chaparral, batch 12022",White Label aka Mutari,72.0,"3- B,S,C",3.5
+2505,733,Ghana,Whittakers,72.0,"3- B,S,C",2.5
+2506,1169,Amazonas,Wilkie's Organic,75.0,"3- B,S,C",2.5
+2507,1169,Amazonas,Wilkie's Organic,89.0,"3- B,S,C",2.75
+2508,1169,Tumbes,Wilkie's Organic,75.0,"3- B,S,C",3.25
+2509,1173,Amazonas w/ nibs,Wilkie's Organic,75.0,"3- B,S,C",2.75
+2510,457,San Martin,Willie's Cacao,70.0,"3- B,S,C",3.0
+2511,457,Rio Caribe,Willie's Cacao,72.0,"3- B,S,C",3.25
+2512,593,Sambirano,Willie's Cacao,71.0,"3- B,S,C",3.0
+2513,593,Hacienda Las Trincheras,Willie's Cacao,72.0,"3- B,S,C",3.5
+2514,593,Java,Willie's Cacao,69.0,"3- B,S,C",3.75
+2515,1109,"Java, Indonesian Black",Willie's Cacao,100.0,"3- B,S,C",2.25
+2516,1227,Los Llanos,Willie's Cacao,88.0,"3- B,S,C",3.0
+2517,1848,Los Llanos,Willie's Cacao,70.0,"3- B,S,C",4.0
+2518,1912,"Guasare, Zulia Prov., 2015, batch 124",Wm,74.0,"3- B,S,C",3.0
+2519,1912,"Wild Beniano, 2016, batch 128, Heirloom",Wm,76.0,"3- B,S,C",3.5
+2520,1916,"Ghana, 2013, batch 129",Wm,75.0,"3- B,S,C",3.75
+2521,2346,Porcelana,Wm,70.0,"3- B,S,C",3.5
+2522,2406,"Maya Mountain, 2017, batch 255",Wm,68.0,"3- B,S,C",3.25
+2523,2652,Dominican Republic,Wm,70.0,"3- B,S,C",3.5
+2524,741,Ocumare,Woodblock,70.0,"2- B,S",4.0
+2525,769,La Red,Woodblock,70.0,"2- B,S",3.5
+2526,825,Ecuador,Woodblock,70.0,"2- B,S",2.5
+2527,825,Costa Rica,Woodblock,70.0,"2- B,S",3.0
+2528,951,"Sambirano, batch 1",Woodblock,70.0,"3- B,S,C",3.25
+2529,1042,"Camino Verde P., Balao, Guayas, batch 1",Woodblock,70.0,"2- B,S",3.25
+2530,1042,"Gran Couva, batch 1",Woodblock,70.0,"2- B,S",3.5
+2531,1243,"Maranon, Cajamarca",Woodblock,70.0,"2- B,S",3.0
+2532,2656,"Kokoa Kamili, batch 23",Woodblock,70.0,"2- B,S",3.0
+2533,1057,Hispaniola,Xocolat,66.0,"5- B,S,C,L,Sa",3.0
+2534,2374,Hacienda San Jose,Xocolatisimo,65.0,"4- B,S,C,L",2.75
+2535,2374,Hacienda San Jose,Xocolatisimo,70.0,"4- B,S,C,L",3.25
+2536,2378,Hacienda San Jose,Xocolatisimo,75.0,"4- B,S,C,L",3.0
+2537,2518,"San Martin de Pangoa, batch 46",Xocolatl,70.0,"2- B,S",3.5
+2538,2522,"Kokoa Kamili, Kilombero Valley, batch 1",Xocolatl,73.0,"2- B,S",3.25
+2539,2522,"Matagalpa, batch 57",Xocolatl,72.0,"2- B,S",3.5
+2540,1948,"Hispaniola, batch 170104",Xocolla,70.0,"2- B,S",2.5
+2541,1948,"Sambirano, batch 170102",Xocolla,70.0,"2- B,S",2.75
+2542,2618,Rio Claro,Zac Squared,70.0,"3- B,S,C",3.25
+2543,2618,Ben Tre,Zac Squared,70.0,"3- B,S,C",3.5
+2544,2618,Zorzal,Zac Squared,70.0,"3- B,S,C",3.5
+2545,2700,"Tranquilidad, wild Bolivia",Zacharias,70.0,"3- B,S,C",3.0
+2546,1574,"Papua New Guinea, Batch 2",Zak's,70.0,"3- B,S,C",3.0
+2547,1578,"Dominican Republic, Batch D2",Zak's,70.0,"3- B,S,C",3.25
+2548,1578,"Madagascar, Batch 2",Zak's,70.0,"3- B,S,C",3.25
+2549,1578,"Peru, Batch 1",Zak's,70.0,"3- B,S,C",3.25
+2550,1578,"Belize, Batch 2",Zak's,70.0,"3- B,S,C",3.5
+2551,1582,"House Blend, Batch 2",Zak's,60.0,"3- B,S,C",3.0
+2552,1820,"Millot P., Ambanja",Zart Pralinen,70.0,"3- B,S,C",3.5
+2553,1824,UNOCACE,Zart Pralinen,70.0,"3- B,S,C",2.75
+2554,1824,San Juan Estate,Zart Pralinen,85.0,"3- B,S,C",2.75
+2555,1824,"Kakao Kamili, Kilombero Valley",Zart Pralinen,85.0,"3- B,S,C",3.0
+2556,1824,"Kakao Kamili, Kilombero Valley",Zart Pralinen,70.0,"3- B,S,C",3.5
+2557,1880,"San Juan Estate, Gran Couva",Zart Pralinen,78.0,"2- B,S",3.5
+2558,697,Alto Beni,Zokoko,68.0,"4- B,S,C,L",3.5
+2559,701,Tokiala,Zokoko,66.0,"4- B,S,C,L",3.5
+2560,701,"Tranquilidad, Baures",Zokoko,72.0,"4- B,S,C,L",3.75
+2561,1716,Guadalcanal,Zokoko,78.0,"4- B,S,C,L",3.75
+2562,1780,Goddess Blend,Zokoko,65.0,"5- B,S,C,V,L",3.25
+2563,2044,"Jeru Antiguo, batch jan705, 2 turns",Zoto (Chocolatoa),72.0,"3- B,S,C",3.0
+2564,2048,"El Castillero, batch ca1705, 3 turns",Zoto (Chocolatoa),70.0,"3- B,S,C",3.75
+2565,2064,Rugoso,Zoto (Chocolatoa),75.0,"3- B,S,C",3.25
+2566,2230,"Kilimamwenza, Ituri Province",Zoto (Chocolatoa),68.0,"3- B,S*,C",3.0
+2567,486,"Brazil, Mitzi Blue",Zotter,65.0,"4- B,S*,C,Sa",3.0
+2568,647,Peru,Zotter,70.0,"4- B,S*,C,Sa",3.75
+2569,749,Congo,Zotter,65.0,"4- B,S*,C,Sa",3.0
+2570,749,Kerala State,Zotter,65.0,"4- B,S*,C,Sa",3.5
+2571,781,Kerala State,Zotter,62.0,"4- B,S*,C,Sa",3.25
+2572,801,"Bocas del Toro, Cocabo Co-op",Zotter,72.0,"4- B,S*,C,Sa",3.5
+2573,801,Amazonas Frucht,Zotter,65.0,"4- B,S*,C,Sa",3.5
+2574,875,"Satipo Pangoa region, 16hr conche",Zotter,70.0,"4- B,S*,C,Sa",3.0
+2575,875,"Satipo Pangoa region, 20hr conche",Zotter,70.0,"4- B,S*,C,Sa",3.5
+2576,875,"Loma Los Pinos, Yacao region, D.R.",Zotter,62.0,"4- B,S*,C,Sa",3.75
+2577,879,El Oro,Zotter,75.0,"4- B,S*,C,Sa",3.0
+2578,879,Huiwani Coop,Zotter,75.0,"4- B,S*,C,Sa",3.0
+2579,879,El Ceibo Coop,Zotter,90.0,"4- B,S*,C,Sa",3.25
+2580,879,Santo Domingo,Zotter,70.0,"4- B,S*,C,Sa",3.75
+2581,883,"Kongo, Highlands",Zotter,68.0,"4- B,S*,C,Sa",3.25
+2582,883,"Indianer, Raw",Zotter,58.0,"4- B,S*,C,Sa",3.5
+2583,1205,Raw,Zotter,80.0,"4- B,S*,C,Sa",2.75
+2584,1996,"APROCAFA, Acandi",Zotter,75.0,"3- B,S,C",3.75
+2585,2036,"Dry Aged, 30 yr Anniversary bar",Zotter,75.0,"3- B,S,C",3.0
+2586,2170,Mountains of the Moon,Zotter,70.0,"3- B,S,C",3.25
+2587,2170,Maya Mtn,Zotter,72.0,"3- B,S,C",3.5
