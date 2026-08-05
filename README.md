@@ -9,8 +9,8 @@ This project explores rating trends for various chocolate bars based on their in
 
 ## Data Sources
 
-Both datasets were obtained from Kaggle.com. 
-https://www.kaggle.com/datasets/nyagami/chocolate-bar-ratings-2022
+Both datasets were obtained from Kaggle.com.     
+https://www.kaggle.com/datasets/nyagami/chocolate-bar-ratings-2022    
 https://www.kaggle.com/datasets/schmoyote/coffee-reviews-dataset?select=simplified_coffee.csv
 
 
@@ -40,7 +40,7 @@ One insight from this analysis indicates that most of the chocolate bars with 60
 
 ## Authors
 
-- [Allison Dobbs, Data Analysis Student at Code:You](https://github.com/A11isonD/Chocolate_bar_ratings_2022_data_exploration)
+[Allison Dobbs, Data Analysis Student at Code:You](https://github.com/A11isonD/Chocolate_bar_ratings_2022_data_exploration)
 
 
 ## License
