@@ -28,9 +28,9 @@ Bing search in Microsoft Edge returns AI-generated content (in addition to tradi
 3. Install the required Python packages:      
     pip install -r requirements.txt        
 
-4. Open chocolate_bar_ratings_exploration.ipynb in a Jupyter notebook.    
+4. Open and run chocolate_bar_ratings_exploration.ipynb in a Jupyter notebook.    
 
-5. Open chocolate_bar_ratings_plots.ipynb in a Jupyter notebook.  
+5. Open and run chocolate_bar_ratings_plots.ipynb in a Jupyter notebook.  
 
 
 ## Example Output
