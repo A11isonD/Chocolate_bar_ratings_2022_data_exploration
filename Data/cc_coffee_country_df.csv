@@ -1,0 +1,589 @@
+,rating,company,loc_country
+0,92,Revel Coffee,United States
+1,92,Roast House,United States
+2,94,Big Creek Coffee Roasters,United States
+3,93,Red Rooster Coffee Roaster,United States
+4,93,Willoughby's Coffee & Tea,United States
+5,93,Black Oak Coffee Roasters,United States
+6,93,Wonderstate Coffee,United States
+7,94,Reunion Island Coffee,Canada
+8,90,Old Soul Co.,United States
+9,92,A.R.C.,Hong Kong
+10,91,A.R.C.,Hong Kong
+11,93,Paradise Roasters,United States
+12,97,Hula Daddy Kona Coffee,Hawai'i
+13,95,Kakalove Cafe,Taiwan
+14,92,Jackrabbit Java,United States
+16,94,Propeller Coffee,Canada
+17,93,Chocolate Fish Coffee Roasters,United States
+18,93,Lexington Coffee Roasters,United States
+19,92,Big Creek Coffee Roasters,United States
+20,93,Noble Coffee Roasting,United States
+21,92,Ben's Beans,United States
+22,89,Espresso Republic,United States
+23,93,Roast House,United States
+24,95,Good Folks Coffee,United States
+25,94,Flight Coffee Co.,United States
+26,94,Green Stone Coffee,Taiwan
+27,96,Willoughby's Coffee & Tea,United States
+28,94,Equator Coffees & Teas,United States
+29,95,Hula Daddy Kona Coffee,Hawai'i
+30,95,Klatch Coffee,United States
+32,93,Ka'u Specialty Coffee,Hawai'i
+33,93,Simon Hsieh’s Aroma Roast Coffees,Taiwan
+34,95,PT's Coffee Roasting,United States
+35,93,PT's Coffee Roasting,United States
+36,92,Hala Tree Kona Coffee,Hawai'i
+38,94,Barrington Coffee Roasting,United States
+39,92,Espresso Republic,United States
+40,91,The WestBean Coffee Roasters,United States
+41,90,Mystic Monk Coffee,United States
+42,95,JBC Coffee Roasters,United States
+43,93,"Good Chance Biotechnology, Ltd.",Taiwan
+45,90,Ka'u Specialty Coffee,Hawai'i
+46,94,Red Rooster Coffee Roaster,United States
+47,92,Manzanita Roasting Company,United States
+48,95,Bird Rock Coffee Roasters,United States
+50,95,Temple Coffee and Tea,United States
+51,92,Temple Coffee and Tea,United States
+52,95,Simon Hsieh’s Aroma Roast Coffees,Taiwan
+53,92,The WestBean Coffee Roasters,United States
+55,93,Kakalove Cafe,Taiwan
+56,94,Kakalove Cafe,Taiwan
+58,94,Durango Coffee Company,United States
+59,93,JBC Coffee Roasters,United States
+60,93,Durango Coffee Company,United States
+61,96,Barrington Coffee Roasting,United States
+62,90,Barrington Coffee Roasting,United States
+63,91,Caffe Luxxe,United States
+64,92,Java Blend Coffee Roasters,Canada
+65,94,Big Shoulders Coffee,United States
+66,93,Caffeic,United States
+68,92,Mr. Espresso,United States
+70,94,Paradise Roasters,United States
+73,93,Greater Goods Coffee Roasters,United States
+74,93,Tico Coffee Roasters,United States
+76,94,Roasters Note,Taiwan
+78,94,JBC Coffee Roasters,United States
+81,92,Evie's Cafe,Taiwan
+83,91,Espresso Republic,United States
+84,92,Soul Work Coffee,United States
+85,94,Coffee Please,Taiwan
+86,95,Dragonfly Coffee Roasters,United States
+88,93,Peri Coffee,United States
+89,94,Moore Coffee,United States
+90,94,Hula Daddy Kona Coffee,Hawai'i
+91,93,Argyle Coffee Roasters,United States
+92,93,Rusty's Hawaiian Coffee,Hawai'i
+93,93,Bluebeard Coffee Roasters,United States
+94,94,Dragonfly Coffee Roasters,United States
+95,92,Green Stone Coffee,Taiwan
+96,92,Direct Coffee,Taiwan
+98,92,Lexington Coffee Roasters,United States
+99,92,Coffee Please,Taiwan
+100,91,Big Creek Coffee Roasters,United States
+101,91,Nook Bakery & Coffee Bar,United States
+102,91,Novel Coffee Roasters,United States
+103,90,Back Home Coffee,Taiwan
+104,93,Old Soul Co.,United States
+105,93,Auto Coffee,Taiwan
+106,92,Corvus Coffee Roasters,United States
+107,93,The Curve Coffee Roasting Co.,Taiwan
+108,92,Mustard Seed Cafe,Taiwan
+109,90,Big Creek Coffee Roasters,United States
+110,93,Olympia Coffee Roasting,United States
+112,92,Kakalove Cafe,Taiwan
+115,93,Small Eyes Cafe,Taiwan
+117,94,Magnolia Coffee,United States
+118,95,Small Eyes Cafe,Taiwan
+119,95,Taokas Coffee,Taiwan
+120,95,Durango Coffee Company,United States
+121,93,States Coffee & Mercantile,United States
+124,90,Espresso Republic,United States
+125,93,Temple Coffee and Tea,United States
+126,91,Temple Coffee and Tea,United States
+129,92,Crown & Fancy,Taiwan
+130,95,Green Stone Coffee,Taiwan
+135,91,Soul Work Coffee,United States
+137,92,Argyle Coffee Roasters,United States
+138,95,Barrington Coffee Roasting,United States
+139,92,Barrington Coffee Roasting,United States
+143,93,Big Shoulders Coffee,United States
+144,93,Big Creek Coffee Roasters,United States
+149,93,Revel Coffee,United States
+150,94,Temple Coffee and Tea,United States
+154,91,JBC Coffee Roasters,United States
+158,96,Dragonfly Coffee Roasters,United States
+159,94,Revel Coffee,United States
+161,93,Mystic Monk Coffee,United States
+162,93,Sweet Bloom Coffee Roasters,United States
+164,92,Desert Sun Coffee Roasters,United States
+166,95,Simon Hsieh's Aroma Roast Coffees,Taiwan
+167,94,Simon Hsieh's Aroma Roast Coffees,Taiwan
+168,96,Kakalove Cafe,Taiwan
+170,90,North Coast Coffee Roasting,United States
+171,94,Klatch Coffee,United States
+172,92,Grounds for Change,United States
+173,91,Steady State Roasting Company,United States
+174,95,Branch Street Coffee Roasters,United States
+177,91,Barrington Coffee Roasting,United States
+180,93,GK Coffee,Taiwan
+182,90,Lexington Coffee Roasters,United States
+185,95,Fumi Coffee,Taiwan
+186,94,Bird Rock Coffee Roasters,United States
+187,93,Augie's Coffee Roasters,United States
+188,93,Barrington Coffee Roasting,United States
+191,95,Ho Soo Tsai,Taiwan
+192,94,Joe Van Gogh Coffee,United States
+194,94,Willoughby's Coffee & Tea,United States
+197,93,Ben's Beans,United States
+201,93,Bird Rock Coffee Roasters,United States
+202,96,Hula Daddy Kona Coffee,Hawai'i
+203,93,Topeca Coffee Roasters,United States
+204,94,Small Eyes Cafe,Taiwan
+209,92,JBC Coffee Roasters,United States
+215,92,Speckled Ax,United States
+216,92,Steadfast Coffee,United States
+217,92,Broadsheet Coffee,United States
+218,92,De Clieu Coffee,Taiwan
+220,94,Turnstile Coffee Roasters,United States
+222,93,Blues Brew Coffee,Taiwan
+223,93,Flight Coffee Co.,United States
+224,95,Temple Coffee Roasters,United States
+225,93,Temple Coffee Roasters,United States
+228,97,Bird Rock Coffee Roasters,United States
+229,94,Kaffetre,Taiwan
+233,94,Temple Coffee Roasters,United States
+234,92,Origin Coffee Roasters,Hawai'i
+235,91,Mystic Monk Coffee,United States
+236,92,Speedwell Coffee,United States
+238,93,Gracenote Coffee Roasters,United States
+239,93,Tandem Coffee,United States
+242,93,PT's Coffee Roasting Co.,United States
+244,93,Hala Tree Kona Coffee,Hawai'i
+247,94,Greater Goods Coffee Roasters,United States
+248,94,States Coffee & Mercantile,United States
+249,94,Santos Coffee,Hawai'i
+250,97,Dragonfly Coffee Roasters,United States
+255,93,Plat Coffee Roastery,Hong Kong
+257,90,Jampot Poorock Abbey,United States
+258,92,Temple Coffee Roasters,United States
+259,95,Cafe Virtuoso,United States
+262,95,Small Eyes Café,Taiwan
+263,95,PT's Coffee Roasting Co.,United States
+265,93,Fumi Coffee,Taiwan
+269,94,Equator Coffees,United States
+270,93,Big Island Coffee Roasters,Hawai'i
+271,93,Hula Daddy Kona Coffee,Hawai'i
+272,93,Nine Point Coffee,Taiwan
+273,92,Rusty's Hawaiian,Hawai'i
+274,92,Three Chairs Specialty Turkish Coffee,United States
+275,91,Beanfruit Coffee Co.,United States
+276,94,Dou Zhai Coffee & Roast,Taiwan
+278,93,Baba Java Coffee,United States
+280,95,Direct Coffee,Taiwan
+282,94,Steady State Roasting Company,United States
+284,93,Cafe Virtuoso,United States
+287,96,Bird Rock Coffee Roasters,United States
+288,92,Bird Rock Coffee Roasters,United States
+290,97,JBC Coffee Roasters,United States
+292,92,SkyTop Coffee,United States
+298,94,Caffe Luxxe,United States
+300,90,Kauai Coffee Company,Hawai'i
+302,93,Pro Aroma Enterprise Coffee,Taiwan
+303,93,Good Chance Biotechnology,Taiwan
+311,92,Dinwei Cafe,Taiwan
+312,91,Deeper Roots Coffee,United States
+313,91,Duluth Coffee,United States
+314,93,94 Fresh Coffee,Taiwan
+315,94,Lexington Coffee Roasters,United States
+321,96,Kakalove Café,Taiwan
+323,94,GK Coffee,Taiwan
+324,94,Mudhouse Coffee Roasters,United States
+328,94,Jackrabbit Java,United States
+331,94,MJ Bear Coffee,Taiwan
+332,93,Coffeebar,United States
+333,93,Pedestrian Coffee,United States
+339,92,Durango Coffee Company,United States
+341,94,Branch Street Coffee Roasters,United States
+343,93,Collage Coffee,United States
+344,93,Manzanita Roasting Company,United States
+345,92,Lucky Cafe,Taiwan
+346,92,Small Eyes Cafe,Taiwan
+349,91,Baba Java Coffee,United States
+350,96,Campos Coffee,Australia
+351,92,South Slope Coffee Roasters,United States
+352,92,Souvenir Coffee,United States
+355,93,Klatch Coffee,United States
+360,93,Black & White Coffee Roasters,United States
+361,95,Quartet Kaffe,Taiwan
+362,93,Amavida Coffee Roasters,United States
+364,93,Quartet Kaffe,Taiwan
+365,92,Big Shoulders Coffee,United States
+366,91,MK Coffee Roasters,Taiwan
+367,90,Klatch Coffee,United States
+368,93,Chez Cafe,Taiwan
+373,95,Red Rooster Coffee Roaster,United States
+377,93,Battlecreek Coffee Roasters,United States
+378,92,Press House Coffee,United States
+379,95,GK Coffee,Taiwan
+382,96,Paradise Roasters,United States
+383,95,Paradise Roasters,United States
+384,93,Guorizi Zhai Coffee,Taiwan
+385,94,Black Coffee In Black Jar,Taiwan
+386,92,Black Coffee In Black Jar,Taiwan
+388,91,Rotate Fun Club,Taiwan
+389,90,Black Coffee In Black Jar,Taiwan
+390,92,Larry's Coffee,United States
+391,90,Joe Van Gogh,United States
+392,90,Signature Reserve,United States
+393,88,Eight O'Clock Coffee,United States
+394,87,Starbucks Coffee,United States
+396,94,Euphora Coffee,Taiwan
+397,91,Euphora Coffee,Taiwan
+401,92,Cloud City Coffee,United States
+406,91,Jackrabbit Java,United States
+407,90,JBC Coffee Roasters,United States
+408,94,Quartet Kaffe,Taiwan
+410,93,Counter Culture Coffee,United States
+411,92,Equator Coffees,United States
+414,92,Jampot Poorrock Abbey,United States
+415,91,Jampot Poorrock Abbey,United States
+417,94,Kona Farm Direct,Hawai'i
+418,91,Kona Farm Direct,Hawai'i
+419,90,Kona Farm Direct,Hawai'i
+421,92,Paradise Roasters,United States
+422,96,Revel Coffee,United States
+423,94,Indaba Coffee Roasters,United States
+424,93,Fire Ridge Coffee,United States
+426,92,Bluebeard Coffee Roasters,United States
+427,92,Dapper & Wise,United States
+429,94,PT's Coffee Roasting Co.,United States
+430,92,Quartet Kaffe,Taiwan
+431,94,BeanFruit Coffee Co.,United States
+436,93,Indaba Coffee Roasters,United States
+437,91,modcup coffee,United States
+445,91,Kona Roasted,Hawai'i
+446,96,Red Rooster Coffee Roaster,United States
+447,95,Greater Goods Coffee Roasters,United States
+450,94,modcup coffee,United States
+451,93,The WestBean Coffee Roasters,United States
+452,94,Plat Coffee Roastery,Hong Kong
+453,93,Cafe Grumpy,United States
+456,92,Vennel Coffee,Taiwan
+457,94,Big Island Coffee Roasters,Hawai'i
+459,93,Rusty's Hawaiian,Hawai'i
+461,93,Oak & Bond Coffee Company,United States
+468,93,Corvus Coffee Roasters,United States
+475,92,States Coffee & Mercantile,United States
+477,96,JBC Coffee Roasters,United States
+481,95,Hala Tree Kona Coffee,Hawai'i
+490,92,RamsHead Coffee Roasters,United States
+491,94,Conscious Cup Coffee Roasters,United States
+493,90,Jackrabbit Java,United States
+496,93,Atom Coffee Roasters,Taiwan
+497,94,David's Nose,Taiwan
+499,95,94 Fresh Coffee,Taiwan
+500,93,Brain Helmet,United States
+501,90,Brain Helmet,United States
+502,93,Atomic Coffee Roasters,United States
+504,95,Equiano Coffee,United States
+505,94,BLK & Bold,United States
+506,94,Merge Coffee Company,United States
+507,94,Portrait Coffee,United States
+508,93,Southeastern Roastery,United States
+509,92,Dr. Bean's Coffee Roasters,United States
+510,94,Drink Coffee Do Stuff,United States
+511,93,SkyTop Coffee,United States
+515,91,Emiliani Coffee,United States
+516,90,Emiliani Coffee,United States
+517,95,Indaba Coffee Roasters,United States
+519,91,Indaba Coffee Roasters,United States
+522,94,Wonderstate Coffee,United States
+524,92,CofFeeling,Taiwan
+527,93,De Clieu Coffee,Taiwan
+529,93,Dory Coffee Roasters,Taiwan
+533,94,Peach Coffee Roasters,United States
+541,93,David's Nose,Taiwan
+543,93,Kaldi's Coffee,United States
+544,92,Highwire Coffee Roasters,United States
+547,94,Amavida Coffee Roasters,United States
+551,84,Rooster Roastery,Hawai'i
+555,94,Bona Kafo Roastery,Taiwan
+558,94,Miranda Farms,Hawai'i
+563,92,Jaunt Coffee Roasters,United States
+565,91,Jaunt Coffee Roasters,United States
+566,90,Jaunt Coffee Roasters,United States
+567,95,Equator Coffees,United States
+568,95,Flight Coffee Co.,United States
+569,95,Coffee Please,Taiwan
+570,95,DoDo Kaffa,Taiwan
+571,94,Evie's Cafe,Taiwan
+574,94,Pop Coffee Works,Canada
+576,94,Steady State Roasting,United States
+577,94,States Coffee,United States
+578,94,El Gran Café,Guatemala
+579,93,El Gran Café,Guatemala
+580,92,El Gran Café,Guatemala
+581,90,El Gran Café,Guatemala
+582,89,El Gran Café,Guatemala
+583,86,El Gran Café,Guatemala
+585,97,Kakalove Cafe,Taiwan
+590,94,RamsHead Coffee Roasters,United States
+594,94,Stereo Coffee Roasters,Canada
+599,92,Three Keys Coffee,United States
+600,96,Simon Hsieh’s Aroma Roast Coffees,Taiwan
+606,94,Singsun Coffee,Taiwan
+607,93,Singsun Coffee,Taiwan
+608,94,Pro Aroma Enterprise Coffee,Taiwan
+611,93,Kona Farm Direct,Hawai'i
+613,92,Kona Farm Direct,Hawai'i
+618,91,Big Shoulders Coffee,United States
+619,94,Cafe Virtuoso,United States
+624,93,Green Stone Coffee,Taiwan
+625,93,Equiano Coffee,United States
+626,95,Vennel Coffee,Taiwan
+627,94,Peacock Coffee Roaster,Taiwan
+632,92,Cafe Kreyol,United States
+635,94,Hala Tree Kona Coffee,Hawai'i
+639,95,Lexington Coffee Roasters,United States
+643,93,Merge Coffee Company,United States
+644,94,"Good Chance Biotechnology, Ltd.",Taiwan
+646,94,Nostalgia Coffee Roasters,United States
+647,95,Simon Hsieh Aroma Roast Coffees,Taiwan
+648,94,Simon Hsieh Aroma Roast Coffees,Taiwan
+650,91,Drink Coffee Do Stuff,United States
+651,93,RamsHead Coffee Roasters,United States
+653,93,Sunny's Coffee,Japan
+654,93,Coffee Please,Taiwan
+657,94,Normandy Coffee Thai Cuisine,Taiwan
+658,92,Kauai Coffee Company,Hawai'i
+659,96,Big Shoulders Coffee,United States
+660,95,Souvenir Coffee,United States
+665,93,Oceana Coffee,United States
+667,91,Paradise Roasters,United States
+669,90,Paradise Roasters,United States
+675,93,modcup coffee,United States
+676,94,Blues Brew Coffee,Taiwan
+677,94,Brioso Coffee,United States
+679,95,One Fresh Cup,Taiwan
+684,93,Nostalgia Coffee Roasters,United States
+685,93,Souvenir Coffee,United States
+689,95,RD Cafe,Taiwan
+695,93,Badbeard’s Microroastery,United States
+697,93,Regent Coffee,United States
+698,93,Euphora Coffee,Taiwan
+703,96,GK Coffee,Taiwan
+706,90,San Francisco Bay Coffee,United States
+707,94,Old World Coffee Lab,United States
+709,96,SOT Coffee Roaster,Japan
+710,93,Wildgoose Coffee Roasters,United States
+713,92,1951 Coffee Company,United States
+719,91,Lina Premium Coffee,United States
+722,91,RanGuo Coffee,Taiwan
+723,92,San Francisco Bay Coffee,United States
+724,91,Dragonfly Coffee Roasters,United States
+725,94,Atom Coffee Roasters,Taiwan
+727,93,Roadmap CoffeeWorks,United States
+731,92,True Coffee Roasters,United States
+734,93,Coffee By Design,United States
+735,92,Indaba Coffee Roasters,United States
+738,95,Willoughby's Coffee & Tea,United States
+743,93,Origin Coffee Roasters,Hawai'i
+744,91,Islamorada Coffee Roasters,United States
+755,91,San Francisco Bay Coffee,United States
+756,92,Cheer Beans,Taiwan
+761,92,Thanksgiving Coffee Company,United States
+762,92,Sunny's Coffee,Japan
+763,91,Sunny's Coffee,Japan
+764,90,Sunny's Coffee,Japan
+769,93,Jade Cafe,Taiwan
+770,94,Big Shoulders Coffee ,United States
+776,93,Geisha Coffee Roaster,United States
+778,93,Steady State Roasting,United States
+784,95,Big Shoulders Coffee,United States
+786,94,Lina Premium Coffee,United States
+787,90,Lina Premium Coffee,United States
+789,93,Ming's Coffee Playroom,Taiwan
+791,95,Pro Aroma Enterprise Coffee,Taiwan
+793,94,Three Keys Coffee,United States
+794,93,Olympia Coffee,United States
+795,93,Mamechamame Coffee,Japan
+796,92,Valverde Coffee Roasters,United States
+803,93,Le Brewlife,Taiwan
+805,95,Rusty’s Hawaiian,Hawai'i
+807,93,Peach Coffee Roasters,United States
+813,94,SOT Coffee Roaster,Japan
+814,93,Dragonfly Coffee Roasters,United States
+819,94,LECO Coffee,Taiwan
+820,93,EK Roast Studio,Taiwan
+821,93,LECO Coffee,Taiwan
+822,94,EK Roast Studio,Taiwan
+824,94,Home in Harmony,Taiwan
+826,90,Cafe Kreyol,United States
+828,92,Baba Java Coffee,United States
+830,94,Taster’s Coffee,Taiwan
+831,93,Drink Coffee Do Stuff,United States
+833,91,Mr. Chao Coffee,Taiwan
+835,97,Barrington Coffee Roasting,United States
+843,93,Novo Coffee Roasters,United States
+844,92,Qin Mi Coffee,Taiwan
+846,93,Hidden Coffee HK,Hong Kong
+847,91,Hidden Coffee HK,Hong Kong
+853,93,Jackrabbit Java,United States
+854,92,Fresh Roasted Coffee,United States
+858,93,Mr. Chao Coffee,Taiwan
+860,91,Metropolis Coffee,United States
+861,90,Metropolis Coffee,United States
+862,90,Le Brewlife,Taiwan
+863,93,Santos Coffee,Hawai'i
+869,94,Roadmap CoffeeWorks,United States
+870,92,Coffee by Design,United States
+872,95,Jaunt Coffee Roasters,United States
+875,95,Cafe Unido,United States
+878,93,Qima Coffee,England
+879,92,Euphora Coffee,Taiwan
+883,92,Kona Love Coffee Co.,Hawai'i
+884,90,Kona Love Coffee Co.,Hawai'i
+899,92,Mystic Monk Coffee,United States
+905,94,Samlin Coffee,Taiwan
+910,95,Genesis Coffee Lab,United States
+912,93,Jaunt Coffee Roasters,United States
+914,95,Nostalgia Coffee Roasters,United States
+915,94,Red Rock Roasters,United States
+916,94,Oceana Coffee,United States
+919,95,Chromatic Coffee,United States
+921,94,Omine Coffee,Taiwan
+922,90,Coffee By Design,United States
+925,93,Cafe Kreyol,United States
+928,91,Cafe Kreyol,United States
+930,96,Taster’s Coffee,Taiwan
+932,97,Paradise Roasters,United States
+933,96,Genesis Coffee Lab,United States
+941,91,Coffee By Design,United States
+942,92,Old Soul Co.,United States
+943,90,Mute Roaster,China
+944,90,El Gran Cafe,Guatemala
+945,93,Luv Moshi,Taiwan
+946,92,El Gran Cafe,Guatemala
+947,87,El Gran Cafe,Guatemala
+949,88,El Gran Cafe,Guatemala
+953,89,El Gran Cafe,Guatemala
+954,96,Difference Coffee,England
+956,93,States Coffee,United States
+959,94,VERYTIME,Taiwan
+960,96,Simon Hsieh Aroma Roast Coffees,Taiwan
+963,92,Old World Coffee Lab,United States
+965,93,Old World Coffee Lab,United States
+970,94,Jaunt Coffee Roasters,United States
+973,92,Conscious Cup Coffee Roasters,United States
+974,93,Conscious Cup Coffee Roasters,United States
+976,95,modcup coffee,United States
+977,94,Corvus Coffee Roasters,United States
+980,92,Folklore Coffee,United States
+982,91,Kona Love Coffee Co.,Hawai'i
+983,94,Cafe Kreyol,United States
+992,95,Taster's Coffee,Taiwan
+995,93,Home in Harmony,Taiwan
+996,94,Cafe Red Bean Shop,Taiwan
+998,91,Battlecreek Coffee,United States
+1004,94,Satur Specialty Coffee,Taiwan
+1005,93,VERYTIME,Taiwan
+1007,93,Satur Specialty Coffee,Taiwan
+1008,91,VERYTIME,Taiwan
+1012,94,Tipico Coffee,United States
+1013,93,Tipico Coffee,United States
+1017,94,Monarch Coffee,Hawai'i
+1021,92,Monarch Coffee,Hawai'i
+1022,91,Monarch Coffee,Hawai'i
+1024,92,Ba Yang Coffee,Taiwan
+1027,94,SkyTop Coffee,United States
+1032,93,Min Enjoy Cafe,Taiwan
+1039,94,Rusty's Hawaiian,Hawai'i
+1040,93,Chaos Coffee Company,United States
+1042,92,Peet's Coffee,United States
+1043,90,Starbucks Coffee,United States
+1049,92,Nostalgia Coffee Roasters,United States
+1052,94,Roadmap Coffeeworks,Kenya
+1059,95,Ramshead Coffee Roasters,United States
+1062,94,Cozy House Coffee,Taiwan
+1063,93,Cozy House Coffee,Taiwan
+1067,93,Yellow Brick Coffee,United States
+1068,94,Coffee by Design,United States
+1069,93,Coffee by Design,United States
+1074,93,Spix's Cafe,Taiwan
+1079,92,1980 CAFE,Taiwan
+1080,90,1980 CAFE,Taiwan
+1081,92,Hub Coffee Roasters,United States
+1082,90,Hub Coffee Roasters,United States
+1092,93,Rusty Dog Coffee,United States
+1093,93,Modern Times Coffee,United States
+1099,95,Felala Coffee Lab,Taiwan
+1107,92,Roadmap CoffeeWorks,United States
+1108,95,Mostra Coffee,United States
+1109,94,Buon Caffe,Taiwan
+1110,93,Mostra Coffee,United States
+1111,93,Buon Caffe,Taiwan
+1112,92,Buon Caffe,Taiwan
+1115,93,The Reverse Orangutan,United States
+1116,93,Espresso Republic,United States
+1117,93,Branch Street Coffee Roasters,United States
+1122,94,Regent Coffee,United States
+1126,92,Cafe Fugu Roasters,Taiwan
+1128,92,Trident Coffee,United States
+1129,90,Trident Coffee,United States
+1132,93,1980 CAFE,Taiwan
+1135,95,Moore Coffee,United States
+1137,93,St1 Cafe/Work Room,Taiwan
+1139,94,Coffee By Design,United States
+1140,92,Coffee By Design,United States
+1144,92,Desolate Café,Taiwan
+1146,92,CafeTaster,Taiwan
+1152,95,Roadmap CoffeeWorks,United States
+1155,95,Per’la Specialty Roasters,United States
+1156,93,Cup to Cup Coffee Roasters,United States
+1157,93,Evie's Cafe,Taiwan
+1159,91,Water Street Coffee,United States
+1162,93,Kona View Coffee,Hawai'i
+1164,93,Muka Coffee,Taiwan
+1165,94,Yellow Brick Coffee,United States
+1166,95,CafeTaster,Taiwan
+1167,94,Dory Coffee Roasters,Taiwan
+1168,93,Chousin Coffee Collection,Taiwan
+1169,92,Chousin Coffee Collection,Taiwan
+1173,95,Temple Coffee,United States
+1178,93,Temple Coffee,United States
+1179,93,Speckled Ax,United States
+1180,94,Press Coffee,United States
+1181,93,Press Coffee,United States
+1182,93,Taster's Coffee,Taiwan
+1188,94,Mostra Coffee,United States
+1192,92,Golin Coffee Roasters,Taiwan
+1194,93,Golin Coffee Roasters,Taiwan
+1196,93,AKA Coffee Roasters,Taiwan
+1197,93,Bassline Coffee,United States
+1198,93,Blanchard's Coffee,United States
+1199,93,ILSE Coffee Roasters,United States
+1200,93,Rest Coffee Roasters,New Taiwan
+1201,93,Swelter Coffee,United States
+1202,92,Sightseer Coffee,United States
+1203,95,Fumi Coffee Company,Taiwan
+1204,95,Cozy House Coffee,Taiwan
+1205,95,Magnolia Coffee,United States
+1206,92,Bargain Cafe,Taiwan
+1207,92,Rubasse Coffee Roaster,Taiwan
+1208,90,Chiming Coffee,Taiwan
+1209,93,Chiming Coffee,Taiwan
+1210,95,JYL Cafe,Taiwan
+1211,92,Balmy Day Coffee Office,Taiwan
+1212,93,Dr. Young Cafe,Taiwan
+1215,91,El Gran Cafe,Guatemala
+1217,95,Euphora Coffee,Taiwan
+1220,95,San Francisco Bay Coffee Company,United States
+1221,94,Durango Coffee Companuy,United States
+1223,92,Chromatic Coffee,United States
+1224,92,GK Coffee,Taiwan
+1226,91,Tico Coffee Roasters,United States
+1228,92,Samlin Coffee,Taiwan
+1230,93,El Gran Cafe,Guatemala
+1233,94,El Gran Cafe,Guatemala
