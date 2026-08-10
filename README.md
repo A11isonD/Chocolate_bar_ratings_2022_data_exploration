@@ -4,7 +4,7 @@
 
 # Chocolate Bar and Coffee Analytics
 
-This project explores rating trends for various chocolate bars based on their ingredients, percent cocoa, flavor profiles, bean origin, and manufacturer. Since there is some overlap in growing regions for coffee and cocoa, I also included an analysis of a coffee ratings dataset. The project overall demonstrates the processes of data cleaning, exploratory data analysis, and visualization in Python, as well as database creation and queries with SQL.    
+This project explores rating trends for various chocolate bars based on their ingredients, percent cocoa, flavor profiles, bean origin, and manufacturer. Since there is some overlap in growing regions for coffee and cocoa, I also included an analysis of a coffee ratings dataset, as well as an exploration of countries that produce both. The project overall demonstrates the processes of data cleaning, exploratory data analysis, and visualization in Python, and database creation and queries with SQL.    
 
 
 ## Data Sources
@@ -16,21 +16,28 @@ https://www.kaggle.com/datasets/schmoyote/coffee-reviews-dataset?select=simplifi
 
 ## AI Statement
 
-Bing search in Microsoft Edge returns AI-generated content (in addition to traditional search results), which was used at times to aid in learning and problem-solving. I used AI as a starting point to get an overview of an issue before delving into the traditional search results, which is where I obtained the majority of my information.  AI helped to clarify complex concepts and identify and explain errors, but decisions and content in this project ultimately remain my own.   
+Copilot in Microsoft Edge returns AI-generated content (in addition to traditional search results), which was used to aid in learning and problem-solving. Claude AI was also used during the last several days of project completion. AI served as a starting point to get an overview of an issue before delving into the traditional search results, which is where I obtained the majority of my information.  AI also helped to clarify complex concepts, assist in logical thought and problem solving, and identify and explain errors. Any results obtained through AI were checked against existing information in class content and on trusted websites.     
 
 
 ## Usage
 
-1. Clone this repository.    
+1. Clone this repository.   
 
-2. *VENV INSTRUCTIONS GO HERE*    
+2. Set up your virtual environment.       
 
-3. Install the required Python packages:      
-    pip install -r requirements.txt        
+3. Install the required Python packages:          
+    pip install -r requirements.txt            
 
-4. Open and run chocolate_bar_ratings_exploration.ipynb in a Jupyter notebook.    
+4. Open and run the following Jupyter notebook files in this order:     
+    a.  ../Notebooks/chocolate_bar_ratings_exploration.ipynb    
+    b.  ../Notebooks/chocolate_bar_ratings_plots.ipynb
+    c.  ../Notebooks/simplified_coffee_eda.ipynb
+    d.  ../Notebooks/chocolate_coffee_ratings.ipynb    
 
-5. Open and run chocolate_bar_ratings_plots.ipynb in a Jupyter notebook.  
+5. When opening the first notebook in step 4, click the kernel picker (top right of the notebook) and choose venv as the kernel - it will be under Python Environments.
+
+6. Deactivate the virtual environment when done working.
+ 
 
 
 ## Example Output
@@ -52,4 +59,7 @@ One insight from this analysis indicates that most of the chocolate bars with 60
 
  - [Code:You](https://codelouisville.org/)
  - [readme.so](www.readme.so)
+ - [www.lucidchart.com]
+ - [www.smartdraw.com]
+ - [https://tophat.com]
  
