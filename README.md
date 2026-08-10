@@ -30,9 +30,9 @@ Copilot in Microsoft Edge returns AI-generated content (in addition to tradition
 
 4. Open and run the following Jupyter notebook files in this order:     
     a.  ../Notebooks/chocolate_bar_ratings_exploration.ipynb    
-    b.  ../Notebooks/chocolate_bar_ratings_plots.ipynb
-    c.  ../Notebooks/simplified_coffee_eda.ipynb
-    d.  ../Notebooks/chocolate_coffee_ratings.ipynb    
+    b.  ../Notebooks/chocolate_bar_ratings_plots.ipynb    
+    c.  ../Notebooks/simplified_coffee_eda.ipynb    
+    d.  ../Notebooks/chocolate_coffee_ratings.ipynb         
 
 5. When opening the first notebook in step 4, click the kernel picker (top right of the notebook) and choose venv as the kernel - it will be under Python Environments.
 
@@ -59,7 +59,7 @@ One insight from this analysis indicates that most of the chocolate bars with 60
 
  - [Code:You](https://codelouisville.org/)
  - [readme.so](www.readme.so)
- - [www.lucidchart.com]
- - [www.smartdraw.com]
- - [https://tophat.com]
+ - [Lucidchart](www.lucidchart.com)
+ - [smartdraw](www.smartdraw.com)
+ - [TOP HAT](https://tophat.com)
  
