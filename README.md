@@ -23,10 +23,27 @@ Copilot in Microsoft Edge returns AI-generated content (in addition to tradition
 
 1. Clone this repository.   
 
-2. Set up your virtual environment.       
+2. Set up your virtual environment       
+    a. Create the virtual environment    
+    ```    
+    # windows    
+    python -m venv venv    
+    # mac / linux    
+    python3 -m venv venv
+    ```    
+    b. Activate the virtual environment    
+    ```    
+    # windows    
+    source venv/Scripts/activate        
+    # mac / linux    
+    source venv/bin/activate    
+    ```    
+    c. You will know it was successful when you see (venv) at the start of your terminal prompt.    
 
-3. Install the required Python packages:          
-    pip install -r requirements.txt            
+3. Install the required Python packages:              
+    ```
+    pip install -r requirements.txt    
+    ```            
 
 4. Open and run the following Jupyter notebook files in this order:     
     a.  ../Notebooks/chocolate_bar_ratings_exploration.ipynb    
@@ -34,9 +51,13 @@ Copilot in Microsoft Edge returns AI-generated content (in addition to tradition
     c.  ../Notebooks/simplified_coffee_eda.ipynb    
     d.  ../Notebooks/chocolate_coffee_ratings.ipynb         
 
-5. When opening the first notebook in step 4, click the kernel picker (top right of the notebook) and choose venv as the kernel - it will be under Python Environments.
+5. When opening the first notebook in step 4, click the kernel picker (top right of the notebook) and choose venv as the kernel - it will be under Python Environments.    
 
-6. Deactivate the virtual environment when done working.
+6. Deactivate the virtual environment when done working.    
+```
+# windows / mac /linux    
+deactivate    
+```
  
 
 
