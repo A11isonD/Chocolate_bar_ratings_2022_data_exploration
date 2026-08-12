@@ -9,7 +9,7 @@ This project explores rating trends for various chocolate bars based on their in
 Some of the main questions explored are:    
 1. Which countries grow the most cocoa and which ones produce the most chocolate?    
 2. Does cocoa percentage influence the chocolate bar rating?    
-3. 
+3. Is there a relationship between cocoa percentage and the country of origin?
 
 
 ## Data Sources
@@ -69,10 +69,11 @@ deactivate
 ## Findings, Observations, and Conclusions    
 
 1. Most of the chocolate bars with 60-80% cocoa had ratings between 2.5 - 4.0.    
-2. Chocolate bar ratings were not evenly distributed; most bars were rated between 3.0-3.5 than any other value. 
+2. Chocolate bar ratings were not evenly distributed; more bars were rated between 3.0-3.5 than any other value. 
 3. Venezuela and Peru were the top two cocoa producing countries.
 4. Ecuador was in the top 10 countries for both cocoa production and chocolate manufacturing.
 5. The United States was the largest producer of the chocolate bars included in this review.
+6. There was no relationship between the cocoa percentage and country of origin.
   
 
 ## Authors
