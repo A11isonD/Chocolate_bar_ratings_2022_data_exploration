@@ -4,7 +4,12 @@
 
 # Chocolate Bar and Coffee Analytics
 
-This project explores rating trends for various chocolate bars based on their ingredients, percent cocoa, flavor profiles, bean origin, and manufacturer. Since there is some overlap in growing regions for coffee and cocoa, I also included an analysis of a coffee ratings dataset, as well as an exploration of countries that produce both. The project overall demonstrates the processes of data cleaning, exploratory data analysis, and visualization in Python, and database creation and queries with SQL.    
+This project explores rating trends for various chocolate bars based on their ingredients, percent cocoa, flavor profiles, bean origin, and manufacturer. Since there is some overlap in growing regions for coffee and cocoa, I also included an analysis of a coffee ratings dataset, as well as an exploration of countries that produce both. The project overall demonstrates the processes of data cleaning, exploratory data analysis, and visualization in Python, and database creation and queries with SQL.   
+
+Some of the main questions explored are:    
+1. Which countries grow the most cocoa and which ones produce the most chocolate?    
+2. Does cocoa percentage influence the chocolate bar rating?    
+3. 
 
 
 ## Data Sources
@@ -61,10 +66,14 @@ deactivate
  
 
 
-## Example Output
+## Findings, Observations, and Conclusions    
 
-One insight from this analysis indicates that most of the chocolate bars with 60-80% cocoa had ratings between 2.5 - 4.0.
-
+1. Most of the chocolate bars with 60-80% cocoa had ratings between 2.5 - 4.0.    
+2. Chocolate bar ratings were not evenly distributed; most bars were rated between 3.0-3.5 than any other value. 
+3. Venezuela and Peru were the top two cocoa producing countries.
+4. Ecuador was in the top 10 countries for both cocoa production and chocolate manufacturing.
+5. The United States was the largest producer of the chocolate bars included in this review.
+  
 
 ## Authors
 
